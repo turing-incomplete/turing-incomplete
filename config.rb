@@ -2,6 +2,8 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
+set :slim, layout_engine: :slim
+
 activate :blog do |blog|
   blog.permalink = "{episode}"
   blog.sources = "episodes/{episode}.html"
