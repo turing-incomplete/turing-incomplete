@@ -15,7 +15,7 @@ h1 = current_page.data.title
     - if prev_page
       p = link_to 'Previous page', prev_page
 
-- page_articles.each_with_index do |article, i|
+- page_articles.each do |article|
   h2
     = link_to article.title, article
     span = article.date.strftime('%b %e')
