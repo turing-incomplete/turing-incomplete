@@ -15,12 +15,13 @@ h1 = current_page.data.title
     - if prev_page
       p = link_to 'Previous page', prev_page
 
-  - page_articles.each_with_index do |article, i|
-    h2 = link_to article.title, article
-      span = article.date.strftime('%b %e')
+- page_articles.each_with_index do |article, i|
+  h2
+    = link_to article.title, article
+    span = article.date.strftime('%b %e')
 
-    = article.body
+  = article.body
 
-  - if paginate
-    - if next_page
-      p = link_to 'Next page', next_page
+- if paginate
+  - if next_page
+    p = link_to 'Next page', next_page
