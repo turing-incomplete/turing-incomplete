@@ -1,27 +1,11 @@
 ---
 title: Turing-Incomplete
-pageable: true
-per_page: 10
 ---
 
-h1 = current_page.data.title
-
-- if paginate && num_pages > 1
-  p Page
-    = page_number
-    span of
-    = num_pages
-
-    - if prev_page
-      p = link_to 'Previous page', prev_page
-
-- page_articles.each do |article|
-  h2
-    = link_to article.title, article
-    span = article.date.strftime('%b %e')
-
-  = article.body
-
-- if paginate
-  - if next_page
-    p = link_to 'Next page', next_page
+- page_articles.reverse_each do |article|
+  h2 = link_to article.title, article
+  h3 = article.date.strftime('%b %e')
+  - if article.tags.any?
+    ul
+    - article.tags.each do |tag|
+      li = tag

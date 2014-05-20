@@ -5,7 +5,6 @@ set :images_dir, 'images'
 set :slim, layout_engine: :slim
 
 activate :blog do |blog|
-  blog.paginate = true
   blog.permalink = "{episode}"
   blog.sources = "episodes/{episode}.html"
 end
