@@ -1,0 +1,10 @@
+---
+episode: 1
+title: TDD is Dead?
+date: 2014-05-05
+tags: javascript, ruby, tdd
+mp3: http://recordings.turing.cool/1.mp3
+explicit: false
+---
+
+Probably not...

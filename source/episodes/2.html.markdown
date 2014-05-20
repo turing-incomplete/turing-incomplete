@@ -1,0 +1,10 @@
+---
+episode: 2
+title: TDD is Alive again
+date: 2014-05-12
+tags: community, javascript, ruby, tdd
+mp3: http://recordings.turing.cool/2.mp3
+explicit: false
+---
+
+Yay!
