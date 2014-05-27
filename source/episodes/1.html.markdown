@@ -1,10 +1,10 @@
 ---
 episode: 1
-title: TDD is Dead?
+title: But Actually the Second
 date: 2014-05-05
 tags: javascript, ruby, tdd
 mp3: https://dl.dropboxusercontent.com/u/277640/Turing-Incomplete%201.mp3
 explicit: false
 ---
 
-Probably not...
+...and probably the most awkward
