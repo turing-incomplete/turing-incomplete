@@ -39,17 +39,18 @@ xml.rss(
     episodes.each do |episode|
       xml.item do
         metadata = episode.data
+        text = strip_tags(episode.body)
 
         xml.title "Turing-Incomplete #{metadata.episode} - #{metadata.title}"
         xml.link "#{url}/#{episode.url}"
-        xml.description episode.body
+        xml.description text
         xml.pubDate episode.date.strftime("%a, %d %b %Y %H:%M:%S %z")
         xml.guid "#{url}/#{episode.url}", isPermaLink: "true"
         xml.media :content, url: metadata.mp3, type: "audio/mpeg", fileSize: "12345678"
         xml.enclosure url: metadata.mp3, type: "audio/mpeg", length: "1234"
 
-        xml.itunes :subtitle, episode.body
-        xml.itunes :summary, episode.body
+        xml.itunes :subtitle, text
+        xml.itunes :summary, text
         xml.itunes :author,  "Turing-Incomplete"
         xml.itunes :explicit,  "no"
         # xml.itunes :duration,  "9981" # seconds
