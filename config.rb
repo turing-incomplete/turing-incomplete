@@ -13,6 +13,7 @@ end
 
 configure :build do
   activate :asset_hash, exts: %w[css js]
+  activate :directory_indexes
   activate :minify_css
   activate :minify_javascript
   activate :relative_assets
