@@ -12,7 +12,7 @@ activate :blog do |blog|
 end
 
 configure :build do
-  activate :asset_hash
+  activate :asset_hash, exts: %w[css js]
   activate :minify_css
   activate :minify_javascript
   activate :relative_assets
