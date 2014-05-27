@@ -4,6 +4,8 @@ set :images_dir, 'images'
 
 set :slim, layout_engine: :slim
 
+page '/podcast.xml', layout: false
+
 activate :blog do |blog|
   blog.permalink = "{episode}"
   blog.sources = "episodes/{episode}.html"

@@ -3,7 +3,7 @@ episode: 1
 title: TDD is Dead?
 date: 2014-05-05
 tags: javascript, ruby, tdd
-mp3: http://recordings.turing.cool/1.mp3
+mp3: https://dl.dropboxusercontent.com/u/277640/Turing-Incomplete%201.mp3
 explicit: false
 ---
 
