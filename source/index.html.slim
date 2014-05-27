@@ -2,10 +2,12 @@
 title: Turing-Incomplete
 ---
 
-- page_articles.reverse_each do |article|
-  h2 = link_to article.title, article
-  h3 = article.date.strftime('%b %e')
-  - if article.tags.any?
+- episodes = blog.articles
+
+- episodes.each do |episode|
+  h2 = link_to episode.title, episode
+  h3 = episode.date.strftime('%b %e')
+  - if episode.tags.any?
     ul
-    - article.tags.each do |tag|
+    - episode.tags.each do |tag|
       li = tag
