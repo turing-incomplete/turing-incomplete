@@ -41,7 +41,7 @@ xml.rss(
         metadata = episode.data
         text = strip_tags(episode.body)
 
-        xml.title "Turing-Incomplete #{metadata.episode} - #{metadata.title}"
+        xml.title "#{metadata.episode}: #{metadata.title}"
         xml.link "#{url}/#{episode.url}"
         xml.description text
         xml.pubDate episode.date.strftime("%a, %d %b %Y %H:%M:%S %z")
