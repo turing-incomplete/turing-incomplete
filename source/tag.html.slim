@@ -2,12 +2,8 @@
 title: Turing-Incomplete
 ---
 
-- episodes = blog.articles
+- episodes = articles
 
 - episodes.each do |episode|
   h2 = link_to episode.title, episode
   h3 = episode.date.strftime('%b %e')
-  - if episode.tags.any?
-    ul
-    - episode.tags.each do |tag|
-      li = link_to tag, tag_path(tag)
