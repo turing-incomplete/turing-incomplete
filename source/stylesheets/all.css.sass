@@ -1,0 +1,173 @@
+@import compass/css3/transform
+@import fittext
+@import normalize
+@import url(http://fonts.googleapis.com/css?family=Amatic+SC)
+
+$black: #000
+$blue: #1aa1db
+$dark-gray: #333
+$green: #23dd33
+$light-yellow: #fefb82
+$orange: #fd743b
+$red: #fc4620
+$white: #fff
+
+$body-background: $white
+$border: $black
+$link: $blue
+$mp3: $green
+$tag: $red
+$text-background: $white
+$text: $black
+$wrapper-background: $light-yellow
+
+body
+  background: $body-background
+  font-size: 14pt
+  font-family: "Lucida Grande", Tahoma, Verdana, "Helvetica Neue", Helvetica, sans-serif
+
+#wrapper
+  background: $wrapper-background
+
+h1, h2
+  font-family: "Amatic SC"
+  margin: 0
+  text-align: center
+  width: 100%
+
+h1
+  @include fittext($min-media: 320px, $max-media: 960px, $min-font-size: 2.5em, $max-font-size: 7.5em, $media-increment: 12, $font-increment: 0.1)
+  text-transform: uppercase
+
+  a
+    color: $text
+
+h2
+  @include fittext($min-media: 320px, $max-media: 960px, $min-font-size: 1.25em, $max-font-size: 3.75em, $media-increment: 24, $font-increment: 0.1)
+
+a
+  color: $link
+  text-decoration: none
+
+.hosts
+  font-family: "Amatic SC"
+  font-size: 1em
+  font-weight: bold
+  list-style-type: none
+  padding: 0
+  text-align: center
+
+  li
+    display: inline
+
+    a
+      border: 3px solid $border
+      color: $white
+      display: inline-block
+      padding: 0.25em
+      margin: 0.25em
+      width: 3em
+
+.justin
+  @include rotate(-1deg)
+  background: $orange
+
+.jearvon
+  @include rotate(2deg)
+  background: $blue
+
+.pam
+  @include rotate(-2deg)
+  background: $red
+
+.len
+  @include rotate(1deg)
+  background: $green
+
+.links
+  display: block
+  list-style-type: none
+  margin: 1em 0
+  padding: 0
+  text-align: center
+
+  li
+    display: inline
+
+    a
+      background: $black
+      color: $white
+      padding: 0.5em
+      margin: 0.25em
+
+.row
+  margin: 0
+  padding: 0
+
+  &:before, &:after
+    content: " "
+    display: table
+
+  &:after
+    clear: both
+
+.episode
+  background: $text-background
+  margin-bottom: 1em
+  padding: 1em
+
+  h3
+    margin: 0
+    padding: 0
+
+  .date
+    font-weight: lighter
+    float: left
+
+  .mp3
+    float: right
+    margin: 0
+
+    a
+      background: $mp3
+      color: $white
+      padding: 0.25em
+      margin: 0.25em
+
+  .tags
+    list-style-type: none
+    text-align: right
+    white-space: normal
+
+    li
+      display: inline-block
+
+      a
+        background: $tag
+        color: $white
+        display: inline-block
+        padding: 0.25em
+        margin: 0.25em
+
+.body
+  clear: both
+
+.footer
+  padding: 5em
+  text-align: center
+
+@media all and (min-width: 961px)
+  #wrapper, #content
+    margin: 0 auto
+
+  #wrapper
+    max-width: 944px
+
+  #content
+    max-width: 912px
+
+  .hosts
+    font-size: 2em
+
+  .episode
+    border: 3px solid $border
