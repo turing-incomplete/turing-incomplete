@@ -1,7 +1,7 @@
 url = "http://turing.cool"
 
 cover_art = "#{url}/cover-art.png"
-description = "Four awesome people talk about awesome things."
+description = "A Podcast About Programming"
 episodes = blog.articles
 keywords = episodes.map(&:tags).flatten.join(',')
 
