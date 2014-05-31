@@ -1,4 +1,4 @@
-url = "http://turing.cool.s3-website-us-east-1.amazonaws.com"
+url = "http://turing.cool"
 
 cover_art = "#{url}/cover-art.png"
 description = "Four awesome people talk about awesome things."
