@@ -22,6 +22,10 @@ configure :build do
   activate :relative_assets
 end
 
+activate :google_analytics do |ga|
+  ga.tracking_id = 'UA-51500963-1'
+end
+
 helpers do
   def title
     [
