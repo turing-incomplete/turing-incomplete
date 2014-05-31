@@ -1,7 +1,7 @@
 ---
 episode: 3
 title: Origin Stories
-date: 2014-05-19
+date: 2014-05-20
 tags: TODO
 mp3: TODO
 explicit: false

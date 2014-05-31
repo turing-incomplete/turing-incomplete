@@ -1,7 +1,7 @@
 ---
 episode: 2
 title: Puppies, Hiring, & N3RD Street
-date: 2014-05-12
+date: 2014-05-13
 tags: community, javascript, ruby, tdd
 mp3: https://dl.dropboxusercontent.com/u/277640/Turing-Incomplete-Episode-2.mp3
 explicit: false
