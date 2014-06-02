@@ -1,11 +1,29 @@
 doctype html
 html
   head
+    link rel="apple-touch-icon-precomposed" href="/icon.png"
+    link rel="icon" href="/icon.ico"
+    link rel="icon" type="image/png" href="/icon.png"
     meta charset="utf-8"
     meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"
-    title = current_page.data.title || "Turing-Incomplete"
+    meta name="viewport" content="width=device-width"
+    title = title
     = stylesheet_link_tag :all
 
   body
-    h1 = current_page.data.title
-    = yield
+    #wrapper
+      h1 = link_to "Turing-Incomplete", "/"
+      = partial :header if current_page.url == "/"
+
+      .row
+        ul.links
+          li = link_to "iTunes", "#TODO", target: '_blank'
+          li = link_to "XML", "/podcast.xml", target: '_blank'
+          li = link_to "GitHub", "https://github.com/justincampbell/turing-incomplete", target: '_blank'
+
+      #content
+        = yield
+
+      .footer
+
+    = google_analytics_universal_tag
