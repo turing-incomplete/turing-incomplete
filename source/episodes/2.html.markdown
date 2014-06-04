@@ -2,7 +2,7 @@
 episode: 2
 title: TDD is Alive again
 date: 2014-05-12
-tags: community, javascript, ruby, tdd
+tags: philly, community, javascript, ruby, tdd
 mp3: http://episodes.turing.cool/Turing-Incomplete-2.mp3
 explicit: false
 file_size: 26647151

@@ -2,7 +2,7 @@
 episode: 3
 title: Origin Stories
 date: 2014-05-20
-tags: philly, developers, learning, community
+tags: philly, learning, community
 mp3: http://episodes.turing.cool/Turing-Incomplete-3.mp3
 explicit: false
 file_size: 30001781
