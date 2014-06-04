@@ -11,8 +11,6 @@ seconds: 2171
 
 Pam tells us about India, we discuss the developer job market, and debate TDD a bit more.
 
-#### Show Notes
-
 * [If it's easier to raise than to hire, it might be a bubble.](https://twitter.com/blader/status/466104655693352961)
 * [N3RD ST](http://technical.ly/philly/2012/06/20/n3rd-street-old-city-northern-liberties/)
 * [Indy Hall](http://indyhall.org)
