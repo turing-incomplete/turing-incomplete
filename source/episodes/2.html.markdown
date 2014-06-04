@@ -5,6 +5,28 @@ date: 2014-05-12
 tags: community, javascript, ruby, tdd
 mp3: https://dl.dropboxusercontent.com/u/277640/Turing-Incomplete-Episode-2.mp3
 explicit: false
+file_size: 26647151
+seconds: 2171
 ---
 
-Yay!
+<div class="details">
+  Pam tells us about India and we debate TDD a bit more.
+</div>
+
+<h4>Show Notes:</h4>
+
+<ul>
+  <li>
+    <a href="https://twitter.com/blader/status/466104655693352961">If it's easier to raise than to hire, it might be a bubble.</a>
+  </li>
+  <li>
+    <a href="http://technical.ly/philly/2012/06/20/n3rd-street-old-city-northern-liberties/">N3rd St</a>
+  </li>
+  <li>
+    <a href="http://indyhall.org">Indy Hall</a>
+  </li>
+  <li>
+    <a href="http://api.rubyonrails.org/classes/ActiveRecord/Calculations.html">Active Record Calculations</a>
+  </li>
+</ul>
+
