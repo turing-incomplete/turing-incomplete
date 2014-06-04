@@ -9,7 +9,7 @@ file_size: 26647151
 seconds: 2171
 ---
 
-Pam tells us about India, we discuss the developer job market  and debate TDD a bit more.
+Pam tells us about India, we discuss the developer job market, and debate TDD a bit more.
 
 #### Show Notes
 
