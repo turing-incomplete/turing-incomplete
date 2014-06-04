@@ -45,6 +45,7 @@ xml.rss(
         xml.title "#{metadata.episode}: #{metadata.title}"
         xml.link "#{url}/#{episode.url}"
         xml.description text
+        xml.tag! "content:encoded", episode.body
         xml.pubDate episode.date.strftime("%a, %d %b %Y %H:%M:%S %z")
         xml.guid "#{url}/#{episode.url}", isPermaLink: "true"
         xml.media :content, url: metadata.mp3, type: "audio/mpeg", fileSize: metadata.file_size
