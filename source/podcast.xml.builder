@@ -55,7 +55,7 @@ xml.rss(
         xml.itunes :summary, text
         xml.itunes :author,  "Turing-Incomplete"
         xml.itunes :explicit,  "no"
-        # xml.itunes :duration,  "9981" # seconds
+        xml.itunes :duration,  metadata.seconds
         xml.itunes :keywords, episode.tags.join(',')
         xml.itunes :image, href: cover_art
       end
