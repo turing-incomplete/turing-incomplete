@@ -19,6 +19,7 @@ xml.rss(
     xml.language "en-us"
     xml.link "#{url}/podcast.xml"
 
+    xml.itunes :author, "Turing-Incomplete"
     xml.itunes :explicit, "no"
     xml.itunes :image, href: cover_art
     xml.itunes :summary, description
