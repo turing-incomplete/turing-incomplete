@@ -3,42 +3,20 @@ episode: 3
 title: Origin Stories
 date: 2014-05-20
 tags: philly, developers, learning, community
-mp3: https://dl.dropboxusercontent.com/u/277640/Turing-Incomplete-Episode-3.mp3
+mp3: https://episodes.turing.cool/Turing-Incomplete-Episode-1.mp3
 explicit: false
 file_size: 30001781
 seconds: 2347
 ---
-<div class="row">
-  People passionate about their craft usually have an origin story.  We'll explore ours today.
-</div>
+People passionate about their craft usually have an origin story.  We'll explore ours today.
 
-<h4>Show Notes</h4>
+* [Code Rush](https://www.devexpress.com/Products/CodeRush/)
+* [Dustin Campbell](http://twitter.com/dcampbell)
+* [Code Smells](http://en.wikipedia.org/wiki/Code_smell)
 
-<ul>
-  <li>
-    <a href="https://www.devexpress.com/Products/CodeRush/">Code Rush</a>
-  </li>
-  <li>
-    <a href="http://twitter.com/dcampbell">Dustin Campbell</a>
-  </li>
-  <li>
-    <a href="http://en.wikipedia.org/wiki/Code_smell">Code Smells</a>
-  </li>
-</ul>
+#### Picks
 
-<h4>Picks</h4>
-
-<ul>
-  <li>
-    <a href="http://www.symboliamag.com/">Symbolia</a>
-  </li>
-  <li>
-    <a href="http://marvel.com/comics/unlimited">Marvel Unlimited</a>
-  </li>
-  <li>
-    <a href="http://gitchain.org/">Git Chain</a>
-  </li>
-  <li>
-    <a href="http://golang-book.com">An Introduction to Programming in Go</a>
-  </li>
-</ul>
+* [Symbolia](http://www.symboliamag.com/)
+* [Marvel Unlimited](http://marvel.com/comics/unlimited)
+* [Git Chain](http://gitchain.org)
+* [An Introduction to Programming in Go](http://golang-book.com)
