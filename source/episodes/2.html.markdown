@@ -2,9 +2,16 @@
 episode: 2
 title: TDD is Alive again
 date: 2014-05-12
-tags: community, javascript, ruby, tdd
-mp3: https://dl.dropboxusercontent.com/u/277640/Turing-Incomplete-Episode-2.mp3
+tags: philly, community, javascript, ruby, tdd
+mp3: http://episodes.turing.cool/Turing-Incomplete-2.mp3
 explicit: false
+file_size: 26647151
+seconds: 2171
 ---
 
-Yay!
+Pam tells us about India, we discuss the developer job market, and debate TDD a bit more.
+
+* [If it's easier to raise than to hire, it might be a bubble.](https://twitter.com/blader/status/466104655693352961)
+* [N3RD ST](http://technical.ly/philly/2012/06/20/n3rd-street-old-city-northern-liberties/)
+* [Indy Hall](http://indyhall.org)
+* [Active Record Calculations](http://api.rubyonrails.org/classes/ActiveRecord/Calculations.html)

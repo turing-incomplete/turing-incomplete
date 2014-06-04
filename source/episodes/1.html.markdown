@@ -3,8 +3,12 @@ episode: 1
 title: TDD is Dead?
 date: 2014-05-05
 tags: javascript, ruby, tdd
-mp3: https://dl.dropboxusercontent.com/u/277640/Turing-Incomplete%201.mp3
+mp3: http://episodes.turing.cool/Turing-Incomplete-1.mp3
 explicit: false
+file_size: 33906530
+seconds: 2119
 ---
 
-Probably not...
+We mourn the death of TDD.
+
+ * [TDD is Dead](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)

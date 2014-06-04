@@ -19,6 +19,7 @@ xml.rss(
     xml.language "en-us"
     xml.link "#{url}/podcast.xml"
 
+    xml.itunes :author, "Turing-Incomplete"
     xml.itunes :explicit, "no"
     xml.itunes :image, href: cover_art
     xml.itunes :summary, description
@@ -46,8 +47,8 @@ xml.rss(
         xml.description text
         xml.pubDate episode.date.strftime("%a, %d %b %Y %H:%M:%S %z")
         xml.guid "#{url}/#{episode.url}", isPermaLink: "true"
-        xml.media :content, url: metadata.mp3, type: "audio/mpeg"#, fileSize: "12345678"
-        xml.enclosure url: metadata.mp3, type: "audio/mpeg"#, length: "1234"
+        xml.media :content, url: metadata.mp3, type: "audio/mpeg", fileSize: metadata.file_size
+        xml.enclosure url: metadata.mp3, type: "audio/mpeg", length: metadata.seconds
 
         xml.itunes :subtitle, text
         xml.itunes :summary, text
