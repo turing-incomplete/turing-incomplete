@@ -50,7 +50,7 @@ xml.rss(
         xml.pubDate episode.date.strftime("%a, %d %b %Y %H:%M:%S %z")
         xml.guid "#{url}/#{episode.url}", isPermaLink: "true"
         xml.media :content, url: metadata.mp3, type: "audio/mpeg", fileSize: metadata.file_size
-        xml.enclosure url: metadata.mp3, type: "audio/mpeg", length: metadata.seconds
+        xml.enclosure url: metadata.mp3, type: "audio/mpeg", length: metadata.file_size
 
         xml.itunes :subtitle, text
         xml.itunes :summary, text
