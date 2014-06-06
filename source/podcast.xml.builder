@@ -1,10 +1,3 @@
-url = "http://turing.cool"
-
-cover_art = "#{url}/cover-art.png"
-description = "A Podcast About Programming"
-episodes = blog.articles
-keywords = episodes.map(&:tags).flatten.join(',')
-
 xml.instruct!
 xml.rss(
   'xmlns:atom' => "http://www.w3.org/2005/Atom",
@@ -14,51 +7,51 @@ xml.rss(
   'version' => "2.0"
 ) do
   xml.channel do
-    xml.title "Turing-Incomplete"
-    xml.description description
-    xml.copyright "2014-#{Time.now.year} Turing-Incomplete"
+    xml.title podcast_name
+    xml.description podcast_description
+    xml.copyright "2014-#{Time.now.year} #{podcast_name}"
     xml.language "en-us"
-    xml.link "#{url}/podcast.xml"
+    xml.link feedburner_url
 
-    xml.itunes :author, "Turing-Incomplete"
+    xml.itunes :author, podcast_name
     xml.itunes :explicit, "no"
-    xml.itunes :image, href: cover_art
-    xml.itunes :summary, description
+    xml.itunes :image, href: cover_art_url
+    xml.itunes :summary, podcast_description
 
     xml.itunes :category, text: "Technology" do
       xml.itunes :category, text: "Software How-To"
       xml.itunes :category, text: "Tech News"
     end
 
-    xml.itunes :keywords, keywords
+    xml.itunes :keywords, tags.join(',')
 
     xml.image do
-      xml.link "#{url}/podcast.xml"
-      xml.title "Turing-Incomplete"
-      xml.url cover_art
+      xml.link feedburner_url
+      xml.title podcast_name
+      xml.url cover_art_url
     end
 
     episodes.each do |episode|
       xml.item do
         metadata = episode.data
-        text = strip_tags(episode.body)
+        episode_text = strip_tags(episode.body)
 
         xml.title "#{metadata.episode}: #{metadata.title}"
-        xml.link "#{url}/#{episode.url}"
-        xml.description text
+        xml.link url(episode.url)
+        xml.description episode_text
         xml.tag! "content:encoded", episode.body
         xml.pubDate episode.date.strftime("%a, %d %b %Y %H:%M:%S %z")
-        xml.guid "#{url}/#{episode.url}", isPermaLink: "true"
+        xml.guid url(episode.url), isPermaLink: "true"
         xml.media :content, url: metadata.mp3, type: "audio/mpeg", fileSize: metadata.file_size
         xml.enclosure url: metadata.mp3, type: "audio/mpeg", length: metadata.file_size
 
-        xml.itunes :subtitle, text
-        xml.itunes :summary, text
-        xml.itunes :author,  "Turing-Incomplete"
-        xml.itunes :explicit,  "no"
-        xml.itunes :duration,  metadata.seconds
+        xml.itunes :subtitle, episode_text
+        xml.itunes :summary, episode_text
+        xml.itunes :author, podcast_name
+        xml.itunes :explicit, "no"
+        xml.itunes :duration, metadata.seconds
         xml.itunes :keywords, episode.tags.join(',')
-        xml.itunes :image, href: cover_art
+        xml.itunes :image, href: cover_art_url
       end
     end
   end

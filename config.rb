@@ -27,10 +27,52 @@ activate :google_analytics do |ga|
 end
 
 helpers do
+  def cover_art_url
+    url("cover-art.png")
+  end
+
+  def episodes
+    blog.articles
+  end
+
+  def feedburner_url
+    "http://feeds.feedburner.com/Turing-Incomplete"
+  end
+
+  def github_url
+    "https://github.com/turing-incomplete/turing-incomplete"
+  end
+
+  def itunes_url
+    "#TODO"
+  end
+
+  def podcast_name
+    "Turing-Incomplete"
+  end
+
+  def podcast_description
+    "A Podcast About Programming"
+  end
+
+  def tags
+    blog.tags.keys.sort
+  end
+
   def title
     [
-      "Turing-Incomplete",
+      podcast_name,
       current_page.data.title || yield_content(:title)
     ].compact.join(" - ")
+  end
+
+  def twitter_url
+    "https://twitter.com/turingcool"
+  end
+
+  def url(path = "")
+    path = path.gsub(/^\//, '')
+
+    "http://turing.cool/#{path}"
   end
 end
