@@ -17,8 +17,8 @@ html
 
       .row
         ul.links
-          li = link_to "iTunes", "#TODO", target: '_blank'
-          li = link_to "XML", "/podcast.xml", target: '_blank'
+          li = link_to "iTunes", "#TODO", onClick: 'alert("soon");', target: '_blank'
+          li = link_to "XML", "http://feeds.feedburner.com/Turing-Incomplete", target: '_blank'
           li = link_to "GitHub", "https://github.com/turing-incomplete/turing-incomplete", target: '_blank'
 
       #content
