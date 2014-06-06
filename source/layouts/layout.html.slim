@@ -17,18 +17,19 @@ html
 
   body
     #wrapper
-      h1 = link_to "Turing-Incomplete", "/"
+      h1 = link_to podcast_name, "/"
       = partial :header if current_page.url == "/"
 
       .row
         ul.links
-          li = link_to "iTunes", "#TODO", onClick: 'alert("soon");', target: '_blank'
-          li = link_to "XML", "http://feeds.feedburner.com/Turing-Incomplete", target: '_blank'
-          li = link_to "GitHub", "https://github.com/turing-incomplete/turing-incomplete", target: '_blank'
+          li = link_to "iTunes", itunes_url, onClick: 'alert("soon");', target: '_blank'
+          li = link_to "XML", feedburner_url, target: '_blank'
+          li = link_to "Twitter", twitter_url, target: '_blank'
 
       #content
         = yield
 
       .footer
+        = link_to "GitHub", github_url, target: '_blank'
 
     = google_analytics_universal_tag
