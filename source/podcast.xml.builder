@@ -13,9 +13,15 @@ xml.rss(
     xml.language "en-us"
     xml.link feedburner_url
 
+    xml.image do
+      xml.link feedburner_url
+      xml.title podcast_name
+      xml.url cover_art_url(:medium)
+    end
+
     xml.itunes :author, podcast_name
     xml.itunes :explicit, "no"
-    xml.itunes :image, href: cover_art_url
+    xml.itunes :image, href: cover_art_url(:large)
     xml.itunes :summary, podcast_description
 
     xml.itunes :category, text: "Technology" do
@@ -24,12 +30,6 @@ xml.rss(
     end
 
     xml.itunes :keywords, tags.join(',')
-
-    xml.image do
-      xml.link feedburner_url
-      xml.title podcast_name
-      xml.url cover_art_url
-    end
 
     episodes.each do |episode|
       xml.item do
@@ -51,7 +51,7 @@ xml.rss(
         xml.itunes :explicit, "no"
         xml.itunes :duration, metadata.seconds
         xml.itunes :keywords, episode.tags.join(',')
-        xml.itunes :image, href: cover_art_url
+        xml.itunes :image, href: cover_art_url(:large)
       end
     end
   end

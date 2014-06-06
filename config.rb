@@ -27,8 +27,16 @@ activate :google_analytics do |ga|
 end
 
 helpers do
-  def cover_art_url
-    url("cover-art.png")
+  def cover_art_path(size = :medium)
+    {
+      small: "/cover-art-128.png",
+      medium: "/cover-art-512.png",
+      large: "/cover-art-1400.png"
+    }[size]
+  end
+
+  def cover_art_url(*args)
+    url(cover_art_path(*args))
   end
 
   def episodes

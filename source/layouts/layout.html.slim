@@ -1,16 +1,16 @@
 doctype html
 html
   head
-    link rel="apple-touch-icon-precomposed" href="/icon.png"
+    link rel="apple-touch-icon-precomposed" href=cover_art_path(:small)
     link rel="icon" href="/icon.ico"
-    link rel="icon" type="image/png" href="/icon.png"
+    link rel="icon" type="image/png" href=cover_art_path(:small)
     meta charset="utf-8"
     meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"
     meta name="viewport" content="width=device-width"
 
-    meta property="og:title" content="Turing-Incomplete"
-    meta property="og:description" content="A Podcast About Programming"
-    meta property="og:image" content="http://turing.cool/cover-art.png"
+    meta property="og:title" content=podcast_name
+    meta property="og:description" content=podcast_description
+    meta property="og:image" content=cover_art_url(:medium)
 
     title = title
     = stylesheet_link_tag :all
