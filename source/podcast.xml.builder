@@ -1,5 +1,3 @@
-episodes = blog.articles
-
 xml.instruct!
 xml.rss(
   'xmlns:atom' => "http://www.w3.org/2005/Atom",

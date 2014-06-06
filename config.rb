@@ -31,6 +31,10 @@ helpers do
     url("cover-art.png")
   end
 
+  def episodes
+    blog.articles
+  end
+
   def feedburner_url
     "http://feeds.feedburner.com/Turing-Incomplete"
   end
