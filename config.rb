@@ -51,6 +51,10 @@ helpers do
     "A Podcast About Programming"
   end
 
+  def tags
+    blog.tags.keys.sort
+  end
+
   def title
     [
       podcast_name,

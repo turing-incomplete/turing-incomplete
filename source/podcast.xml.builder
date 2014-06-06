@@ -1,5 +1,4 @@
 episodes = blog.articles
-keywords = episodes.map(&:tags).flatten.join(',')
 
 xml.instruct!
 xml.rss(
@@ -26,7 +25,7 @@ xml.rss(
       xml.itunes :category, text: "Tech News"
     end
 
-    xml.itunes :keywords, keywords
+    xml.itunes :keywords, tags.join(',')
 
     xml.image do
       xml.link feedburner_url
