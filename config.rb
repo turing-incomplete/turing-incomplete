@@ -52,7 +52,7 @@ helpers do
   end
 
   def itunes_url
-    "#TODO"
+    "https://itunes.apple.com/us/podcast/turing-incomplete/id886675939"
   end
 
   def podcast_name
