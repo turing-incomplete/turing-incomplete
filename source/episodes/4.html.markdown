@@ -1,7 +1,7 @@
 ---
 episode: 4
 title: All The Bugs
-date: 2014-06-03
+date: 2014-06-11
 tags: javascript, swift, ios
 mp3: http://episodes.turing.cool/Turing-Incomplete-4.mp3
 explicit: false
