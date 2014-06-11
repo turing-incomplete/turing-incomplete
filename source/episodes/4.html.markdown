@@ -10,12 +10,12 @@ seconds: 1858
 ---
 
 
-* [Dancey Dots](http://danceydots.com/) <span class="time">1:24</span>
-* [Sweet JS](http://sweetjs.org/) <span class="time">4:51</span>
-* [Everything is Broken and I don't know Why](https://speakerdeck.com/mattrobenolt/everything-is-broken-and-i-dont-know-why) <span class="time">8:00</span>
-* [Sentry](https://getsentry.com/welcome/) <span class="time">8:34</span>
-* [Swift](https://developer.apple.com/swift/) <span class="time">11:38</span>
-* [Ruby Motion on Android](http://www.rubymotion.com/support/) <span class="time">19:08</span>
+* [Dancey Dots](http://danceydots.com/) *1:24*
+* [Sweet JS](http://sweetjs.org/) *4:51*
+* [Everything is Broken and I don't know Why](https://speakerdeck.com/mattrobenolt/everything-is-broken-and-i-dont-know-why) *8:00*
+* [Sentry](https://getsentry.com/welcome/) *8:34*
+* [Swift](https://developer.apple.com/swift/) *11:38*
+* [Ruby Motion on Android](http://www.rubymotion.com/support/) *19:08*
 
 
 #### Picks
