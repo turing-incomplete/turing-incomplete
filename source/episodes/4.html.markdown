@@ -1,0 +1,26 @@
+---
+episode: 4
+title: All The Bugs
+date: 2014-06-11
+tags: javascript, swift, ios
+mp3: http://episodes.turing.cool/Turing-Incomplete-4.mp3
+explicit: false
+file_size: 23596238
+seconds: 1858
+---
+
+
+* [Dancey Dots](http://danceydots.com/) <span class="time">1:24</span>
+* [Sweet JS](http://sweetjs.org/) <span class="time">4:51</span>
+* [Everything is Broken and I don't know Why](https://speakerdeck.com/mattrobenolt/everything-is-broken-and-i-dont-know-why) <span class="time">8:00</span>
+* [Sentry](https://getsentry.com/welcome/) <span class="time">8:34</span>
+* [Swift](https://developer.apple.com/swift/) <span class="time">11:38</span>
+* [Ruby Motion on Android](http://www.rubymotion.com/support/) <span class="time">19:08</span>
+
+
+#### Picks
+
+* Pam: [Open Web Art](https://github.com/whichlight/jsconf-open-web-art)
+* Jearvon: [Clojure for the Brave and True](http://www.braveclojure.com)
+* Justin: [Hiccup](https://github.com/weavejester/hiccup)
+* Len: [Reality is Broken](http://www.amazon.com/Reality-Is-Broken-Better-Change/dp/0143120611)
