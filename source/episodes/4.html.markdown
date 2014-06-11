@@ -17,9 +17,10 @@ seconds: 1858
 * [Swift](https://developer.apple.com/swift/) <span class="time">11:38</span>
 * [Ruby Motion on Android](http://www.rubymotion.com/support/) <span class="time">19:08</span>
 
+
 #### Picks
 
-* [Open Web Art](https://github.com/whichlight/jsconf-open-web-art)
-* [Clojure for the Brave and True](http://www.braveclojure.com)
-* [Hiccup](https://github.com/weavejester/hiccup)
-* [Reality is Broken](http://www.amazon.com/Reality-Is-Broken-Better-Change/dp/0143120611)
+* Pam: [Open Web Art](https://github.com/whichlight/jsconf-open-web-art)
+* Jearvon: [Clojure for the Brave and True](http://www.braveclojure.com)
+* Justin: [Hiccup](https://github.com/weavejester/hiccup)
+* Len: [Reality is Broken](http://www.amazon.com/Reality-Is-Broken-Better-Change/dp/0143120611)
