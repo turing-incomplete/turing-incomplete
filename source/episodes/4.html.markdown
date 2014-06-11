@@ -15,7 +15,7 @@ seconds: 1858
 * [Everything is Broken and I don't know Why](https://speakerdeck.com/mattrobenolt/everything-is-broken-and-i-dont-know-why) <span class="time">8:00</span>
 * [Sentry](https://getsentry.com/welcome/) <span class="time">8:34</span>
 * [Swift](https://developer.apple.com/swift/) <span class="time">11:38</span>
-* [Ruby Motion on Android](http://www.rubymotion.com/support/) <span class="time">19:08</span>
+* [RubyMotion on Android](http://www.rubymotion.com/support/) <span class="time">19:08</span>
 
 
 #### Picks
