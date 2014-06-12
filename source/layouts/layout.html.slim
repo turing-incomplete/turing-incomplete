@@ -31,5 +31,8 @@ html
         = yield
 
       .footer
+        ul.links
+          - tags.each do |tag|
+            li = link_to tag, "/tag/#{tag}"
 
     = google_analytics_universal_tag
