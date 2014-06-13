@@ -1,0 +1,27 @@
+---
+episode: 5
+title: Continuous Learning
+date: 2014-06-17
+tags: learning
+mp3: http://episodes.turing.cool/Turing-Incomplete-5.mp3
+explicit: false
+file_size: 23765201
+seconds: 1879
+---
+
+The best people for the cheapest price.
+
+* [The map is not the territory](http://en.wikipedia.org/wiki/Map%E2%80%93territory_relation) *0:15*
+* [The Rise of the Expert Beginner](http://www.daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner) *2:49*
+* [Drefus Model of Skill Aquisition](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition) *4:29*
+* [neovim](https://github.com/neovim/neovim) *11:00*
+* [Ron Jeffries](https://twitter.com/RonJeffries) *12:00*
+* [Dimensionality and the Eternal Haskell Tax](http://michaelochurch.wordpress.com/2014/06/06/why-programmers-cant-make-any-money-dimensionality-and-the-eternal-haskell-tax/I) *26:40*
+
+
+#### Picks
+
+* Pam: [The Beach](http://en.wikipedia.org/wiki/Cape_May,_New_Jersey)
+* Justin: [transpec](http://yujinakayama.me/transpec/)
+* Jearvon: [StrangeLoop](https://thestrangeloop.com/)
+* Len: [Talent is Overrated](http://www.amazon.com/Talent-Overrated-Separates-World-Class-Performers/dp/1591842948)
