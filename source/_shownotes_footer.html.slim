@@ -1,0 +1,22 @@
+hr
+
+p
+  | These shownotes are also available at
+  = link_to "turing.cool/#{episode.data.episode}", url(episode.url)
+
+ul
+  li = link_to "turing.cool", "http://turing.cool"
+  li = link_to "twitter.com/turingcool", twitter_url
+  li = link_to "github.com/turing-incomplete", github_url
+  li
+    | Justin Campbell:
+    = link_to "@justincampbell", "http://twitter.com/justincampbell"
+  li
+    | Jearvon Dharrie:
+    = link_to "@jearvon", "http://twitter.com/jearvon"
+  li
+    | Pam Selle:
+    = link_to "@pamasaur", "http://twitter.com/pamasaur"
+  li
+    | Len Smith:
+    = link_to "@ignu", "http://twitter.com/ignu"
