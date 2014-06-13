@@ -1,7 +1,7 @@
 ---
 episode: 5
 title: Continuous Learning
-date: 2014-06-17
+date: 2014-06-13
 tags: learning
 mp3: http://episodes.turing.cool/Turing-Incomplete-5.mp3
 explicit: false
