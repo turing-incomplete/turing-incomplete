@@ -9,6 +9,7 @@ page '/podcast.xml', layout: false
 activate :blog do |blog|
   blog.layout = "episode.html"
   blog.permalink = "{episode}"
+  blog.publish_future_dated = true
   blog.sources = "episodes/{episode}.html"
   blog.tag_template = "tag.html"
   blog.taglink = "tag/{tag}"
