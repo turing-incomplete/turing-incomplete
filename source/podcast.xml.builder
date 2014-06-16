@@ -40,7 +40,7 @@ xml.rss(
         xml.link url(episode.url)
         xml.description episode_text
         xml.content :encoded, episode.body + partial(:shownotes_footer, locals: { episode: episode })
-        xml.pubDate episode.date.strftime("%a, %d %b %Y %H:%M:%S %z")
+        xml.pubDate (episode.date + (15 * 60 * 60)).strftime("%a, %d %b %Y %H:%M:%S %z")
         xml.guid url(episode.url), isPermaLink: "true"
         xml.media :content, url: metadata.mp3, type: "audio/mpeg", fileSize: metadata.file_size
         xml.enclosure url: metadata.mp3, type: "audio/mpeg", length: metadata.file_size
