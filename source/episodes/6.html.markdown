@@ -1,0 +1,24 @@
+---
+episode: 6
+title: Productivity
+date: 2014-06-20
+tags: productivity
+mp3: http://episodes.turing.cool/Turing-Incomplete-6.mp3
+explicit: false
+file_size: 26814183
+seconds: 2076
+---
+Sometimes I use a smaller glass.
+
+* [Net Negative Producing Programmer](http://c2.com/cgi/wiki?NetNegativeProducingProgrammer) *1:39*
+* [Real Artists Ship](http://en.wikiquote.org/wiki/Steve_Jobs) *3:31*
+* [Stefane Remball](https://www.youtube.com/watch?v=r9YNKRwI5aU) *6:58*
+* [Focus at Will](https://www.focusatwill.com/) *9:13*
+* [The Phoenix Project](http://en.wikipedia.org/wiki/The_Phoenix_Project:_A_Novel_About_IT,_DevOps,_and_Helping_Your_Business_Win) *20:30*
+
+#### Picks
+
+* Pam: [Prime Music](www.amazon.com/primemusic)
+* Jearvon: [Curating Dotfiles](https://github.com/iamjarvo/.dotfiles)
+* Justin: [Test Kitchen](http://kitchen.ci), [Bats](https://github.com/sstephenson/bats)
+* Len: [Flow](https://www.youtube.com/watch?v=fXIeFJCqsPs)
