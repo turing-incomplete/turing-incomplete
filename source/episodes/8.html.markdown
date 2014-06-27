@@ -9,7 +9,7 @@ file_size: 34308304
 seconds: 2730
 ---
 
-Alan Turing, Static Site Generators and turing.cool's workflow and Pam's book
+Alan Turing, Static Site Generators and Pam's book
 
 * [Alan Turing](http://www.bbc.co.uk/history/people/alan_turing) *1:30*
 * [Middleman](http://middlemanapp.com) *7:47*
