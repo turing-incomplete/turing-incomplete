@@ -12,11 +12,17 @@ seconds: 2730
 Alan Turing, Static Site Generators, and Pam's book
 
 * [Alan Turing](http://www.bbc.co.uk/history/people/alan_turing) *1:30*
+* [Turing Machines (video)](http://www.youtube.com/watch?v=gJQTFhkhwPA) *2:30*
 * [Middleman](http://middlemanapp.com) *7:47*
-* [Octopress](http://octopress.org/) *10:12*
+* [Travis CI - S3 Deployments](http://docs.travis-ci.com/user/deployment/s3/) *10:47*
+* [Turing-Incomplete's .travis.yml](https://github.com/turing-incomplete/turing-incomplete/blob/master/.travis.yml) *14:00*
+* [Octopress](http://octopress.org/) *14:42*
 * [Slim](http://slim-lang.com) *16:00*
 * [Comparison of Haml/Slim/Erb](http://graffzon.tumblr.com/post/15303347654/comparsion-of-haml-slim-erb) *19:30*
-* [wp2middleman](https://github.com/mdb/wp2middleman) *24:00*
+* [wp2middleman](https://github.com/mdb/wp2middleman) *24:10*
+* [Heroku](http://heroku.com) *27:55*
+* [OpenShift](http://openshift.com) *28:35*
+* [HireFire](http://hirefire.io) *30:45*
 * [Pam's book](http://bleedingedgepress.com/our-books/choosing-javascript-framework/) *33:30*
 
 #### Picks
