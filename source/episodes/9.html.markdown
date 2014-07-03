@@ -1,0 +1,25 @@
+---
+episode: 9
+title: Distributed Teams
+date: 2014-07-03
+tags: remote, colocation
+mp3: http://episodes.turing.cool/Turing-Incomplete-9.mp3
+explicit: false
+file_size: 34974550
+seconds: 2730
+---
+
+iPad on a Segway
+
+* [REMOTE](http://37signals.com/remote/) *3:14*
+* [Sqwiggle](https://www.sqwiggle.com/) *20:05*
+* [Science](http://i.imgur.com/dJcJXsX.gif) *24:00*
+* [tmate](http://tmate.io) *25:50*
+* [ScreenHero](http://screenhero.com) *26:30*
+
+#### Picks
+
+* Pam: [Results Only Work Environment](http://www.gorowe.com/), [Total Recall](http://www.imdb.com/name/nm0000682/)
+* Justin: [Learn Haskell](https://github.com/bitemyapp/learnhaskell)
+* Jearvon: [elasticsearch – the definitive guide](http://www.elasticsearch.org/blog/elasticsearch-definitive-guide/)
+* Len: [Wide Teams](http://www.wideteams.com/category/podcast/)
