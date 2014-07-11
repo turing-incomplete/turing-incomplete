@@ -1,0 +1,20 @@
+---
+episode: 10
+title: Estimation (or, 80% Done)
+date: 2014-07-11
+tags: estimation, agile
+mp3: http://episodes.turing.cool/Turing-Incomplete-10.mp3
+explicit: true
+file_size: 34085157
+seconds: 2899
+---
+The one where we earn an explicit rating.
+
+* [Software Estimation: Demystifying the Black Art](http://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351) *:34*
+* [Technical Debt 101](https://medium.com/@joaomilho/festina-lente-e29070811b84) *13:00*
+
+#### Picks
+* Pam: [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/)
+* Jearvon: [Project Monitor](https://github.com/pivotal/projectmonitor), [Summertime5](http://www.summertime.fm)
+* Justin: [This Agile Life](http://thisagilelife.com)
+* Len: [Why are software development task estimations regularly off by a factor of 2-3](http://qr.ae/YB6Lj)
