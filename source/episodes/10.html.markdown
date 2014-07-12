@@ -10,6 +10,7 @@ seconds: 2899
 ---
 The one where we earn an explicit rating.
 
+* [Ryan Findley's Pinboard](https://pinboard.in/search/u:neomindryan?query=estimation) *17:00*
 * [Software Estimation: Demystifying the Black Art](http://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351) *:34*
 * [Technical Debt 101](https://medium.com/@joaomilho/festina-lente-e29070811b84) *13:00*
 * [Liberty JS](http://libertyjs.com/) *41:00*
