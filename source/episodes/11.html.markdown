@@ -1,0 +1,29 @@
+---
+episode: 11
+title: Quality
+date: 2014-07-18
+tags: quality, software crafstmanship
+mp3: http://episodes.turing.cool/Turing-Incomplete-11.mp3
+explicit: false
+file_size: 28544548
+seconds: 2529
+---
+
+Uh, Whatever
+
+* [Xp Simplicity Rules](http://c2.com/cgi/wiki?XpSimplicityRules) *2:30*
+* [Understanding the Four Rules of Simple Design](https://leanpub.com/4rulesofsimpledesign) *2:40*
+* [Kernighan's Lever](http://www.linusakesson.net/programming/kernighans-lever/) *17:00*
+* [Software Craftsmanship Manifesto](http://manifesto.softwarecraftsmanship.org/) *24:00*
+* [Here Be Dragons](http://www.kytrinyx.com/talks/here-be-dragons) *33:00*
+
+#### Picks
+
+* Pam: [From NASA to Startups to Big Commerce](http://www.slideshare.net/pydanny/building-maintainableprojectswharton)
+* Jearvon: [Understanding the Four Rules of Simple Design](https://leanpub.com/4rulesofsimpledesign)
+* Len: [Conference Videos in VLC](http://rg3.github.io/youtube-dl/)
+* Justin: [serverspec](https://github.com/serverspec/serverspec)
+
+#### Retractions
+
+(Next week's episode is actually "Why Rails is Awesome/Terrible")
