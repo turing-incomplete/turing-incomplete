@@ -24,6 +24,6 @@ Uh, Whatever
 * Len: [Conference Videos in VLC](http://rg3.github.io/youtube-dl/)
 * Justin: [serverspec](https://github.com/serverspec/serverspec)
 
-### Retractions
+#### Retractions
 
 (Next week's episode is actually "Why Rails is Awesome/Terrible")
