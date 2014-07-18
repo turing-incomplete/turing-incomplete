@@ -13,6 +13,7 @@ Uh, Whatever
 
 * [Xp Simplicity Rules](http://c2.com/cgi/wiki?XpSimplicityRules) *2:30*
 * [Understanding the Four Rules of Simple Design](https://leanpub.com/4rulesofsimpledesign) *2:40*
+* [Kernighan's Lever](http://www.linusakesson.net/programming/kernighans-lever/) *17:00*
 * [Here Be Dragons](http://www.kytrinyx.com/talks/here-be-dragons) *40:00*
 
 #### Picks
