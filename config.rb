@@ -13,6 +13,7 @@ activate :blog do |blog|
   blog.sources = "episodes/{episode}.html"
   blog.tag_template = "tag.html"
   blog.taglink = "tag/{tag}"
+  blog.summary_generator = Proc.new { |episode| episode.body.lines.first }
 end
 
 configure :build do

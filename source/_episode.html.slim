@@ -7,7 +7,13 @@
     .mp3 = link_to "mp3", episode.data.mp3
 
   .row
-    article.body = episode.body
+    - if current_page.path == "index.html"
+      - if episodes.first == episode
+        article.body = episode.body
+      - else
+        article.body = episode.summary
+    - else
+      article.body = episode.body
 
   .row
     ul.tags
