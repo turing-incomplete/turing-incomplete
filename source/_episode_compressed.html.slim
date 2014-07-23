@@ -7,9 +7,4 @@
     .mp3 = link_to "mp3", episode.data.mp3
 
   .row
-    article.body = episode.body
-
-  .row
-    ul.tags
-      - episode.tags.each do |tag|
-        li = link_to tag, tag_path(tag)
+    article.body = episode.summary

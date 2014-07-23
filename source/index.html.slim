@@ -1,2 +1,4 @@
-- episodes.each do |episode|
-  = partial 'episode', locals: { episode: episode }
+- most_recent_episode, *compressed_episodes = episodes
+= partial 'episode',  locals: { episode: most_recent_episode }
+- compressed_episodes.each do |episode|
+  = partial 'episode_compressed', locals: { episode: episode }
