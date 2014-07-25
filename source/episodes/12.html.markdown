@@ -9,7 +9,7 @@ file_size: 30210423
 seconds: 2629
 ---
 
-(of course half the show is JavaScript)
+There's so much stuff in it.
 
 * [Choosing a JavaScript Framework](http://bleedingedgepress.com/our-books/choosing-javascript-framework/) *15:45*
 * [Onion.js](https://github.com/markevans/onionjs) *34:20*
