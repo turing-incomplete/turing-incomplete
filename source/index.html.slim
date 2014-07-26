@@ -1,2 +1,4 @@
-- episodes.each do |episode|
-  = partial 'episode', locals: { episode: episode }
+- first_episode, *episodes_rows = episodes
+= partial 'episode', locals: { episode: first_episode }
+- episodes_rows.each do |episode|
+  = partial 'episode_row', locals: { episode: episode }
