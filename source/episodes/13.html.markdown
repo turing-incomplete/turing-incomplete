@@ -11,14 +11,14 @@ seconds: 1777
 
 Follow us on twitter [@turingcool](http://twitter.com/turingcool)
 
-[TIL](http://justincampbell.me/til) *3:37*
-[Pam the Webivore](http://thewebivore.com) *4:17*
-[Deirdré Straughan](http://www.beginningwithi.com/2010/05/16/outline-for-an-autobiography/) *9:50*
-[@comcastwomen](https://twitter.com/comcastwomen) *19:21*
+* [TIL](http://justincampbell.me/til) *3:37*
+* [Pam the Webivore](http://thewebivore.com) *4:17*
+* [Deirdré Straughan](http://www.beginningwithi.com/2010/05/16/outline-for-an-autobiography/) *9:50*
+* [@comcastwomen](https://twitter.com/comcastwomen) *19:21*
 
 #### Picks
 
-* Jearvon: [Beastie Boys, Intergalactic](https://www.thisismyjam.com/iamjarvo), [Docker Book](http://www.dockerbook.com/)
+* Jearvon: [Beastie Boys: Intergalactic](https://www.thisismyjam.com/iamjarvo), [Docker Book](http://www.dockerbook.com/)
 * Justin: [Vim Room](https://github.com/mikewest/vimroom)
 * Len: [Len's Blog](http://barrison.com)
 * Pam: Begrudgingly making a mailing list. Also, Jearvon's thisismyjam.
