@@ -1,6 +1,6 @@
 ---
 episode: 13
-title: Self Promotion
+title: Self-Promotion
 date: 2014-08-04
 tags: self promotion
 mp3: http://episodes.turing.cool/Turing-Incomplete-13.mp3
