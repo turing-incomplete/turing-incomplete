@@ -4,7 +4,6 @@
   .row.details
     span.date = episode.date.strftime('%b %e')
     span.duration = " (#{episode.data.seconds/60} minutes)"
-    .mp3 = link_to "mp3", episode.data.mp3
 
   .row
     article.body = episode.body.lines.first
