@@ -1,6 +1,6 @@
 ---
 episode: 14
-title: Pair Programming w/ Joe Moore
+title: Pair Programming with Joe Moore
 date: 2014-08-08
 tags: pairing
 mp3: http://episodes.turing.cool/Turing-Incomplete-14.mp3
