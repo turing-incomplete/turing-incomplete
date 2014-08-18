@@ -1,0 +1,23 @@
+---
+episode: 15
+title: Code Reviews
+date: 2014-08-18
+tags: pairing
+mp3: http://episodes.turing.cool/Turing-Incomplete-15.mp3
+explicit: true
+file_size: 26345469
+seconds: 2145
+---
+
+Code Reviews
+
+You need to be replenished.
+
+* [My problem with pairing](http://thewebivore.com/my-problem-with-pairing/)
+
+### Picks
+
+* Justin: [Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button)
+* Pam: [How the Other Half Works: an Adventure in the Low Status of Software Engineers](http://michaelochurch.wordpress.com/2014/07/13/how-the-other-half-works-an-adventure-in-the-low-status-of-software-engineers/)
+* Jearvon: [Alfred](http://http://www.alfredapp.com/), [Come and get your love](https://www.youtube.com/watch?v=fWnRMAVWV)
+* Len: [Agile Software Development: The Cooperative Game (2nd Edition)](http://www.amazon.com/Agile-Software-Development-Cooperative-Edition/dp/0321482751)
