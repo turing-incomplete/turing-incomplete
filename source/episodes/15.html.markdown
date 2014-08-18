@@ -9,8 +9,6 @@ file_size: 26345469
 seconds: 2145
 ---
 
-Code Reviews
-
 You need to be replenished.
 
 * [My problem with pairing](http://thewebivore.com/my-problem-with-pairing/)
