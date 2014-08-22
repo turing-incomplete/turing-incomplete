@@ -1,0 +1,22 @@
+---
+episode: 16
+title: Devops
+date: 2014-08-25
+tags: community, devops
+mp3: http://episodes.turing.cool/Turing-Incomplete-16.mp3
+explicit: false
+file_size: ???
+seconds: ???
+---
+
+With everyone returning from Midwest.js and Steel City Ruby, we reminisce about the conferences, complain about the post office, and debate what Devops is.
+
+### Picks
+
+* Justin: [Haskell](http://www.haskell.org/haskellwiki/Haskell)
+* Pam: [Genie.js](http://kent.doddsfamily.us/genie/)
+* Pam: [Giraffes Drawn By People Who Should Not Be Drawing Giraffes](http://prettyawfulgiraffes.wordpress.com)
+* Len: [RubyMotion](http://www.rubymotion.com)
+* Jearvon: [Jay-Z: MTV Unplugged](http://en.wikipedia.org/wiki/MTV_Unplugged_(Jay-Z_album))
+* Jearvon: [The Resistance](http://boardgamegeek.com/boardgame/41114/resistance)
+* Jearvon: Going to conferences
