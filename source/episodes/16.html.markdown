@@ -1,0 +1,41 @@
+---
+episode: 16
+title: Devops
+date: 2014-08-22
+tags: community, devops
+mp3: http://episodes.turing.cool/Turing-Incomplete-16.mp3
+explicit: false
+file_size: 34454014
+seconds: 2153
+---
+
+With everyone returning from Midwest.JS and Steel City Ruby, we reminisce about the conferences, complain about the post office, and debate what Devops is.
+
+* [Midwest.JS](http://midwestjs.com) *0:15*
+* [Steel City Ruby](http://www.steelcityruby.org) *2:09*
+* [Dev>Input](http://devinput.io) *3:50*
+* [Stamps.com](http://stamps.com) *4:13*
+* [CodeClimate](https://codeclimate.com) *4:43*
+* [Seth Vargo's talks](https://speakerdeck.com/sethvargo) *8:08*
+* [Jessica Kerr: Property-based testing: what is it?](http://blog.jessitron.com/2013/04/property-based-testing-what-is-it.html) *8:37*
+* [Rantly](https://github.com/hayeah/rantly) *9:38*
+* [Generatron](https://github.com/jessitron/generatron) *10:03*
+* [DevOps](http://en.wikipedia.org/wiki/DevOps) *10:18*
+* [Chef](http://getchef.com) *15:00*
+* [Why You Shouldn’t Use Vagrant: Real talk from a Vagrant burn-out](http://chadoh.com/why-you-shouldnt-use-vagrant-real-talk-from-a-vagrant-burnout) *16:30*
+* [Test-Kitchen](http://kitchen.ci) *19:10*
+* [Travis CI](https://travis-ci.org) *20:26*
+* [Heroku](http://heroku.com) *22:55*
+* [OpenShift](https://www.openshift.com) *22:55*
+* [Continuously deploying your (free) OpenShift site with Travis CI](http://thewebivore.com/continuously-deploying-free-openshift-site-travis-ci/) *26:03*
+* [What Exactly is DevOps?](http://www.drdobbs.com/architecture-and-design/what-exactly-is-devops/240009147) *29:09*
+
+### Picks
+
+* Justin: [Haskell](http://www.haskell.org/haskellwiki/Haskell)
+* Pam: [Genie.js](http://kent.doddsfamily.us/genie/)
+* Pam: [Giraffes Drawn By People Who Should Not Be Drawing Giraffes](http://prettyawfulgiraffes.wordpress.com)
+* Len: [RubyMotion](http://www.rubymotion.com)
+* Jearvon: [Jay-Z: MTV Unplugged](http://en.wikipedia.org/wiki/MTV_Unplugged_(Jay-Z_album))
+* Jearvon: [The Resistance](http://boardgamegeek.com/boardgame/41114/resistance)
+* Jearvon: Going to conferences
