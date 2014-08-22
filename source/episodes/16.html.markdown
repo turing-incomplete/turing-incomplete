@@ -1,7 +1,7 @@
 ---
 episode: 16
 title: Devops
-date: 2014-08-25
+date: 2014-08-22
 tags: community, devops
 mp3: http://episodes.turing.cool/Turing-Incomplete-16.mp3
 explicit: false
