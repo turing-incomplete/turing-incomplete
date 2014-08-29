@@ -1,0 +1,22 @@
+---
+episode: 17
+title: write/speak/code, Junior Developers and Apprenticeships with Rebecca Miller Webster
+date: 2014-08-29
+tags: learning, diversity
+mp3: http://episodes.turing.cool/Turing-Incomplete-17.mp3
+explicit: true
+file_size: 30417173
+seconds: 2605
+---
+[Rebecca Miller Webster](http://rebeccamiller-webster.com) talks to us about [write/speak/code](http://writespeakcode.com), apprenticeships and managing junior developers.
+
+* [NotepadConf](https://www.kickstarter.com/projects/1203633826/notepad-conf)
+* [Separating Programming Sheep from Non-Programming Goats](http://blog.codinghorror.com/separating-programming-sheep-from-non-programming-goats/)
+
+### Picks
+
+* Pam: [PhillyJS Speaker Form](https://docs.google.com/forms/d/1894G16OCblvJ3Go0HpU69-UnQkET3nZeHv7H8dA7sVg/viewform), [Asynchronous JavaScript at Netflix by Jafar Husain - YouTube](https://www.youtube.com/watch?v=XE692Clb5LU)
+* Justin: [LambdaBubblePop](http://chrisuehlinger.com/LambdaBubblePop/)
+* Jearvon: [Saturn Colors](https://github.com/psql/saturn-colors), [First Aid Kit - My Silver Lining](https://www.youtube.com/watch?v=DKL4X0PZz7M)
+* Len: [Overcast](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8)
+* Rebecca: [write/speak/code](http://writespeakcode.com), [Lucky Boys Confusion, Fred Astaire Live](https://www.youtube.com/watch?v=q9kjkZto0o4)
