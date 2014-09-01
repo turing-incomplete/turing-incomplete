@@ -12,6 +12,7 @@ seconds: 2605
 
 * [NotepadConf](https://www.kickstarter.com/projects/1203633826/notepad-conf)
 * [Separating Programming Sheep from Non-Programming Goats](http://blog.codinghorror.com/separating-programming-sheep-from-non-programming-goats/)
+* [Thoughts on Team Tension](http://www.rebeccamiller-webster.com/2014/08/thoughts-on-team-tension/)
 
 ### Picks
 
