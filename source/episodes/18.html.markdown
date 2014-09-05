@@ -1,0 +1,23 @@
+---
+episode: 18
+title: Screaming "cupcake rabbit" at your computer
+date: 2014-09-05
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-18.mp3
+explicit: true
+file_size: 25844144
+seconds: 2115
+---
+There's reducers then there's transducers.
+
+* [RubyMotion](http://rubymotion.com)
+* [Choosing a JavaScript Framework](http://bleedingedgepress.com/our-books/choosing-javascript-framework/)
+* [Our GitHub Issues](http://github.com/turing-incomplete/turing-incomplete/issues)
+* [Readers absorb less on Kindles than on paper, study finds](http://www.theguardian.com/books/2014/aug/19/readers-absorb-less-kindles-paper-study-plot-ereader-digitisation)
+* [RubyMotion and Accessibility by Austin Seraphin](https://www.youtube.com/watch?v=umwMB8QlNq4)
+
+### Picks
+
+* Pam: [Learn X in Y Minutes](http://learnxinyminutes.com/)
+* Jearvon: [WAX TAILOR feat Charlotte Savary - Dusty Rainbow](https://www.youtube.com/watch?v=3N45WTAeg4k), [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104)
+* Len: [Habit RPG](https://habitrpg.com/)
