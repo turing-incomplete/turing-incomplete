@@ -1,0 +1,26 @@
+---
+episode: 20
+title: Generalist vs. Specialist
+date: 2014-09-19
+tags: learning
+mp3: http://episodes.turing.cool/Turing-Incomplete-20.mp3
+explicit: true
+file_size: 22334755
+seconds: 1791
+---
+
+Accept no substitutions
+
+* [Quits - Google Sheets](https://docs.google.com/a/barrison.com/spreadsheets/d/1jONkjWgMml6ucBNeFS9ggcbmpasPHhkMGicMf2Qgve0/edit#gid=0)
+* [Understanding the Four Rules… by Corey Haines](https://leanpub.com/4rulesofsimpledesign)
+* [Conway's Game of Life - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Conway's_Game_of_Life)
+* [Issues · turing-incomplete/turing-incomplete](https://github.com/turing-incomplete/turing-incomplete/issues/)
+* [HackHands - On demand mentorship](https://hackhands.com/)
+* [Become the Best Web Developer You Can Be in 1 Simple Step — CSS Perverts — Medium](https://medium.com/cool-code-pal/become-the-best-web-developer-you-can-be-in-1-simple-step-b24e3b3d751)
+
+### Picks
+
+* Pam: [Pringles and Pickme - Underwater Puppies - Pictures - CBS News](http://www.cbsnews.com/pictures/underwater-puppies-seth-casteel/), [Solving Sol](http://solvingsol.com/)
+* Justin: [GroupMe](https://app.groupme.com/chats)
+* Len: [Awesomenauts](http://www.awesomenauts.com/)
+* Jearvon: [Flume - Sleepless](https://www.youtube.com/watch?v=aAEQt7wq44w)
