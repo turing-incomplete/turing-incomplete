@@ -9,10 +9,12 @@ file_size: 27892909
 seconds: 2288
 ---
 
-iPhone gripes, squirels, StrangeLoop, and vim.
+iPhone gripes, squirrels, StrangeLoop, and vim.
 
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * ["You can be a kernel hacker!" by Julia Evans](https://www.youtube.com/watch?v=0IQlpFWTFbM)
+* [Today, I Learned...](http://til.justincampbell.me/)
+* [fugitive.vim - Vim Awesome](http://vimawesome.com/plugin/fugitive-vim)
 
 ### Picks
 
