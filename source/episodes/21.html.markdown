@@ -1,0 +1,25 @@
+---
+episode: 21
+title: The iPhone 6 is too big
+date: 2014-09-26
+tags: learning
+mp3: http://episodes.turing.cool/Turing-Incomplete-21.mp3
+explicit: true
+file_size: 27892909
+seconds: 2288
+---
+
+iPhone gripes, squirrels, StrangeLoop, and vim.
+
+* ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
+* ["You can be a kernel hacker!" by Julia Evans](https://www.youtube.com/watch?v=0IQlpFWTFbM)
+* [Today, I Learned...](http://til.justincampbell.me/)
+* [fugitive.vim - Vim Awesome](http://vimawesome.com/plugin/fugitive-vim)
+
+### Picks
+
+* Pam: [Overtone - Collaborative Programmable Music](http://overtone.github.io/), [crucialfelix/supercolliderjs](https://github.com/crucialfelix/supercolliderjs)
+* Jearvon: [Murphy Oil Soap](http://www.colgate.com/murphy-oil-soap#/home/), [Tove Lo - Habits](https://www.youtube.com/watch?v=oh2LWWORoiM)
+* Justin: [Middleman: Hand-crafted frontend development](http://middlemanapp.com/)
+* Len: [The World Inferno Friendship Society - Spotify](https://play.spotify.com/user/ignostic/playlist/1wiugBUnurUDfs8i38Ggpi?play=true&utm_source=open.spotify.com&utm_medium=open),
+[The World/Inferno Friendship Society - YouTube](https://www.youtube.com/watch?v=UnEfpVP6tp0&list=RDUnEfpVP6tp0&index=1)
