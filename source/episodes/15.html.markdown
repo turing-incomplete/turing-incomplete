@@ -2,7 +2,7 @@
 episode: 15
 title: Code Reviews
 date: 2014-08-18
-tags: pairing
+tags: pairing, software craftsmanship
 mp3: http://episodes.turing.cool/Turing-Incomplete-15.mp3
 explicit: true
 file_size: 26345469
