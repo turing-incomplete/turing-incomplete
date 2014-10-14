@@ -13,8 +13,11 @@
     article.body = episode.body
 
     h3 Picks
-    ul
-      = partial "picks", locals: { episode_picks: episode.data["picks"] }
+    - if episode_picks = episode.data["picks"]
+      ul
+        = partial "picks", locals: { episode_picks: episode_picks }
+    - else
+      p "0 picks for this episode"
 
   .row
     .audio-wrapper
