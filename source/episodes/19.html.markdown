@@ -7,6 +7,21 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-19.mp3
 explicit: true
 file_size: 24866814
 seconds: 2041
+picks:
+  Justin:
+    - text: "Destiny"
+      url: "http://www.destinythegame.com/"
+  Len:
+    - text: "Star Wars (Guardians of the Galaxy Style!) - YouTube"
+      url: "https://www.youtube.com/watch?v=TLyNMSkTiGg"
+  Pam:
+    - text: "Possum Living: How to Live Well Without a Job and with (Almost) No Money: Dolly Freed"
+      url: "http://www.amazon.com/Possum-Living-Without-Almost-Money/dp/0982053932"
+  Jearvon:
+    - text: "Raphael Saadiq Sometimes - YouTube"
+      url: "https://www.youtube.com/watch?v=OGKI9s23O2E"
+    - text: "Core Async Webinar"
+      url: "http://go.cognitect.com/core_async_webinar_recording"
 ---
 The greatest thing in the world.
 
@@ -18,10 +33,3 @@ The greatest thing in the world.
 * [Amazon.com: Being Geek: The Software Developer's Career Handbook eBook: Michael Lopp: Kindle Store](http://www.amazon.com/Being-Geek-Software-Developers-Handbook-ebook/dp/B003XDUCEU/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=)
 * [Corporate Noir, or This Job Is Killing Me](http://lareviewofbooks.org/essay/corporate-noir-job-killing)
 * [Is society conditioning us to think that we have to have a job to get money? - Quora](http://www.quora.com/Is-society-conditioning-us-to-think-that-we-have-to-have-a-job-to-get-money)
-
-### Picks
-
-* Justin [Destiny](http://www.destinythegame.com/)
-* Len [Star Wars (Guardians of the Galaxy Style!) - YouTube](https://www.youtube.com/watch?v=TLyNMSkTiGg)
-* Pam: [Possum Living: How to Live Well Without a Job and with (Almost) No Money: Dolly Freed](http://www.amazon.com/Possum-Living-Without-Almost-Money/dp/0982053932)
-* Jearvon: [Raphael Saadiq Sometimes - YouTube](https://www.youtube.com/watch?v=OGKI9s23O2E), [Core Async Webinar](http://go.cognitect.com/core_async_webinar_recording)

@@ -7,6 +7,18 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-18.mp3
 explicit: true
 file_size: 25844144
 seconds: 2115
+picks:
+  Pam:
+    - text: "Learn X in Y Minutes"
+      url: "http://learnxinyminutes.com/"
+  Jearvon:
+    - text: "WAX TAILOR feat Charlotte Savary - Dusty Rainbow"
+      url: "https://www.youtube.com/watch?v=3N45WTAeg4k"
+    - text: "Eloquent Ruby"
+      url: "http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104"
+  Len:
+    - text: "Habit RPG"
+      url: "https://habitrpg.com/"
 ---
 There's reducers then there's transducers.
 
@@ -15,9 +27,3 @@ There's reducers then there's transducers.
 * [Our GitHub Issues](http://github.com/turing-incomplete/turing-incomplete/issues)
 * [Readers absorb less on Kindles than on paper, study finds](http://www.theguardian.com/books/2014/aug/19/readers-absorb-less-kindles-paper-study-plot-ereader-digitisation)
 * [RubyMotion and Accessibility by Austin Seraphin](https://www.youtube.com/watch?v=umwMB8QlNq4)
-
-### Picks
-
-* Pam: [Learn X in Y Minutes](http://learnxinyminutes.com/)
-* Jearvon: [WAX TAILOR feat Charlotte Savary - Dusty Rainbow](https://www.youtube.com/watch?v=3N45WTAeg4k), [Eloquent Ruby](http://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional-Series/dp/0321584104)
-* Len: [Habit RPG](https://habitrpg.com/)

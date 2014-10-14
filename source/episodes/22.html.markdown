@@ -7,17 +7,27 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-22.mp3
 explicit: false
 file_size: 40922049
 seconds: 3454
+picks:
+  Corey:
+    - text: "On the criteria to be used in decomposing systems into modules"
+      url: "http://dl.acm.org/citation.cfm?id=361623"
+    - text: "An Introduction to Functional Programming Through Lambda Calculus"
+      url: "http://smile.amazon.com/Introduction-Functional-Programming-Calculus-Mathematics/dp/0486478831/ref=smi_www_rcolv2_go_smi?_encoding=UTF8&*Version*=1&*entries*=0"
+  Pam:
+    - text: "GoodUI"
+      url: "http://www.goodui.org/index_v4.html"
+  Jearvon:
+    - text: "Clean Coders with Corey Haines"
+      url: "https://cleancoders.com/episode/bawch-episode-1/show"
+  Justin:
+    - text: "Cargo, Rust's Package Manager"
+      url: "http://crates.io/"
+  Len:
+    - text: "Fiverr"
+      url: "https://www.fiverr.com/"
 ---
 
 [Corey Haines](http://twitter.com/coreyhaines) joins us to discuss his book, [Understanding the Four Rules of Simple Design](https://leanpub.com/4rulesofsimpledesign/c/turingincomplete)
 
 * [Corey Haines](http://articles.coreyhaines.com/)
 * [Understanding the Four Rules of Simple Design](https://leanpub.com/4rulesofsimpledesign/c/turingincomplete) *($5 off for Turing-Incomplete Listeners!)*
-
-### Picks
-
-* Corey: [On the criteria to be used in decomposing systems into modules](http://dl.acm.org/citation.cfm?id=361623), [An Introduction to Functional Programming Through Lambda Calculus](http://smile.amazon.com/Introduction-Functional-Programming-Calculus-Mathematics/dp/0486478831/ref=smi_www_rcolv2_go_smi?_encoding=UTF8&*Version*=1&*entries*=0)
-* Pam: [GoodUI](http://www.goodui.org/index_v4.html)
-* Jearvon: [Clean Coders with Corey Haines](https://cleancoders.com/episode/bawch-episode-1/show)
-* Justin: [Cargo, Rust's Package Manager](http://crates.io/)
-* Len: [Fiverr](https://www.fiverr.com/)

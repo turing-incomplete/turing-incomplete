@@ -7,16 +7,26 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-14.mp3
 explicit: false
 file_size: 21249096
 seconds: 2179
+picks:
+  Joe:
+    - text: "OSX Screen Sharing Tool"
+      url: "http://remotepairprogramming.com/post/77905116436/screen-sharing-app-its-built-in-to-your-mac-use-it"
+  Jearvon:
+    - text: "Lykke Li - No Rest For The Wicked"
+      url: "https://www.youtube.com/watch?v=Hh-0y8Qe0Sw"
+    - text: "http://robots.thoughtbot.com"
+      url: "GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS"
+  Pam:
+    - text: "ExpressJS 4.0"
+      url: "http://scotch.io/bar-talk/expressjs-4-0-new-features-and-upgrading-from-3-0"
+  Justin:
+    - text: "Lobste.rs"
+      url: "https://lobste.rs/"
+  Len:
+    - text: "Guardians of the Galaxy"
+      url: "https://www.youtube.com/watch?v=B16Bo47KS2g"
 ---
 
 The one where we pair-podcast with [@joem](http://twitter.com/joem)
 
 [Remote Pair Programming](http://remotepairprogramming.com)
-
-### Picks
-
-* Joe: [OSX Screen Sharing Tool](http://remotepairprogramming.com/post/77905116436/screen-sharing-app-its-built-in-to-your-mac-use-it)
-* Jearvon:  [Lykke Li - No Rest For The Wicked](https://www.youtube.com/watch?v=Hh-0y8Qe0Sw), [http://robots.thoughtbot.com](GIANT ROBOTS SMASHING INTO OTHER GIANT ROBOTS)
-* Pam: [ExpressJS 4.0](http://scotch.io/bar-talk/expressjs-4-0-new-features-and-upgrading-from-3-0)
-* Justin: [Lobste.rs](https://lobste.rs/)
-* Len: [Guardians of the Galaxy](https://www.youtube.com/watch?v=B16Bo47KS2g)

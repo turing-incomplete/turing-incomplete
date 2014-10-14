@@ -7,6 +7,20 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-13.mp3
 explicit: false
 file_size: 21249096
 seconds: 1777
+picks:
+  Jearvon:
+    - text: "Beastie Boys: Intergalactic"
+      url: "https://www.thisismyjam.com/iamjarvo"
+    - text: "Docker Book"
+      url: "http://www.dockerbook.com/"
+  Justin:
+    - text: "Vim Room"
+      url: "https://github.com/mikewest/vimroom"
+  Len:
+    - text: "Len's Blog"
+      url: "http://barrison.com"
+  Pam:
+    - text: "Begrudgingly making a mailing list. Also, Jearvon's thisismyjam."
 ---
 
 Follow us on twitter [@turingcool](http://twitter.com/turingcool)
@@ -15,10 +29,3 @@ Follow us on twitter [@turingcool](http://twitter.com/turingcool)
 * [Pam the Webivore](http://thewebivore.com) *4:17*
 * [Deirdré Straughan](http://www.beginningwithi.com/2010/05/16/outline-for-an-autobiography/) *9:50*
 * [@comcastwomen](https://twitter.com/comcastwomen) *19:21*
-
-#### Picks
-
-* Jearvon: [Beastie Boys: Intergalactic](https://www.thisismyjam.com/iamjarvo), [Docker Book](http://www.dockerbook.com/)
-* Justin: [Vim Room](https://github.com/mikewest/vimroom)
-* Len: [Len's Blog](http://barrison.com)
-* Pam: Begrudgingly making a mailing list. Also, Jearvon's thisismyjam.

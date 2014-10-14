@@ -1,0 +1,9 @@
+- episode_picks.each do |name, picks|
+  li
+    = "#{name}: "
+    - pick_links = picks.map do |pick|
+      - if pick["url"]
+        - link_to pick["text"], pick["url"]
+      - else
+        - pick["text"]
+    = pick_links.join(", ")

@@ -12,6 +12,10 @@
   .row
     article.body = episode.body
 
+    h3 Picks
+    ul
+      = partial "picks", locals: { episode_picks: episode.data["picks"] }
+
   .row
     .audio-wrapper
       audio controls=""
