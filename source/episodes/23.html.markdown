@@ -5,8 +5,8 @@ date: 2014-10-14
 tags: learning
 mp3: http://episodes.turing.cool/Turing-Incomplete-23.mp3
 explicit: false
-file_size: 40922049
-seconds: 3454
+file_size: 32575443
+seconds: 2066
 ---
 
 Kids can be punks.
