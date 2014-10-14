@@ -11,6 +11,7 @@ seconds: 2066
 
 Kids can be punks.
 
+* [words-to-avoid.vim](https://github.com/nicholaides/words-to-avoid.vim)
 * [Shut Up & Sit Down: Some Tips for Rules Explanations!](http://www.shutupandsitdown.com/blog/post/some-tips-rules-explanations/)
 * [Hac φ - HaskellWiki](http://www.haskell.org/haskellwiki/Hac_%CF%86)
 * [Hac Phi - Philly Lambda (Philadelphia, PA) - Meetup](http://www.meetup.com/Philly-Lambda/events/197514062/)
