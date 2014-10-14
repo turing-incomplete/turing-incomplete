@@ -1,0 +1,23 @@
+---
+episode: 23
+title: Teaching
+date: 2014-10-14
+tags: learning
+mp3: http://episodes.turing.cool/Turing-Incomplete-23.mp3
+explicit: false
+file_size: 40922049
+seconds: 3454
+---
+
+Kids can be punks.
+
+* [Shut Up & Sit Down: Some Tips for Rules Explanations!](http://www.shutupandsitdown.com/blog/post/some-tips-rules-explanations/)
+* [Hac φ - HaskellWiki](http://www.haskell.org/haskellwiki/Hac_%CF%86)
+* [Hac Phi - Philly Lambda (Philadelphia, PA) - Meetup](http://www.meetup.com/Philly-Lambda/events/197514062/)
+
+### Picks
+
+* Pam: [A Pattern Language](https://archive.org/details/APatternLanguage)
+* Jearvon: [Headspace](https://www.headspace.com/headspace-meditation-app)
+* Justin: [CodeNewbie](http://www.codenewbie.org/), [tmate](http://tmate.io/)
+* Len: [HabitRPG](http://habitrpg.com)
