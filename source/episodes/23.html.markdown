@@ -9,6 +9,8 @@ file_size: 22099385
 seconds: 1827
 ---
 
+Ridiculous ridiculousness
+
 [Reflections on Trusting Trust (pdf)](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 
 ### Picks
