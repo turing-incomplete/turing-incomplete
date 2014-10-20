@@ -1,24 +1,19 @@
 ---
-episode: 23
-title: Teaching
-date: 2014-10-14
-tags: learning
-mp3: http://episodes.turing.cool/Turing-Incomplete-23.mp3
-explicit: false
-file_size: 32575443
-seconds: 2066
+episode: 24
+title: Trust
+date: 2014-10-20
+tags: security
+mp3: http://episodes.turing.cool/Turing-Incomplete-24.mp3
+explicit: true
+file_size: 22099385
+seconds: 1827
 ---
 
-Kids can be punks.
-
-* [words-to-avoid.vim](https://github.com/nicholaides/words-to-avoid.vim)
-* [Shut Up & Sit Down: Some Tips for Rules Explanations!](http://www.shutupandsitdown.com/blog/post/some-tips-rules-explanations/)
-* [Hac φ - HaskellWiki](http://www.haskell.org/haskellwiki/Hac_%CF%86)
-* [Hac Phi - Philly Lambda (Philadelphia, PA) - Meetup](http://www.meetup.com/Philly-Lambda/events/197514062/)
+[Reflections on Trusting Trust (pdf)](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 
 ### Picks
 
-* Pam: [A Pattern Language](https://archive.org/details/APatternLanguage)
-* Jearvon: [Headspace](https://www.headspace.com/headspace-meditation-app)
-* Justin: [CodeNewbie](http://www.codenewbie.org/), [tmate](http://tmate.io/)
-* Len: [HabitRPG](http://habitrpg.com)
+* Pam: A book, a blanket and a day without work
+* Justin: [AmazonSmile](http://smile.amazon.com/)
+* Jearvon: [PlayStation 4](http://smile.amazon.com/PlayStation-4-Console/dp/B00BGA9WK2/ref=sr_1_1?ie=UTF8&qid=1413778662&sr=8-1&keywords=PS4), [Screenhero](https://screenhero.com/)
+* Len: [“I Took Last Place in the CrossFit Games Open” By Industrious Athlete Greg L](http://www.crossfitindustrious.com/i-took-last-place-in-the-crossfit-games-open-by-industrious-athlete-greg-l/)
