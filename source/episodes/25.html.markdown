@@ -1,0 +1,20 @@
+---
+episode: 25
+title: Jana Veliskova on Getting Started in the Industry
+date: 2014-10-24
+tags: learning, guests
+mp3: http://episodes.turing.cool/Turing-Incomplete-25.mp3
+explicit: true
+file_size: 30430464
+seconds: 2674
+---
+[Jana Veliskova](https://twitter.com/jveliskova) talks to us about breaking into the industry.
+
+### Picks
+
+* Justin: Flossing daily.
+* Pam: [Revision Path](http://revisionpath.com/about/)
+* Jana: Salsa Dancing
+* Jearvon: [Foo Fighters - Something From Nothing ](https://www.youtube.com/watch?v=Y3B0Vx_yQgo), [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+* Len: [Star Realms Deckbuilding Game](http://smile.amazon.com/White-Wizard-Games-Realms-Deckbuilding/dp/B00HRGMPIU/ref=sr_1_1?ie=UTF8&qid=1414118662&sr=8-1&keywords=star+realms) [(iTunes)](https://itunes.apple.com/us/app/star-realms/id893447125?mt=8)
+
