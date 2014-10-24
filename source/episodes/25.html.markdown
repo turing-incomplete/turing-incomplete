@@ -10,6 +10,8 @@ seconds: 2674
 ---
 [Jana Veliskova](https://twitter.com/jveliskova) talks to us about breaking into the industry.
 
+* [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
+
 ### Picks
 
 * Justin: Flossing daily.
