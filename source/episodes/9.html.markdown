@@ -2,7 +2,7 @@
 episode: 9
 title: Distributed Teams
 date: 2014-07-03
-tags: remote, colocation
+tags: remote
 mp3: http://episodes.turing.cool/Turing-Incomplete-9.mp3
 explicit: false
 file_size: 34974550
