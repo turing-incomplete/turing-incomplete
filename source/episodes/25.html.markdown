@@ -2,7 +2,7 @@
 episode: 25
 title: Jana Veliskova on Getting Started in the Industry
 date: 2014-10-24
-tags: learning, guests
+tags: learning, guest
 mp3: http://episodes.turing.cool/Turing-Incomplete-25.mp3
 explicit: true
 file_size: 30430464

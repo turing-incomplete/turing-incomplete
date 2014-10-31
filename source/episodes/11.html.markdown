@@ -2,7 +2,7 @@
 episode: 11
 title: Quality
 date: 2014-07-18
-tags: quality, software craftsmanship
+tags: software craftsmanship
 mp3: http://episodes.turing.cool/Turing-Incomplete-11.mp3
 explicit: false
 file_size: 28544548

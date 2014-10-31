@@ -2,7 +2,7 @@
 episode: 8
 title: Off By One Error
 date: 2014-06-27
-tags: blogging, books, javascript
+tags: book, javascript
 mp3: http://episodes.turing.cool/Turing-Incomplete-8.mp3
 explicit: false
 file_size: 34308304
