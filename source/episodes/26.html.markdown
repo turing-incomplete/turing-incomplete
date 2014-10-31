@@ -18,6 +18,6 @@ I just throw my hands in the air.
 * Pam: [Questions I'm asking in interviews - Julia Evans](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
 * Len: [junegunn/vim-plug](https://github.com/junegunn/vim-plug)
 * Jearvon: [tmux](http://tmux.sourceforge.net/), [Prelude](http://hackage.haskell.org/package/base-4.7.0.1/docs/Prelude.html#v:reverse)
-* Justin: [OCaml – OCaml](https://ocaml.org/), [Comparing Objective Caml and Standard ML](http://adam.chlipala.net/mlcomp/)
+* Justin: [OCaml](https://ocaml.org/), [Comparing Objective Caml and Standard ML](http://adam.chlipala.net/mlcomp/)
 
 
