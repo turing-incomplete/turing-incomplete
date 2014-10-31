@@ -1,0 +1,23 @@
+---
+episode: 26
+title: Interviews
+date: 2014-10-31
+tags: interviews
+mp3: http://episodes.turing.cool/Turing-Incomplete-26.mp3
+explicit: true
+file_size: 27566853
+seconds: 2309
+---
+
+I just throw my hands in the air.
+
+* [https://www.fiverr.com/makemebark](https://www.fiverr.com/makemebark)
+* [Turing-Incomplete (@turingcool)](https://twitter.com/turingcool)
+
+### Picks
+* Pam: [Questions I'm asking in interviews - Julia Evans](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+* Len: [junegunn/vim-plug](https://github.com/junegunn/vim-plug)
+* Jearvon: [tmux](http://tmux.sourceforge.net/), [Prelude](http://hackage.haskell.org/package/base-4.7.0.1/docs/Prelude.html#v:reverse)
+* Justin: [OCaml](https://ocaml.org/), [Comparing Objective Caml and Standard ML](http://adam.chlipala.net/mlcomp/)
+
+
