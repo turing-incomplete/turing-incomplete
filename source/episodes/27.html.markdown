@@ -15,6 +15,7 @@ The most agile thing I've ever *****ng heard.
 * [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 * [Manifesto for Half-Arsed Agile Software Development](http://www.halfarsedagilemanifesto.org/)
 * [Agile Is Dead (Long Live Agility)](http://pragdave.me/blog/2014/03/04/time-to-kill-agile/)
+* [Parkinson's law](http://en.wikipedia.org/wiki/Parkinson's_law)
 * [Real Software Engineering](http://www.infoq.com/presentations/Software-Engineering) - [(youtube)](https://www.youtube.com/watch?v=taoPYaOg9Uc)
 * [Technical.ly Philly](http://technical.ly/philly/)
 * [Pair Programming Bot](http://pairprogrammingbot.herokuapp.com/)
