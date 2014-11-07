@@ -1,0 +1,27 @@
+---
+episode: 27
+title: Agile
+date: 2014-11-07
+tags: agile
+mp3: http://episodes.turing.cool/Turing-Incomplete-27.mp3
+explicit: true
+file_size: 28793213
+seconds: 2423
+---
+
+The most agile thing I've ever *****ng heard.
+
+* [The Last of Us: The Movie](https://www.youtube.com/watch?v=2VOKI9k0kc4)
+* [Manifesto for Agile Software Development](http://agilemanifesto.org/)
+* [Manifesto for Half-Arsed Agile Software Development](http://www.halfarsedagilemanifesto.org/)
+* [Agile Is Dead (Long Live Agility)](http://pragdave.me/blog/2014/03/04/time-to-kill-agile/)
+* [Real Software Engineering](http://www.infoq.com/presentations/Software-Engineering) - [(youtube)](https://www.youtube.com/watch?v=taoPYaOg9Uc)
+* [Technical.ly Philly](http://technical.ly/philly/)
+* [Pair Programming Bot](http://pairprogrammingbot.herokuapp.com/)
+
+### Picks
+* Pam: [Your Path through Agile Fluency](http://martinfowler.com/articles/agileFluency.html#Four-starTeamsContributeToOptimizingTheSystem)
+* Len: [Mary and Tom Poppendieck on using Lean for Competitive Advantage](http://www.infoq.com/interviews/poppendieck-lean-2007), [Keynote: Real Software Engineering](http://www.infoq.com/presentations/Software-Engineering) [(youtube)](https://www.youtube.com/watch?v=taoPYaOg9Uc) 
+* Jearvon: [Coup](http://boardgamegeek.com/boardgame/131357/coup)
+* Justin: [laurilehmijoki/configure-s3-website](https://github.com/laurilehmijoki/configure-s3-website)
+
