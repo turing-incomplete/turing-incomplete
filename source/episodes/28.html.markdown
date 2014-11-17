@@ -1,0 +1,24 @@
+---
+episode: 28
+title: Umlauts are Metal with Kelsey Gilmore-Innis
+date: 2014-11-17
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-28.mp3
+explicit: true
+file_size: 39374969
+seconds: 3381
+---
+
+Users are the enemy of your computing.
+
+* [About Kelsey - blog blog blog](http://nerd.kelseyinnis.com/about/)
+* [Turing-Incomplete Logo, Black Flag Style](https://pbs.twimg.com/media/B2Xp0cuIIAArG6H.jpg)
+* [Godel, Escher, Bach](http://www.amazon.com/dp/0394745027/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=28O58ZOGFFET7&coliid=I3D9NNBXFK4NN3)
+
+### Picks
+
+* Kelsey: [edna piranha](http://ednapiranha.com/), [var t;](http://vart.institute/)
+* Pam: [Tiny ToCS Volume 3: CFP](http://tinytocs.org/), [SPACE TIME](http://spacetimeapp.herokuapp.com/), [Hack the Universe](https://github.com/hacktheuniverse)
+* Len: [Kickended](http://kickended.com/): [(example1)](https://www.kickstarter.com/projects/443959729/a-music-video-for-the-band-piel?ref=nav_search), [(example2)](https://www.kickstarter.com/projects/1219416329/couples-youtube-channel?ref=nav_search)
+* Jearvon: [Manning: The Joy of Clojure](http://www.manning.com/fogus2/), [GNU Emacs](http://www.gnu.org/software/emacs/), [Sonic Highways](http://sonichighways.foofighters.com/collections/frontpage/products/cd)
+* Justin: [The Rust Programming Language](http://www.rust-lang.org/)
