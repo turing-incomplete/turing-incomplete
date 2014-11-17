@@ -7,16 +7,25 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-25.mp3
 explicit: true
 file_size: 30430464
 seconds: 2674
+picks:
+  Justin:
+    - text: Flossing daily
+  Pam:
+    - text: Revision Path
+      url: http://revisionpath.com/about/
+  Jana:
+    - text: Salsa Dancing
+  Jearvon:
+    - text: Foo Fighters - Something From Nothing
+      url: https://www.youtube.com/watch?v=Y3B0Vx_yQgo
+    - text: Learn You a Haskell for Great Good!
+      url: http://learnyouahaskell.com
+  Len:
+    - text: Star Realms Deckbuilding Game
+      url: http://smile.amazon.com/White-Wizard-Games-Realms-Deckbuilding/dp/B00HRGMPIU/ref=sr_1_1?ie=UTF8&qid=1414118662&sr=8-1&keywords=star+realms
+    - text: Star Realms (iTunes)
+      url: https://itunes.apple.com/us/app/star-realms/id893447125?mt=8
 ---
 [Jana Veliskova](https://twitter.com/jveliskova) talks to us about breaking into the industry.
 
 * [Application Cache is a Douchebag](http://alistapart.com/article/application-cache-is-a-douchebag)
-
-### Picks
-
-* Justin: Flossing daily.
-* Pam: [Revision Path](http://revisionpath.com/about/)
-* Jana: Salsa Dancing
-* Jearvon: [Foo Fighters - Something From Nothing ](https://www.youtube.com/watch?v=Y3B0Vx_yQgo), [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
-* Len: [Star Realms Deckbuilding Game](http://smile.amazon.com/White-Wizard-Games-Realms-Deckbuilding/dp/B00HRGMPIU/ref=sr_1_1?ie=UTF8&qid=1414118662&sr=8-1&keywords=star+realms) [(iTunes)](https://itunes.apple.com/us/app/star-realms/id893447125?mt=8)
-

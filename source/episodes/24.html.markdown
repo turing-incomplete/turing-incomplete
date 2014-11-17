@@ -7,15 +7,23 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-24.mp3
 explicit: true
 file_size: 22099385
 seconds: 1827
+picks:
+  Pam:
+    - text: A Book, A Blanket, A Day Without Work - Lisli
+      url: http://blog.lisa-yoder.com/book-blanket-day-without-work/
+  Justin:
+    - text: AmazonSmile
+      url: http://smile.amazon.com/
+  Jearvon:
+    - text: PlayStation 4
+      url: http://smile.amazon.com/PlayStation-4-Console/dp/B00BGA9WK2/ref=sr_1_1?ie=UTF8&qid=1413778662&sr=8-1&keywords=PS4
+    - text: Screenhero
+      url: https://screenhero.com/
+  Len:
+    - text: “I Took Last Place in the CrossFit Games Open” By Industrious Athlete Greg L
+      url: http://www.crossfitindustrious.com/i-took-last-place-in-the-crossfit-games-open-by-industrious-athlete-greg-l/
 ---
 
 Ridiculous ridiculousness
 
 [Reflections on Trusting Trust (pdf)](http://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
-
-### Picks
-
-* Pam: [A Book, A Blanket, A Day Without Work - Lisli](http://blog.lisa-yoder.com/book-blanket-day-without-work/)
-* Justin: [AmazonSmile](http://smile.amazon.com/)
-* Jearvon: [PlayStation 4](http://smile.amazon.com/PlayStation-4-Console/dp/B00BGA9WK2/ref=sr_1_1?ie=UTF8&qid=1413778662&sr=8-1&keywords=PS4), [Screenhero](https://screenhero.com/)
-* Len: [“I Took Last Place in the CrossFit Games Open” By Industrious Athlete Greg L](http://www.crossfitindustrious.com/i-took-last-place-in-the-crossfit-games-open-by-industrious-athlete-greg-l/)
