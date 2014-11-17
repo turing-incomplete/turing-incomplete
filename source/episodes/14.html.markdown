@@ -2,13 +2,13 @@
 episode: 14
 title: Pair Programming with Joe Moore
 date: 2014-08-08
-tags: pairing
+tags: guest, pairing
 mp3: http://episodes.turing.cool/Turing-Incomplete-14.mp3
 explicit: false
 file_size: 21249096
 seconds: 2179
 picks:
-  Joe:
+  Joe Moore:
     - text: "OSX Screen Sharing Tool"
       url: "http://remotepairprogramming.com/post/77905116436/screen-sharing-app-its-built-in-to-your-mac-use-it"
   Jearvon:

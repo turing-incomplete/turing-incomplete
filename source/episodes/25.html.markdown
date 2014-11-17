@@ -13,7 +13,7 @@ picks:
   Pam:
     - text: Revision Path
       url: http://revisionpath.com/about/
-  Jana:
+  Jana Veliskova:
     - text: Salsa Dancing
   Jearvon:
     - text: Foo Fighters - Something From Nothing

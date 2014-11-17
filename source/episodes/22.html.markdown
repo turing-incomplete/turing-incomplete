@@ -8,7 +8,7 @@ explicit: false
 file_size: 40922049
 seconds: 3454
 picks:
-  Corey:
+  Corey Haines:
     - text: "On the criteria to be used in decomposing systems into modules"
       url: "http://dl.acm.org/citation.cfm?id=361623"
     - text: "An Introduction to Functional Programming Through Lambda Calculus"

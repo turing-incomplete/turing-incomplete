@@ -2,7 +2,7 @@
 episode: 17
 title: write/speak/code, Junior Developers and Apprenticeships with Rebecca Miller-Webster
 date: 2014-08-29
-tags: learning, diversity
+tags: guest, learning, diversity
 mp3: http://episodes.turing.cool/Turing-Incomplete-17.mp3
 explicit: true
 file_size: 30417173
@@ -24,7 +24,7 @@ picks:
   Len:
     - text: "Overcast"
       url: "https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?mt=8"
-  Rebecca:
+  Rebecca Miller-Webster:
     - text: "write/speak/code"
       url: "http://writespeakcode.com"
     - text: "Lucky Boys Confusion, Fred Astaire Live"
