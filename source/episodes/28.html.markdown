@@ -2,7 +2,7 @@
 episode: 28
 title: Umlauts are Metal with Kelsey Gilmore-Innis
 date: 2014-11-18
-tags: random
+tags: guest, random
 mp3: http://episodes.turing.cool/Turing-Incomplete-28.mp3
 explicit: true
 file_size: 39374969
