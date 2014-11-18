@@ -7,16 +7,22 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-3.mp3
 explicit: false
 file_size: 30001781
 seconds: 2347
+picks:
+  Pam:
+    - text: "Symbolia"
+      url: "http://www.symboliamag.com/"
+  Len:
+    - text: "Marvel Unlimited"
+      url: "http://marvel.com/comics/unlimited"
+  Justin:
+    - text: "Git Chain"
+      url: "http://gitchain.org"
+  Jearvon:
+    - text: "An Introduction to Programming in Go"
+      url: "http://golang-book.com"
 ---
 People passionate about their craft usually have an origin story.  We'll explore ours today.
 
 * [Code Rush](https://www.devexpress.com/Products/CodeRush/)
 * [Dustin Campbell](http://twitter.com/dcampbell)
 * [Code Smells](http://en.wikipedia.org/wiki/Code_smell)
-
-#### Picks
-
-* [Symbolia](http://www.symboliamag.com/)
-* [Marvel Unlimited](http://marvel.com/comics/unlimited)
-* [Git Chain](http://gitchain.org)
-* [An Introduction to Programming in Go](http://golang-book.com)

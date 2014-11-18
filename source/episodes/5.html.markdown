@@ -7,6 +7,19 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-5.mp3
 explicit: false
 file_size: 23765201
 seconds: 1879
+picks:
+  Pam:
+    - text: "The Beach"
+      url: "http://en.wikipedia.org/wiki/Cape_May,_New_Jersey"
+  Justin:
+    - text: "transpec"
+      url: "http://yujinakayama.me/transpec/"
+  Jearvon:
+    - text: "StrangeLoop"
+      url: "https://thestrangeloop.com/"
+  Len:
+    - text: "Talent is Overrated"
+      url: "http://www.amazon.com/Talent-Overrated-Separates-World-Class-Performers/dp/1591842948"
 ---
 
 The best people for the cheapest price.
@@ -17,11 +30,3 @@ The best people for the cheapest price.
 * [neovim](https://github.com/neovim/neovim) *11:00*
 * [Ron Jeffries](https://twitter.com/RonJeffries) *12:00*
 * [Dimensionality and the Eternal Haskell Tax](http://michaelochurch.wordpress.com/2014/06/06/why-programmers-cant-make-any-money-dimensionality-and-the-eternal-haskell-tax/I) *26:40*
-
-
-#### Picks
-
-* Pam: [The Beach](http://en.wikipedia.org/wiki/Cape_May,_New_Jersey)
-* Justin: [transpec](http://yujinakayama.me/transpec/)
-* Jearvon: [StrangeLoop](https://thestrangeloop.com/)
-* Len: [Talent is Overrated](http://www.amazon.com/Talent-Overrated-Separates-World-Class-Performers/dp/1591842948)

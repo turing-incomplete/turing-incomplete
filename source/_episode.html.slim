@@ -12,6 +12,8 @@
   .row
     article.body = episode.body
 
+    = partial "picks", locals: { episode_picks: episode.data['picks'] }
+
   .row
     .audio-wrapper
       audio controls=""

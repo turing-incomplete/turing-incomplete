@@ -7,17 +7,26 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-26.mp3
 explicit: true
 file_size: 27566853
 seconds: 2309
+picks:
+  Pam:
+    - text: Questions I'm asking in interviews - Julia Evans
+      url: http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews
+  Len:
+    - text: junegunn/vim-plug
+      url: https://github.com/junegunn/vim-plug
+  Jearvon:
+    - text: tmux
+      url: http://tmux.sourceforge.net
+    - text: Prelude
+      url: http://hackage.haskell.org/package/base-4.7.0.1/docs/Prelude.html#v:reverse
+  Justin:
+    - text: OCaml
+      url: https://ocaml.org
+    - text: Comparing Objective Caml and Standard ML
+      url: http://adam.chlipala.net/mlcomp
 ---
 
 I just throw my hands in the air.
 
 * [https://www.fiverr.com/makemebark](https://www.fiverr.com/makemebark)
 * [Turing-Incomplete (@turingcool)](https://twitter.com/turingcool)
-
-### Picks
-* Pam: [Questions I'm asking in interviews - Julia Evans](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
-* Len: [junegunn/vim-plug](https://github.com/junegunn/vim-plug)
-* Jearvon: [tmux](http://tmux.sourceforge.net/), [Prelude](http://hackage.haskell.org/package/base-4.7.0.1/docs/Prelude.html#v:reverse)
-* Justin: [OCaml](https://ocaml.org/), [Comparing Objective Caml and Standard ML](http://adam.chlipala.net/mlcomp/)
-
-

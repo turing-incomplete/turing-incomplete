@@ -7,6 +7,19 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-8.mp3
 explicit: false
 file_size: 34308304
 seconds: 2730
+picks:
+  Pam:
+    - text: "Neuromancer"
+      url: "http://en.wikipedia.org/wiki/Neuromancer"
+  Jearvon:
+    - text: "Highlight"
+      url: "http://www.andre-simon.de/"
+  Len:
+    - text: "Vic Ramon's Ember Tutorial"
+      url: "http://ember.vicramon.com/"
+  Justin:
+    - text: "How I Start"
+      url: "http://howistart.org/"
 ---
 
 Alan Turing, Static Site Generators, and Pam's book
@@ -24,10 +37,3 @@ Alan Turing, Static Site Generators, and Pam's book
 * [OpenShift](http://openshift.com) *28:35*
 * [HireFire](http://hirefire.io) *30:45*
 * [Pam's book](http://bleedingedgepress.com/our-books/choosing-javascript-framework/) *33:30*
-
-#### Picks
-
-* Pam: [Neuromancer](http://en.wikipedia.org/wiki/Neuromancer)
-* Jearvon: [Highlight](http://www.andre-simon.de/)
-* Len: [Vic Ramon's Ember Tutorial](http://ember.vicramon.com/)
-* Justin: [How I Start](http://howistart.org/)

@@ -7,6 +7,25 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-16.mp3
 explicit: false
 file_size: 34454014
 seconds: 2153
+picks:
+  Justin:
+    - text: "Haskell"
+      url: "http://www.haskell.org/haskellwiki/Haskell"
+  Pam:
+    - text: "Genie.js"
+      url: "http://kent.doddsfamily.us/genie/"
+    - text: "Giraffes Drawn By People Who Should Not Be Drawing Giraffes"
+      url: "http://prettyawfulgiraffes.wordpress.com"
+  Len:
+    - text: "RubyMotion"
+      url: "http://www.rubymotion.com"
+  Jearvon:
+    - text: "Jay-Z: MTV Unplugged"
+      url: "http://en.wikipedia.org/wiki/MTV_Unplugged_(Jay-Z_album)"
+    - text: "The Resistance"
+      url: "http://boardgamegeek.com/boardgame/41114/resistance"
+    - text: "Going to conferences"
+      url: "http://google.com"
 ---
 
 With everyone returning from Midwest.JS and Steel City Ruby, we reminisce about the conferences, complain about the post office, and debate what Devops is.
@@ -29,13 +48,3 @@ With everyone returning from Midwest.JS and Steel City Ruby, we reminisce about 
 * [OpenShift](https://www.openshift.com) *22:55*
 * [Continuously deploying your (free) OpenShift site with Travis CI](http://thewebivore.com/continuously-deploying-free-openshift-site-travis-ci/) *26:03*
 * [What Exactly is DevOps?](http://www.drdobbs.com/architecture-and-design/what-exactly-is-devops/240009147) *29:09*
-
-### Picks
-
-* Justin: [Haskell](http://www.haskell.org/haskellwiki/Haskell)
-* Pam: [Genie.js](http://kent.doddsfamily.us/genie/)
-* Pam: [Giraffes Drawn By People Who Should Not Be Drawing Giraffes](http://prettyawfulgiraffes.wordpress.com)
-* Len: [RubyMotion](http://www.rubymotion.com)
-* Jearvon: [Jay-Z: MTV Unplugged](http://en.wikipedia.org/wiki/MTV_Unplugged_(Jay-Z_album))
-* Jearvon: [The Resistance](http://boardgamegeek.com/boardgame/41114/resistance)
-* Jearvon: Going to conferences

@@ -7,6 +7,21 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-12.mp3
 explicit: false
 file_size: 30210423
 seconds: 2629
+picks:
+  Jearvon:
+    - text: "Phantogram - Fall In Love"
+      url: "https://soundcloud.com/ericdlux/phantogram-fall-in-love-eric-dlux-remix-feat-gilbere-forte"
+    - text: "Rails As She Is Spoke"
+      url: "http://railsoopbook.com/"
+  Justin:
+    - text: "Destiny"
+      url: "http://www.destinythegame.com/"
+  Pam:
+    - text: "This Is My Jam"
+      url: "https://www.thisismyjam.com/"
+  Len:
+    - text: "WWDC App"
+      url: "https://itunes.apple.com/us/app/wwdc/id640199958?mt=8"
 ---
 
 There's so much stuff in it.
@@ -14,10 +29,3 @@ There's so much stuff in it.
 * [Choosing a JavaScript Framework](http://bleedingedgepress.com/our-books/choosing-javascript-framework/) *15:45*
 * [Onion.js](https://github.com/markevans/onionjs) *34:20*
 * [A Build First Approach](http://bevacqua.io/buildfirst) *35:40*
-
-#### Picks
-
-* Jearvon: [Phantogram - Fall In Love](https://soundcloud.com/ericdlux/phantogram-fall-in-love-eric-dlux-remix-feat-gilbere-forte), [Rails As She Is Spoke](http://railsoopbook.com/)
-* Justin: [Destiny](http://www.destinythegame.com/)
-* Pam: [This Is My Jam](https://www.thisismyjam.com/)
-* Len: [WWDC App](https://itunes.apple.com/us/app/wwdc/id640199958?mt=8)

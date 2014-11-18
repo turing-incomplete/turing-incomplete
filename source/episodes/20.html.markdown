@@ -7,6 +7,21 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-20.mp3
 explicit: true
 file_size: 22334755
 seconds: 1791
+picks:
+  Pam:
+    - text: "Underwater Puppies"
+      url: "http://www.cbsnews.com/pictures/underwater-puppies-seth-casteel/"
+    - text: "Solving Sol"
+      url: "http://solvingsol.com/"
+  Justin:
+    - text: "GroupMe"
+      url: "https://app.groupme.com/chats"
+  Len:
+    - text: "Awesomenauts"
+      url: "http://www.awesomenauts.com/"
+  Jearvon:
+    - text: "Flume - Sleepless"
+      url: "https://www.youtube.com/watch?v=aAEQt7wq44w"
 ---
 
 Accept no substitutions
@@ -17,10 +32,3 @@ Accept no substitutions
 * [Issues · turing-incomplete/turing-incomplete](https://github.com/turing-incomplete/turing-incomplete/issues/)
 * [HackHands - On demand mentorship](https://hackhands.com/)
 * [Become the Best Web Developer You Can Be in 1 Simple Step — CSS Perverts — Medium](https://medium.com/cool-code-pal/become-the-best-web-developer-you-can-be-in-1-simple-step-b24e3b3d751)
-
-### Picks
-
-* Pam: [Underwater Puppies](http://www.cbsnews.com/pictures/underwater-puppies-seth-casteel/), [Solving Sol](http://solvingsol.com/)
-* Justin: [GroupMe](https://app.groupme.com/chats)
-* Len: [Awesomenauts](http://www.awesomenauts.com/)
-* Jearvon: [Flume - Sleepless](https://www.youtube.com/watch?v=aAEQt7wq44w)

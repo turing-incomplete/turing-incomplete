@@ -7,6 +7,19 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-4.mp3
 explicit: false
 file_size: 23596238
 seconds: 1858
+picks:
+  Pam:
+    - text: "Open Web Art"
+      url: "https://github.com/whichlight/jsconf-open-web-art"
+  Jearvon:
+    - text: "Clojure for the Brave and True"
+      url: "http://www.braveclojure.com"
+  Justin:
+    - text: "Hiccup"
+      url: "https://github.com/weavejester/hiccup"
+  Len:
+    - text: "Reality is Broken"
+      url: "http://www.amazon.com/Reality-Is-Broken-Better-Change/dp/0143120611"
 ---
 
 
@@ -16,10 +29,3 @@ seconds: 1858
 * [Sentry](https://getsentry.com/welcome/) *8:34*
 * [Swift](https://developer.apple.com/swift/) *11:38*
 * [Ruby Motion on Android](http://www.rubymotion.com/support/) *19:08*
-
-#### Picks
-
-* Pam: [Open Web Art](https://github.com/whichlight/jsconf-open-web-art)
-* Jearvon: [Clojure for the Brave and True](http://www.braveclojure.com)
-* Justin: [Hiccup](https://github.com/weavejester/hiccup)
-* Len: [Reality is Broken](http://www.amazon.com/Reality-Is-Broken-Better-Change/dp/0143120611)

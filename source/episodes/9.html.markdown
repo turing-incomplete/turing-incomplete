@@ -7,6 +7,21 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-9.mp3
 explicit: false
 file_size: 34974550
 seconds: 2730
+picks:
+  Pam:
+    - text: "Results Only Work Environment"
+      url:  "http://www.gorowe.com/"
+    - text: "Total Recall"
+      url: "http://www.imdb.com/name/nm0000682/"
+  Justin:
+    - text: "Learn Haskell"
+      url: "https://github.com/bitemyapp/learnhaskell"
+  Jearvon:
+    - text: "elasticsearch – the definitive guide"
+      url: "http://www.elasticsearch.org/blog/elasticsearch-definitive-guide/"
+  Len:
+    - text: "Wide Teams"
+      url: "http://www.wideteams.com/category/podcast/"
 ---
 
 iPad on a Segway
@@ -16,10 +31,3 @@ iPad on a Segway
 * [Science](http://i.imgur.com/dJcJXsX.gif) *24:00*
 * [tmate](http://tmate.io) *25:50*
 * [ScreenHero](http://screenhero.com) *26:30*
-
-#### Picks
-
-* Pam: [Results Only Work Environment](http://www.gorowe.com/), [Total Recall](http://www.imdb.com/name/nm0000682/)
-* Justin: [Learn Haskell](https://github.com/bitemyapp/learnhaskell)
-* Jearvon: [elasticsearch – the definitive guide](http://www.elasticsearch.org/blog/elasticsearch-definitive-guide/)
-* Len: [Wide Teams](http://www.wideteams.com/category/podcast/)
