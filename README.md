@@ -4,15 +4,21 @@ Source code for [turing.cool](http://turing.cool)
 
 ## Developing Locally
 
-The site uses [Middleman](http://middlemanapp.com) for generating static HTML and assets from source files. To setup Middleman and other dependencies, use [Bundler](http://bundler.io):
+The site uses [Middleman](http://middlemanapp.com) for generating static HTML and assets from source files. To setup Middleman and other dependencies, and build the site, use Make:
 
-    $ bundle
-    Using middleman-core
-    Using middleman
+    $ make
+    rm -rf build/
+    which bundle || gem install bundler
+    ~/.gem/ruby/2.1.3/bin/bundle
+    bundle check || bundle install
+    The Gemfile's dependencies are satisfied
+    time bundle exec middleman build
+          create  build/stylesheets/normalize.css
+          create  build/stylesheets/index.css
+          create  build/stylesheets/all.css
     ...
-    Your bundle is complete!
 
-You can now host the site locally by running Middleman:
+If you want to setup a server that will automatically update changes you make locally, use the `middleman` command to start a web server on port 4567:
 
     $ middleman
     == The Middleman is loading
