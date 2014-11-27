@@ -1,0 +1,24 @@
+---
+episode: 29
+title: 3... 2... 1... Go
+date: 2014-11-27
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-29.mp3
+explicit: true
+file_size: 23879780
+seconds: 2022
+---
+
+Not the same degree of early
+
+* [Matz at RubyConf 2014: Will Ruby 3.0 be Statically Typed? - The Omniref Blog](http://www.omniref.com/blog/blog/2014/11/17/matz-at-rubyconf-2014-will-ruby-3-dot-0-be-statically-typed/)
+* [Flow - A static type checker for JavaScript](http://flowtype.org/)
+* [In Cold Blood - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/In_Cold_Blood)
+* [Polymorphism - HaskellWiki](https://www.haskell.org/haskellwiki/Polymorphism)
+
+### Picks
+
+* Pam: [Belize](http://en.wikipedia.org/wiki/Belize)
+* Len: [Serial](http://serialpodcast.org/)
+* Jearvon: [Learning Haskell as a Nonprogrammer](http://superginbaby.wordpress.com/2014/11/18/learning-haskell-as-a-nonprogrammer/)
+* Justin: [Geometry Wars 3: Dimensions - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Geometry_Wars_3:_Dimensions)
