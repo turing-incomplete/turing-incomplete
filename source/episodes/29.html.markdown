@@ -7,6 +7,21 @@ mp3: http://episodes.turing.cool/Turing-Incomplete-29.mp3
 explicit: true
 file_size: 23879780
 seconds: 2022
+picks:
+  Pam:
+    - text: Belize
+      url: http://en.wikipedia.org/wiki/Belize
+  Len:
+    - text: Serial
+      url: http://serialpodcast.org/
+  Jearvon:
+    - text: Lake Street Dive
+      url: http://www.lakestreetdive.com/
+    - text: Strange Loop
+      url: https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWD
+  Justin:
+    - text: "Geometry Wars 3 Dimensions - Wikipedia, the free encyclopedia"
+      url: http://en.wikipedia.org/wiki/Geometry_Wars_3:_Dimensions
 ---
 
 Not the same degree of early
@@ -15,10 +30,3 @@ Not the same degree of early
 * [Flow - A static type checker for JavaScript](http://flowtype.org/)
 * [In Cold Blood - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/In_Cold_Blood)
 * [Polymorphism - HaskellWiki](https://www.haskell.org/haskellwiki/Polymorphism)
-
-### Picks
-
-* Pam: [Belize](http://en.wikipedia.org/wiki/Belize)
-* Len: [Serial](http://serialpodcast.org/)
-* Jearvon: [Learning Haskell as a Nonprogrammer](http://superginbaby.wordpress.com/2014/11/18/learning-haskell-as-a-nonprogrammer/)
-* Justin: [Geometry Wars 3: Dimensions - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Geometry_Wars_3:_Dimensions)
