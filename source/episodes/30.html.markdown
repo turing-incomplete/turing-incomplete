@@ -15,8 +15,8 @@ picks:
     - text: ProTube
       url: https://itunes.apple.com/cz/app/id931201696
   Jearvon:
-    - text: How to learn new things using side-projects
-      url: http://blog.greatcodeclub.com/learn-new-things/
+    - text: A Supplemental Guide to Caleb Doxsey’s Book on Golang
+      url: http://chelseatroy.com/2014/11/30/a-supplemental-guide-to-caleb-doxseys-book-on-golang/
   Justin:
     - text: Switch.vim
       url: https://github.com/AndrewRadev/switch.vim
