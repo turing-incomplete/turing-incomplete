@@ -1,0 +1,32 @@
+---
+episode: 30
+title: (Developer) Happiness
+date: 2014-12-05
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-30.mp3
+explicit: true
+file_size: 29750755
+seconds: 2425
+picks:
+  Pam:
+    - text: Flux
+      url: https://justgetflux.com/
+  Len:
+    - text: ProTube
+      url: https://itunes.apple.com/cz/app/id931201696
+  Jearvon:
+    - text: How to learn new things using side-projects
+      url: http://blog.greatcodeclub.com/learn-new-things/
+  Justin:
+    - text: Switch.vim
+      url: https://github.com/AndrewRadev/switch.vim
+---
+
+If you have a lifestyle...
+
+* [The hierarchy of developer needs: Creativeness, not money is the top motivator](http://www.visionmobile.com/blog/2013/08/the-hierarchy-of-developer-needs-creativeness-not-money-is-the-top-motivator/)
+* [Hierarchy of Developer Needs](http://agilecoach.typepad.com/agile-coaching/2013/11/hierarchy-of-developer-needs.html)
+* [Lottery winners and accident victims: is happiness relative? - PubMed - NCBI](http://www.ncbi.nlm.nih.gov/pubmed/690806)
+* [Paleo Vegan: Plant-Based Primal Recipes](http://www.amazon.com/Paleo-Vegan-Plant-Based-Primal-Recipes/dp/1570673055)
+* [Questions I'm asking in interviews - Julia Evans](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+* [Apache Thrift - Home](https://thrift.apache.org/)
