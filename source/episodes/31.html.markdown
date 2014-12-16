@@ -1,0 +1,30 @@
+---
+episode: 31
+title: Writing Software your Entire Career
+date: 2014-12-16
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-31.mp3
+explicit: true
+file_size: 22364555
+seconds: 1859
+picks:
+  Len:
+    - text: Pocket Casts
+      url: http://play.pocketcasts.com
+  Pam:
+    - text: Big Beacon Manifesto
+      url: http://bigbeacon.org/big-beacon-manifesto.pdf
+  Jearvon:
+    - text: garybernhardt/selecta
+      url: https://github.com/garybernhardt/selecta
+  Justin:
+    - text: "Haskell on Heroku"
+      url: https://haskellonheroku.com/
+---
+
+You can't handle the heat.
+
+* [Photos from Vivek Vinodh's post in Hackathon Hackers](https://www.facebook.com/photo.php?fbid=893263917359079&set=gm.929768603745292&type=1&theater)
+* [The Whole Professional](http://cacm.acm.org/magazines/2014/12/180773-the-whole-professional/abstract#R6)
+* [Lissajous Audio Environment](http://lissajousjs.com/)
+* [Korean Gamers: APM Demonstration - YouTube](https://www.youtube.com/watch?v=YbpCLqryN-Q)
