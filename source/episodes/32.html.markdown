@@ -14,12 +14,12 @@ picks:
     - text: Static Types are Overrated
       url: https://www.youtube.com/watch?v=_kXiH1Yiemw
   Pam:
-    - text: Native Foods Blog: Cheeseball!
+    - text: Cheeseball!
       url: http://blog.nativefoods.com/nativefoods/2012/04/cheeseball.html
   Jearvon:
     - text: bendyworks/caravan
       url: https://github.com/bendyworks/caravan
-    - text: Father John Misty - Hollywood Forever Cemetery Sings
+    - text: Hollywood Forever Cemetery Sings
       url: https://www.youtube.com/watch?v=KtOToiIDNRA
   Justin:
     - text: interagent
