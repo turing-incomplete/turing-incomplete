@@ -1,0 +1,32 @@
+---
+episode: 32
+title: Holiday Spectacular
+date: 2014-12-24
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-32.mp3
+explicit: true
+file_size: 18552412
+seconds: 1578
+picks:
+  Len:
+    - text: Love Letter
+      url: http://www.amazon.com/Alderac-Entertainment-Group-5104AEG-Letter/dp/B00AGJ4HC2
+    - text: Static Types are Overrated
+      url: https://www.youtube.com/watch?v=_kXiH1Yiemw
+  Pam:
+    - text: Cheeseball!
+      url: http://blog.nativefoods.com/nativefoods/2012/04/cheeseball.html
+  Jearvon:
+    - text: bendyworks/caravan
+      url: https://github.com/bendyworks/caravan
+    - text: Hollywood Forever Cemetery Sings
+      url: https://www.youtube.com/watch?v=KtOToiIDNRA
+  Justin:
+    - text: interagent
+      url: https://github.com/interagent
+---
+
+It's the best way to not get disease.
+
+* [Donald Knuth's Annual Christmas Tree Lecture: Planar Graphs and Ternary Trees - YouTube](https://www.youtube.com/watch?v=VW3vgJYYIok)
+* [Forward 2](http://forwardjs.com/)
