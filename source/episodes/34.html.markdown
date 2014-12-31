@@ -1,0 +1,40 @@
+
+---
+episode: 34
+title: 2014 Retrospective
+date: 2014-TODO
+tags: community,learning,random,self promotion
+mp3: http://episodes.turing.cool/Turing-Incomplete-34.mp3
+explicit: false
+file_size: TODO
+seconds: TODO
+picks:
+  Len: TODO
+  Pam:
+    - text: 10 technical papers every programmer should read twice
+      url: http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/
+    - text: Refactoring Ruby with monads
+      url: http://codon.com/refactoring-ruby-with-monads
+  Jearvon:
+    - text: vim-commentary
+      url: https://github.com/tpope/vim-commentary
+    - text: Mark Ronson - Daffodils (Audio) ft. Kevin Parker
+      url: https://www.youtube.com/watch?v=-OWkLF2HLp0
+  Justin:
+    - text: Bangers and Mash Recipe
+      url: http://www.foodnetwork.com/recipes/ina-garten/bangers-and-mash-recipe.html
+---
+
+> Be a better human
+
+2014 is in the bag! We discuss new podcasts Len and Justin are working on, have a look back on 2014, make plans for 2015, and lament recruiters.
+
+* [Practical Paleo: A Customized Approach to Health and a Whole-Foods](http://www.amazon.com/Practical-Paleo-Customized-Whole-Foods-Lifestyle/dp/1936608758)
+* [Alan Turing: The Enigma Audiobook](http://www.audible.com/pd/Bios-Memoirs/Alan-Turing-The-Enigma-Audiobook/B008DGNBQS/ref=a_search_c4_1_1_srTtl?qid=1419992114&sr=1-1)
+* [The Type Theory Podcast](http://typetheorypodcast.com/)
+* [Hacker School](https://www.hackerschool.com/)
+* [Everything is awesome!!](https://www.youtube.com/watch?v=StTqXEQ2l-Y)
+* [Cloud Cuckoo Land](http://en.wikipedia.org/wiki/Cloud_cuckoo_land)
+* [ponysay](https://github.com/erkin/ponysay)
+* [The Imitation Game](http://theimitationgamemovie.com)
+* [Criticism of the movie] (http://www.nybooks.com/blogs/nyrblog/2014/dec/19/poor-imitation-alan-turing/)
