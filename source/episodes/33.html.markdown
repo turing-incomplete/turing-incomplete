@@ -1,0 +1,33 @@
+---
+episode: 33
+title: Flattening Combinators
+date: 2014-12-31
+tags: computer science
+mp3: http://episodes.turing.cool/Turing-Incomplete-33.mp3
+explicit: true
+file_size: 23577141
+seconds: 2010
+picks:
+  Len:
+    - text: The Martian
+      url: http://www.amazon.com/Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA/ref=sr_1_1?ie=UTF8&qid=1419343137&sr=8-1&keywords=the+martian
+  Pam:
+    - text: Making maps - the role of Frontend Infrastructure at Etsy on Vimeo
+      url: http://vimeo.com/109912254
+  Jearvon:
+    - text: RE:GENERATION
+      url: http://regenerationmusicproject.com/
+    - text: nelstrom/vim-textobj-rubyblock
+      url: https://github.com/nelstrom/vim-textobj-rubyblock
+  Justin:
+    - text: Oregon Programming Languages Summer School 2012]
+      url: https://www.youtube.com/playlist?list=PL8Ky8lYL8-Oh7awp0sqa82o7Ggt4AGhyf
+---
+
+The Silly Premise
+
+* [Flattening Combinators: Surviving Without Parentheses](http://www.westpoint.edu/eecs/SiteAssets/SitePages/Faculty%20Publication%20Documents/Okasaki/jfp03flat.pdf)
+* [LLVM Weekly](http://llvmweekly.org)
+* [Y Not- Adventures in Functional Programming by Jim Weirich - YouTube](https://www.youtube.com/watch?v=FITJMJjASUs)
+* [Obfuscating "Hello world!"](https://benkurtovic.com/2014/06/01/obfuscating-hello-world.html)
+* [raganwald-deprecated/homoiconic](https://github.com/raganwald-deprecated/homoiconic/blob/master/2011/11/mockingbirds.md)
