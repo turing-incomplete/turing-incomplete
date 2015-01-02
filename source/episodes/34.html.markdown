@@ -30,7 +30,7 @@ picks:
 
 2014 is in the bag! We discuss new podcasts Len and Justin are working on, have a look back on 2014, make plans for 2015, and lament recruiters.
 
-* [Practical Paleo: A Customized Approach to Health and a Whole-Foods](http://www.amazon.com/Practical-Paleo-Customized-Whole-Foods-Lifestyle/dp/1936608758)
+* [Practical Paleo: A Customized Approach to Health](http://www.amazon.com/Practical-Paleo-Customized-Whole-Foods-Lifestyle/dp/1936608758)
 * [Alan Turing: The Enigma Audiobook](http://www.audible.com/pd/Bios-Memoirs/Alan-Turing-The-Enigma-Audiobook/B008DGNBQS/ref=a_search_c4_1_1_srTtl?qid=1419992114&sr=1-1)
 * [The Type Theory Podcast](http://typetheorypodcast.com/)
 * [Hacker School](https://www.hackerschool.com/)
@@ -38,4 +38,4 @@ picks:
 * [Cloud Cuckoo Land](http://en.wikipedia.org/wiki/Cloud_cuckoo_land)
 * [ponysay](https://github.com/erkin/ponysay)
 * [The Imitation Game](http://theimitationgamemovie.com)
-* [A Poor Imitation of Alan Turing by Christian Caryl](http://www.nybooks.com/blogs/nyrblog/2014/dec/19/poor-imitation-alan-turing/)
+* [A Poor Imitation of Alan Turing](http://www.nybooks.com/blogs/nyrblog/2014/dec/19/poor-imitation-alan-turing/)
