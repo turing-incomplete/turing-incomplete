@@ -1,15 +1,16 @@
-
 ---
 episode: 34
 title: 2014 Retrospective
-date: 2014-TODO
+date: 2015-01-02
 tags: community,learning,random,self promotion
 mp3: http://episodes.turing.cool/Turing-Incomplete-34.mp3
-explicit: false
-file_size: TODO
-seconds: TODO
+explicit: true
+file_size: 27718829
+seconds: 2287
 picks:
-  Len: TODO
+  Len:
+    - text: The Imitation Game
+      url: http://theimitationgamemovie.com
   Pam:
     - text: 10 technical papers every programmer should read twice
       url: http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/
@@ -37,4 +38,4 @@ picks:
 * [Cloud Cuckoo Land](http://en.wikipedia.org/wiki/Cloud_cuckoo_land)
 * [ponysay](https://github.com/erkin/ponysay)
 * [The Imitation Game](http://theimitationgamemovie.com)
-* [Criticism of the movie] (http://www.nybooks.com/blogs/nyrblog/2014/dec/19/poor-imitation-alan-turing/)
+* [A Poor Imitation of Alan Turing by Christian Caryl](http://www.nybooks.com/blogs/nyrblog/2014/dec/19/poor-imitation-alan-turing/)
