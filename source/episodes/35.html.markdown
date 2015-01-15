@@ -1,0 +1,40 @@
+---
+episode: 35
+title: Accessibility w/ Austin
+date: 2015-01-TODO
+tags: accessibility,ios,guest,ruby
+mp3: http://episodes.turing.cool/Turing-Incomplete-35.mp3
+explicit: true
+file_size: TODO
+seconds: TODO
+picks:
+  Len:
+  - text: Black Mirror
+    url: http://en.wikipedia.org/wiki/Black_Mirror_(TV_series)
+  Jearvon:
+  - text: Kygo
+    url: https://soundcloud.com/kygo
+  - text: Ruby Under a Microscope
+    url: http://patshaughnessy.net/ruby-under-a-microscope
+  - text: Chef(film)
+    url: http://www.imdb.com/title/tt2883512/
+  Justin:
+  - text: PureScript
+    url: http://www.purescript.org
+  - text: 6to5
+    url: http://6to5.org
+  Austin Seraphin:
+  - text: Aphex Twin - Syro
+    url: https://bleep.com/release/53848-aphex-twin-syro
+  - text: Metaprogramming Ruby
+    url: https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2
+---
+
+We talk with Austin Seraphin, a blind Ruby developer and accessbility consultant, about accessibility, art, and programming.
+
+* [Austin Seraphin's Blog: Behind the Curtain](http://behindthecurtain.us)
+* [How to see through sound with Philadelphia's Austin Seraphin](http://www.newsworks.org/local/item/62964)
+* [Blue Apron](http://www.blueapron.com)
+* [Austin Seraphin: Accessibility Consultant](http://austinseraphin.com)
+* [@austinseraphin on Twitter](https://twitter.com/austinseraphin)
+
