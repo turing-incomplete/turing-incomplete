@@ -35,6 +35,7 @@ We talk with Austin Seraphin, a blind Ruby developer and accessbility consultant
 * [Austin Seraphin's Blog: Behind the Curtain](http://behindthecurtain.us)
 * [How to see through sound with Philadelphia's Austin Seraphin](http://www.newsworks.org/local/item/62964)
 * [Blue Apron](http://www.blueapron.com)
+* [WebAIM: Web Accessibility In Mind](http://webaim.org/)
 * [Austin Seraphin: Accessibility Consultant](http://austinseraphin.com)
 * [@austinseraphin on Twitter](https://twitter.com/austinseraphin)
 
