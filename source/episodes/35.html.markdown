@@ -6,7 +6,7 @@ tags: accessibility,ios,guest,ruby
 mp3: http://episodes.turing.cool/Turing-Incomplete-35.mp3
 explicit: true
 file_size: 29356762
-seconds: 1306
+seconds: 2506
 picks:
   Len:
   - text: Black Mirror
