@@ -1,0 +1,40 @@
+---
+episode: 36
+title: End-to-End Tests
+date: 2015-01-23
+tags: testing
+mp3: http://episodes.turing.cool/Turing-Incomplete-36.mp3
+explicit: true
+file_size: 27132380
+seconds: 2095
+picks:
+  Len:
+    - text: Dead of Winter
+      url: http://www.plaidhatgames.com/games/dead-of-winter
+  Jearvon:
+    - text: Sia - Elastic Heart feat. Shia LaBeouf & Maddie Ziegler 
+      url: https://www.youtube.com/watch?v=KWZGAExj-es
+    - text: dotmusic
+      url: https://github.com/justincampbell/dotmusic
+  Justin:
+    - text: Safe JavaScript
+      url: https://github.com/sinelaw/sjs
+  Pam:
+    - text: Dollar Swift
+      url: http://www.dollarswift.org/
+    - text: In the Beginning was the Command Line
+      url: http://cristal.inria.fr/~weis/info/commandline.html
+    - text: …and in the end there will be the command line.
+      url: http://www.sicpers.info/2015/01/and-in-the-end-there-will-be-the-command-line/
+---
+
+Pam gets back from her sunny remote office, Len tells us about board games at CodeMash, and we discuss the pros and cons of end-to-end testing.
+
+LINKS
+
+* [Learn ES6 · 6to5](https://6to5.org/docs/learn-es6/)
+* [Home - CodeMash](http://www.codemash.org/)
+* [Ampersand.js - Home](https://ampersandjs.com/)
+* [human javascript by Henrik Joreteg](http://humanjavascript.com/)
+* [Marionette.js – The Backbone Framework](http://marionettejs.com/) 
+
