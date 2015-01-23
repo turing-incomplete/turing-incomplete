@@ -30,11 +30,8 @@ picks:
 
 Pam gets back from her sunny remote office, Len tells us about board games at CodeMash, and we discuss the pros and cons of end-to-end testing.
 
-LINKS
-
 * [Learn ES6 · 6to5](https://6to5.org/docs/learn-es6/)
 * [Home - CodeMash](http://www.codemash.org/)
 * [Ampersand.js - Home](https://ampersandjs.com/)
 * [human javascript by Henrik Joreteg](http://humanjavascript.com/)
 * [Marionette.js – The Backbone Framework](http://marionettejs.com/) 
-
