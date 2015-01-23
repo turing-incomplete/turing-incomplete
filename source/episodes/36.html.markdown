@@ -1,6 +1,6 @@
 ---
 episode: 36
-title: End-to-End Tests
+title: End-to-End Testing
 date: 2015-01-23
 tags: testing
 mp3: http://episodes.turing.cool/Turing-Incomplete-36.mp3
