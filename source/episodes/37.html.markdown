@@ -1,0 +1,39 @@
+---
+episode: 37
+title: Propositions as Types w/ Brian McKenna
+date: 2015-02-01
+tags: computer science,guest,paper
+mp3: http://episodes.turing.cool/Turing-Incomplete-37.mp3
+explicit: true
+file_size: 37624822
+seconds: 3153
+picks:
+  Len:
+    - text: Transparent
+      url: http://www.amazon.com/Transparent-HD/dp/B00I3MPZUW
+  Jearvon:
+    - text: The Weeknd
+      url: http://www.theweeknd.com/
+    - text: "Pay it Forward. Help others :)"
+  Justin:
+    - text: LaunchRocket
+      url: https://github.com/jimbojsb/launchrocket
+  Pam:
+    - text: Algorithms (textbook)
+      url: http://beust.com/algorithms.pdf
+    - text: Algorithms (course)
+      url: https://www.coursera.org/course/algo
+  Brian McKenna:
+    - text: Compose::Conference
+      url: http://www.composeconference.org
+    - text: LambdaConf
+      url: http://www.degoesconsulting.com/lambdaconf-2015/
+
+---
+* [Propositions as Types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
+* [Simple Energy](http://simpleenergy.com/)
+* [Curry–Howard isomorphism](http://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
+* [Types and Programming Languages](http://www.amazon.com/Types-Programming-Languages-Benjamin-Pierce/dp/0262162091)
+* [@parametricity](https://twitter.com/parametricity)
+* [Type safe printf](https://www.youtube.com/watch?v=fVBck2Zngjo)
+* [Brian's talk at Strangeloop 2014](https://www.youtube.com/watch?v=4i7KrG1Afbk)
