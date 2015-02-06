@@ -1,6 +1,6 @@
 ---
 episode: 38
-title: Water[fall/wheel] and rewrites
+title: Water[fall/wheel] and Rewrites
 date: 2015-02-06
 tags: random, agile
 mp3: http://episodes.turing.cool/Turing-Incomplete-38.mp3
