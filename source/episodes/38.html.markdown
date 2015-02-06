@@ -1,0 +1,42 @@
+---
+episode: 38
+title: Water[fall/wheel] and rewrites
+date: 2015-02-06
+tags: random, agile
+mp3: http://episodes.turing.cool/Turing-Incomplete-38.mp3
+explicit: true
+file_size: 25711318
+seconds: 1952
+picks:
+  Pam:
+    - text: SHARKS!
+      url: http://i.imgur.com/7nTOR12.gif
+    - text: SuperbOwl
+      url: https://twitter.com/ClareCady/status/562053680912801794
+  Len:
+    - text: The Martian (2015)
+      url: http://www.imdb.com/title/tt3659388/
+  Justin:
+    - text: Nim
+      url: http://nim-lang.org
+    - text: Nim Url Shortener
+      url: https://github.com/justincampbell/url-shortener-nim
+  Jearvon:
+    - text: Steve Earle - Hillbilly Highway
+      url: http://www.last.fm/music/Steve+Earle/_/Hillbilly+Highway
+    - text: Spacemacs
+      url: https://github.com/syl20bnr/spacemacs
+---
+
+We discuss "Waterwheel", Agile, Lean, and Rewrites.
+
+* [Waterwheel Methodology — Medium](https://medium.com/@trek/waterweel-methodology-e3b68f890432)
+* [How to Manage the "7 Wastes" of Agile Software Development](https://www.scrumalliance.org/community/articles/2013/september/how-to-manage-the-7-wastes%E2%80%9D-of-agile-software-deve)
+* [Interview: Mary and Tom Poppendieck on using Lean for Competitive Advantage](http://www.infoq.com/interviews/poppendieck-lean-2007)
+* [Glen Mailer on Twitter: "Shiny new estimation cards. Did I buy enough? No idea. http://t.co/zglAIwvMIP"](https://twitter.com/glenathan/status/558967651243155456)
+* [Lessons learned from the big rewrite](http://www.anton-pirker.at/the-big-rewrite-war-story/)
+* [The Big Rewrite - Chad Fowler](http://chadfowler.com/blog/2006/12/27/the-big-rewrite/)
+* [Uncle Bob Martin on Twitter: "Is a major rewrite every justified? Usually not. But in this case… http://t.co/QaFIxPHa"](https://twitter.com/unclebobmartin/status/169203220093222913)
+* [The Big Redesign In The Sky](http://www.luckymethod.com/2013/03/the-big-redesign-in-the-sky/)
+* [Forward 2](http://forwardjs.com/)
+* [Dead of Winter: A Crossroads Game](http://www.plaidhatgames.com/store/55)
