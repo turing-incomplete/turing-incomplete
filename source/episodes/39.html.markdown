@@ -1,0 +1,34 @@
+---
+episode: 39
+title: Clearing our Backlog.
+date: 2015-02-16
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-39.mp3
+explicit: true
+file_size: 20933971
+seconds: 1684
+picks:
+  Pam:
+    - text: Interactive docs Swift playgrounds
+      url: https://github.com/jas/playground
+    - text: ForwardJS (Pam's write up)
+      url: http://thewebivore.com/learnings-from-forwardjs/
+  Len:
+    - text: Better call Saul
+      url: http://www.amctv.com/shows/better-call-saul
+    - text: Shameless
+      url: http://www.sho.com/sho/shameless/home
+  Justin:
+    - text: Camelbak Relay
+      url: http://relay.camelbak.com
+  Jearvon:
+    - text: Mark Ronson
+      url: http://www.markronson.co.uk/
+    - text: tmate
+      url: http://tmate.io
+---
+
+We go through some issues in our [backlog](https://github.com/turing-incomplete/turing-incomplete/issues) and talk about editors, signing our work and time management.
+
+* [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+* [Trust Artist Pair Programming Economics - Trust Artist](http://trustartist.com/2015/01/27/pair-programming-economics/)
