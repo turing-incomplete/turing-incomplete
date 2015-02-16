@@ -2,7 +2,7 @@
 episode: 39
 title: Clearing our Backlog.
 date: 2015-02-16
-tags: random
+tags: random,self promotion,software craftsmanship
 mp3: http://episodes.turing.cool/Turing-Incomplete-39.mp3
 explicit: true
 file_size: 20933971
