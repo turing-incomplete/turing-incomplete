@@ -1,0 +1,31 @@
+---
+episode: 40
+title: Setups
+date: 2015-02-24
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-40.mp3
+explicit: true
+file_size: 33531784
+seconds: 2602
+picks:
+  Len:
+    - text: Duet display for iPad
+      url: http://www.duetdisplay.com/
+  Justin:
+    - text: gethub
+      url: https://github.com/pearkes/gethub
+    - text: rubynewbies.org
+      url: http://rubynewbies.org
+  Pam:
+    - text: VisuAlgo
+      url: http://visualgo.net/
+  Jearvon:
+    - text: base16 colorschemes
+      url: https://github.com/chriskempson/base16
+    - text: The amazing picture of you
+      url: https://soundcloud.com/partisan-records/the-amazing-picture-you
+---
+
+* [Ramda Documentation](http://ramdajs.com/)
+* [lodash/lodash-fp](https://github.com/lodash/lodash-fp)
+* [Discuss latest changes to master before releasing · Issue #2061 · jashkenas/underscore](https://github.com/jashkenas/underscore/issues/2061)
