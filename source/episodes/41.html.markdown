@@ -1,0 +1,53 @@
+---
+episode: 41
+title: Stuff
+date: 2015-03-06
+tags: learning
+mp3: http://episodes.turing.cool/Turing-Incomplete-41.mp3
+explicit: true
+file_size: 20933971
+seconds: 1684
+picks:
+  Pam:
+    - text: Interactive docs Swift playgrounds
+      url: https://github.com/jas/playground
+    - text: ForwardJS (Pam's write up)
+      url: http://thewebivore.com/learnings-from-forwardjs/
+  Len:
+    - text: Better call Saul
+      url: http://www.amctv.com/shows/better-call-saul
+    - text: Shameless
+      url: http://www.sho.com/sho/shameless/home
+  Justin:
+    - text: Camelbak Relay
+      url: http://relay.camelbak.com
+  Jearvon:
+    - text: Mark Ronson
+      url: http://www.markronson.co.uk/
+    - text: tmate
+      url: http://tmate.io
+---
+
+We go through some issues in our [backlog](https://github.com/turing-incomplete/turing-incomplete/issues) and talk about editors, signing our work and time management.
+
+* [Battlestar Galactica - Portlandia](https://www.youtube.com/watch?v=yYjLrJRuMnY)
+* [Does this mean they will invalidate all the 1 or 2 reppers in 15.1? : crossfit](http://www.reddit.com/r/crossfit/comments/2xkjo3/does_this_mean_they_will_invalidate_all_the_1_or/)
+
+* [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+* [Trust Artist Pair Programming Economics - Trust Artist](http://trustartist.com/2015/01/27/pair-programming-economics/)
+  Justin:
+  kindle $59 http://smile.amazon.com/dp/B00I15SB16/ref=br_imp_ara-1?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-hero-1&pf_rd_r=0PZWZTVKTY3D8GXDY2P2&pf_rd_t=36701&pf_rd_p=2052316142&pf_rd_i=desktop
+  mini drone http://smile.amazon.com/KiiToys®-Quadcopter-Drone-Helicopter-Copter/dp/B00NF9PPLC/ref=sr_1_1?s=toys-and-games&ie=UTF8&qid=1425304991&sr=1-1&keywords=mini+drone
+
+  Pam:
+    text: Fun with Type Functions
+    url: http://research.microsoft.com/en-us/um/people/simonpj/papers/assoc-types/fun-with-type-funs/typefun.pdf
+
+  Jearvon:
+
+---
+
+* [http://www.washingtonpost.com/posteverything/wp/2015/02/18/we-dont-need-more-stem-majors-we-need-more-stem-majors-with-liberal-arts-training/](We don’t need more STEM majors. We need more STEM majors with liberal arts training.)
+* [https://www.makeschool.com/] Make School
+* [http://zedshaw.com/2014/10/19/the-coming-code-bootcamp-destruction/] The Coming Code Bootcamp Destruction
+github.com/nicholaides/vim plugin
