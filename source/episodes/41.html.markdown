@@ -5,8 +5,8 @@ date: 2015-03-06
 tags: learning
 mp3: http://episodes.turing.cool/Turing-Incomplete-41.mp3
 explicit: true
-file_size: 20933971
-seconds: 1684
+file_size: 31394933
+seconds: 2626
 picks:
   Pam:
     - text: Interactive docs Swift playgrounds
@@ -27,8 +27,6 @@ picks:
     - text: tmate
       url: http://tmate.io
 ---
-
-We go through some issues in our [backlog](https://github.com/turing-incomplete/turing-incomplete/issues) and talk about editors, signing our work and time management.
 
 * [Battlestar Galactica - Portlandia](https://www.youtube.com/watch?v=yYjLrJRuMnY)
 * [Does this mean they will invalidate all the 1 or 2 reppers in 15.1? : crossfit](http://www.reddit.com/r/crossfit/comments/2xkjo3/does_this_mean_they_will_invalidate_all_the_1_or/)
