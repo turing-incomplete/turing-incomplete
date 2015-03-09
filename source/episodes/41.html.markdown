@@ -13,19 +13,18 @@ picks:
     - text: asciiflow
       url: http://asciiflow.com/
   Justin:
-    - text: kindle $59
-    - url: http://smile.amazon.com/dp/B00I15SB16/ref=br_imp_ara-1?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=desktop-hero-1&pf_rd_r=0PZWZTVKTY3D8GXDY2P2&pf_rd_t=36701&pf_rd_p=2052316142&pf_rd_i=desktop
-    - text: mini drone
-    - url:  http://smile.amazon.com/KiiToys®-Quadcopter-Drone-Helicopter-Copter/dp/B00NF9PPLC/ref=sr_1_1?s=toys-and-games&ie=UTF8&qid=1425304991&sr=1-1&keywords=mini+drone
+    - text: Amazon Kindle
+      url: http://smile.amazon.com/dp/B00I15SB16
+    - text: KiiToys Mini Drone Quadcopter
+      url:  http://smile.amazon.com/dp/B00NF9PPLC
   Pam:
-    text: Fun with Type Functions
-    url: http://research.microsoft.com/en-us/um/people/simonpj/papers/assoc-types/fun-with-type-funs/typefun.pdf
+    - text: Fun with Type Functions
+      url: http://research.microsoft.com/en-us/um/people/simonpj/papers/assoc-types/fun-with-type-funs/typefun.pdf
   Jearvon:
-    text: Programming Elixir
-    url: https://pragprog.com/book/elixir/programming-elixir
-    text: 10 Love Songs by Susanne Sundfor
-    url: http://susannesundfor.com/
-
+    - text: Programming Elixir
+      url: https://pragprog.com/book/elixir/programming-elixir
+    - text: 10 Love Songs by Susanne Sundfor
+      url: http://susannesundfor.com/
 ---
 Discussing the difficult life of full-season-at-once releases, Len's
 crossfitting, and discussing "what kind of education" it takes to be a
