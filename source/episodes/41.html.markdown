@@ -33,7 +33,7 @@ programmer.
 * [Does this mean they will invalidate all the 1 or 2 reppers in 15.1? : crossfit](http://www.reddit.com/r/crossfit/comments/2xkjo3/does_this_mean_they_will_invalidate_all_the_1_or/)
 * [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 * [Trust Artist Pair Programming Economics - Trust Artist](http://trustartist.com/2015/01/27/pair-programming-economics/)
-* [http://www.washingtonpost.com/posteverything/wp/2015/02/18/we-dont-need-more-stem-majors-we-need-more-stem-majors-with-liberal-arts-training/](We don’t need more STEM majors. We need more STEM majors with liberal arts training.)
-* [https://www.makeschool.com/] Make School
-* [http://zedshaw.com/2014/10/19/the-coming-code-bootcamp-destruction/] The Coming Code Bootcamp Destruction
+* [We don’t need more STEM majors. We need more STEM majors with liberal arts training.](http://www.washingtonpost.com/posteverything/wp/2015/02/18/we-dont-need-more-stem-majors-we-need-more-stem-majors-with-liberal-arts-training/)
+* [Make School](https://www.makeschool.com/)
+* [The Coming Code Bootcamp Destruction](http://zedshaw.com/2014/10/19/the-coming-code-bootcamp-destruction/)
 * [words-to-avoid.vim](https://github.com/nicholaides/words-to-avoid.vim)
