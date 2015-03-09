@@ -1,7 +1,7 @@
 ---
 episode: 41
 title: What education do you need to be a programmer?
-date: 2015-03-06
+date: 2015-03-09
 tags: learning
 mp3: http://episodes.turing.cool/Turing-Incomplete-41.mp3
 explicit: true
