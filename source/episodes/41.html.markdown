@@ -36,4 +36,4 @@ programmer.
 * [http://www.washingtonpost.com/posteverything/wp/2015/02/18/we-dont-need-more-stem-majors-we-need-more-stem-majors-with-liberal-arts-training/](We don’t need more STEM majors. We need more STEM majors with liberal arts training.)
 * [https://www.makeschool.com/] Make School
 * [http://zedshaw.com/2014/10/19/the-coming-code-bootcamp-destruction/] The Coming Code Bootcamp Destruction
-github.com/nicholaides/vim plugin
+* [words-to-avoid.vim](https://github.com/nicholaides/words-to-avoid.vim)
