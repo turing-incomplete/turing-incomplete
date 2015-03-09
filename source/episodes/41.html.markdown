@@ -26,8 +26,8 @@ picks:
     - text: 10 Love Songs by Susanne Sundfor
       url: http://susannesundfor.com/
 ---
-Discussing the difficult life of full-season-at-once releases, Len's
-crossfitting, and discussing "what kind of education" it takes to be a
+
+Discussing the difficult life of full-season-at-once releases, Len's crossfitting, and discussing "what kind of education" it takes to be a
 programmer.
 
 * [Does this mean they will invalidate all the 1 or 2 reppers in 15.1? : crossfit](http://www.reddit.com/r/crossfit/comments/2xkjo3/does_this_mean_they_will_invalidate_all_the_1_or/)
