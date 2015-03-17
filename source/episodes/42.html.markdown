@@ -5,8 +5,8 @@ date: 2015-03-17
 tags: learning, remote, self promotion
 mp3: http://episodes.turing.cool/Turing-Incomplete-42.mp3
 explicit: true
-file_size: 45676401
-seconds: 2855
+file_size: 45180701
+seconds: 2824
 picks:
   Len:
     - text: Veep
