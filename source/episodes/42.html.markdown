@@ -1,0 +1,39 @@
+---
+episode: 42
+title: Learning New Languages
+date: 2015-03-17
+tags: learning, remote, self promotion
+mp3: http://episodes.turing.cool/Turing-Incomplete-42.mp3
+explicit: true
+file_size: 45676401
+seconds: 2855
+picks:
+  Len:
+    - text: Veep
+      url: http://www.hbo.com/veep
+  Justin:
+    - text: Concurrent Ruby
+      url: https://github.com/ruby-concurrency/concurrent-ruby
+  Pam:
+    - text: Application Security Reading list
+      url: http://www.amazon.com/lm/R2EN4JTQOCHNBA
+  Jearvon:
+    - text: pick
+      url: https://github.com/thoughtbot/pick
+    - text: Lean On
+      url: https://soundcloud.com/majorlazer/major-lazer-dj-snake-lean-on-feat-mo
+---
+
+For this episode, we discuss ride-sharing services, start Twitter wars, and learn about yet another package manager.
+
+* [Syma X5C Quadcopter](http://www.amazon.com/gp/product/B00KI03U8Q)
+* [Our Shared Joy of Programming](https://www.youtube.com/watch?v=3_zW63dcZB0)
+* [Make up your own "Hello, World!"](https://speakerdeck.com/justincampbell/make-up-your-own-hello-world)
+* [Song Exploder](http://songexploder.net)
+* [Presentation Zen](http://www.presentationzen.com)
+* [Gif of things being drilled](http://i.imgur.com/ZG2TY3w.gif)
+* [Gif of an Owl wearing a hat](http://i.imgur.com/GWY10z7.gif)
+* ["Forcing developers to commute to an office is a joke" tweet](https://twitter.com/justincampbell/status/575447532865609728)
+* [Reactive Extensions](https://github.com/Reactive-Extensions)
+* [Rx Twitter hole](https://twitter.com/ReactiveX/status/572928975749705729)
+* [Carthage](https://github.com/Carthage/Carthage)
