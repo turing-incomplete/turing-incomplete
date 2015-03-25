@@ -11,7 +11,7 @@ picks:
   Michael Eaton:
     - text: Music to Code By
       url: http://mtcb.pwop.com/
-    - text: Angel's Envy
+    - text: Angel's Envy Rye
       url: http://angelsenvy.com/expressions/rye
   Len:
     - text: Between Screens Podcast
