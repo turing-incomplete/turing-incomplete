@@ -1,0 +1,35 @@
+---
+episode: 43
+title: Going Indy and Back with Michael Eaton
+date: 2015-03-25
+tags: consulting, remote
+mp3: http://episodes.turing.cool/Turing-Incomplete-43.mp3
+explicit: true
+file_size: 43832716
+seconds: 2469
+picks:
+  Michael:
+    - text: Music to Code By
+      url: http://mtcb.pwop.com/
+    - text: Angel's Envy
+      url: http://angelsenvy.com/expressions/rye
+  Len:
+    - text: Between Screens Podcast
+      url: http://betweenscreens.fm/
+  Justin:
+    - text: Ruby Together
+      url: https://rubytogether.org
+  Pam:
+    - text: Hands-free coding
+      url: http://handsfreecoding.org/
+  Jearvon:
+    - text: Major Lazer
+      url: https://soundcloud.com/majorlazer
+    - text: TechGirlz
+      url: http://www.techgirlz.org/
+---
+
+Today we're joined with [Michael Eaton](https://twitter.com/mjeaton) to talk about going Independant and back to full time employment.
+
+* [about.me/mjeaton](https://about.me/mjeaton)
+* [Going Indy](http://www.slideshare.net/mjeaton/going-indy)
