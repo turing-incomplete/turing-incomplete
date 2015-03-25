@@ -8,7 +8,7 @@ explicit: true
 file_size: 43832716
 seconds: 2469
 picks:
-  Michael:
+  Michael Eaton:
     - text: Music to Code By
       url: http://mtcb.pwop.com/
     - text: Angel's Envy
