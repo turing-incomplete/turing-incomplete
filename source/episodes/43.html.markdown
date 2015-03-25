@@ -2,13 +2,13 @@
 episode: 43
 title: Going Indy and Back with Michael Eaton
 date: 2015-03-25
-tags: consulting
+tags: consulting, remote
 mp3: http://episodes.turing.cool/Turing-Incomplete-43.mp3
 explicit: true
 file_size: 43832716
 seconds: 2469
 picks:
-  Mike:
+  Michael:
     - text: Music to Code By
       url: http://mtcb.pwop.com/
     - text: Angel's Envy
