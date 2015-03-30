@@ -66,6 +66,10 @@ helpers do
     "A Podcast About Programming"
   end
 
+  def stickers_url
+    "https://www.stickermule.com/marketplace/4818-turing-incomplete"
+  end
+
   def tags
     blog.tags.keys.sort
   end
