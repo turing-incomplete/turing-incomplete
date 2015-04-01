@@ -19,6 +19,8 @@ picks:
       url: http://youtube.com/confreaks
 ---
 
+Justin tries really hard to make a good recursion pun, but gets stuck in a loop. Also, keyboards!
+
 * [Code Words](https://codewords.recurse.com/)
 * [Loop School](http://school.looprecur.com)
 * [Justin's new setup](https://gist.github.com/justincampbell/77af93ebcd7ec001cfcc)
