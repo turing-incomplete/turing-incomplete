@@ -16,7 +16,7 @@ picks:
       url: https://www.coursera.org/course/nand2tetris1
   Len:
     - text: Confreaks
-      url: youtube.com/confreaks
+      url: http://youtube.com/confreaks
 ---
 
 * [Code Words](https://codewords.recurse.com/)
