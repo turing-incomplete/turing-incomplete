@@ -2,7 +2,7 @@
 episode: 44
 title: Recurse and Random
 date: 2015-04-01
-tags: random
+tags: random, productivity
 mp3: http://episodes.turing.cool/Turing-Incomplete-44.mp3
 explicit: true
 file_size: 44238345
