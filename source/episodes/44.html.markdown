@@ -1,0 +1,35 @@
+---
+episode: 44
+title: Recursive Keyboards
+date: 2015-04-01
+tags: random, productivity
+mp3: http://episodes.turing.cool/Turing-Incomplete-44.mp3
+explicit: true
+file_size: 44238345
+seconds: 2705
+picks:
+  Justin:
+    - text: Ruby Together
+      url: https://rubytogether.org/join
+  Pam:
+    - text: Nand2Tetris on Coursera
+      url: https://www.coursera.org/course/nand2tetris1
+  Len:
+    - text: Confreaks
+      url: http://youtube.com/confreaks
+---
+
+Justin tries really hard to make a good recursion pun, but gets stuck in a loop. Also, keyboards!
+
+* [Code Words](https://codewords.recurse.com/)
+* [Loop School](http://school.looprecur.com)
+* [Justin's new setup](https://gist.github.com/justincampbell/77af93ebcd7ec001cfcc)
+* [MacVimSpeak](https://github.com/pselle/macvimspeak)
+* [Kinesis Advantage](https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/) (Pam's Keyboard)
+* [Everyone deserves a good keyboard](http://www.reddit.com/r/keyboards)
+* [Atreus Keyboard](http://atreus.technomancy.us)
+* [Keyboard.io](http://www.keyboard.io/)
+* [Spacemacs](https://github.com/syl20bnr/spacemacs)
+* [Land of Lisp](http://landoflisp.com/)
+* [vim-sexp](https://github.com/guns/vim-sexp)
+* [vim-sexp-mappings-for-regular-people](https://github.com/tpope/vim-sexp-mappings-for-regular-people)
