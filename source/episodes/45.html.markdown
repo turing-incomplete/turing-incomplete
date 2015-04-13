@@ -1,0 +1,31 @@
+---
+episode: 45
+title: "'athons"
+date: 2015-04-13
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-45.mp3
+explicit: true
+file_size: 27718829
+seconds: 2287
+picks:
+  Justin:
+    - text: Ruby Together
+      url: https://rubytogether.org/join
+  Pam:
+    - text: Indego (Philly bikeshare, launching 4/23)
+      url: http://www.rideindego.com/
+  Len:
+    - text: One Night Werewolf
+      url: http://www.amazon.com/Night-Ultimate-Werewolf-Board-Game/dp/B00HS7GG5G
+  Jearvon:
+    - text: Functional Geekery
+      url: http://www.functionalgeekery.com/
+    - text: Strangers to Ourselves - Modest Mouse
+      url: https://play.spotify.com/album/6iKqPv9C5oU29LR82N8l
+---
+
+Benefit from the evilness.
+
+* [Lobsters](https://lobste.rs/)
+* [Pandas](http://usepanda.com/)
+* [Slackin](http://rauchg.com/slackin/)
