@@ -5,8 +5,8 @@ date: 2015-04-13
 tags: random
 mp3: http://episodes.turing.cool/Turing-Incomplete-45.mp3
 explicit: true
-file_size: 27718829
-seconds: 2287
+file_size: 46027820
+seconds: 2790
 picks:
   Justin:
     - text: Ruby Together
