@@ -13,6 +13,19 @@ picks:
       url: http://smile.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248/ref=sr_1_1?ie=UTF8&qid=1428704392&sr=8-1
     - text: Bell X1
       url: http://bellx1.com/
+  Justin:
+    - text: contracts.ruby
+      url: https://github.com/egonSchiele/contracts.ruby
+    - text: Rubype
+      url: https://github.com/gogotanaka/Rubype
+    - text: Contracts in Clojure - Jessica Kerr
+      url: http://www.slideshare.net/jessitron/contracts-inclojurepete
+  Jearvon:
+    - text: Going to conferences
+    - text: PhillyETE
+      url: http://phillyemergingtech.com
+    - text: Black Star
+      url: http://en.wikipedia.org/wiki/Black_Star_(rap_duo)
   Pam:
     - text: Pegasus the Flying Horse
       url: https://www.youtube.com/watch?v=xA8DG2uFAbE
