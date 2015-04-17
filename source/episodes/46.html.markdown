@@ -1,0 +1,29 @@
+---
+episode: 46
+title: Aditya Mukerjee on Big Data, Go and more
+date: 2015-04-17
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-46.mp3
+explicit: true
+file_size: 63581824
+seconds: 4064
+picks:
+  Aditya:
+    - text: Predictably Irrational
+      url: http://smile.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248/ref=sr_1_1?ie=UTF8&qid=1428704392&sr=8-1
+    - text: Bell X1
+      url: http://bellx1.com/
+  Pam:
+    - text: Pegasus the Flying Horse
+      url: https://www.youtube.com/watch?v=xA8DG2uFAbE
+    - text: /mentoring
+      url: https://github.com/dianakimball/mentoring
+  Len:
+    - text: Bluth Ipsum
+      url: http://bluthipsum.com/
+---
+
+Aditya Mukerjee joines us to talk about Big Data, Go and more.
+
+* [Aditya Mukerjee (@chimeracoder)](https://twitter.com/chimeracoder)
+* [/var/null](http://varnull.adityamukerjee.net/)
