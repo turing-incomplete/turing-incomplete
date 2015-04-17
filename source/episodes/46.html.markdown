@@ -2,7 +2,7 @@
 episode: 46
 title: Aditya Mukerjee on Big Data, Go and more
 date: 2015-04-17
-tags: random
+tags: computer science, guest
 mp3: http://episodes.turing.cool/Turing-Incomplete-46.mp3
 explicit: true
 file_size: 63581824
