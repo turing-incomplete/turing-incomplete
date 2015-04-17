@@ -36,7 +36,7 @@ picks:
       url: http://bluthipsum.com/
 ---
 
-Aditya Mukerjee joines us to talk about Big Data, Go and more.
+Aditya Mukerjee joins us to talk about Big Data, Go, and more.
 
 * [Aditya Mukerjee (@chimeracoder)](https://twitter.com/chimeracoder)
 * [/var/null](http://varnull.adityamukerjee.net/)
