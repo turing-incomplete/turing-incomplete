@@ -1,6 +1,6 @@
 ---
 episode: 47
-title: Jessica Kerr on Functional Programming, Contracts and Microservices
+title: Jessica Kerr on Programming with Contracts, Generative Testing
 date: 2015-04-24
 tags: guest
 mp3: http://episodes.turing.cool/Turing-Incomplete-47.mp3
@@ -29,7 +29,7 @@ picks:
       url: https://soundcloud.com/jaydabhi
 ---
 
-Jessica Kerr on Functional Programing, Contracts and Microservices
+Jessica Kerr on Programming with Contracts, Generative Testing
 
 * [Jessica Kerr (@jessitron)](https://twitter.com/jessitron)
 * [JessiTRON - Talks](http://jessitron.com/talks.html)
