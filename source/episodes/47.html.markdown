@@ -2,7 +2,7 @@
 episode: 47
 title: Jessica Kerr on Programming with Contracts, Generative Testing
 date: 2015-04-24
-tags: guest
+tags: guest, self promotion, testing
 mp3: http://episodes.turing.cool/Turing-Incomplete-47.mp3
 explicit: false
 file_size: 44963841
