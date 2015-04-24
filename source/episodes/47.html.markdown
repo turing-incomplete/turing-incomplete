@@ -6,7 +6,7 @@ tags: guest
 mp3: http://episodes.turing.cool/Turing-Incomplete-47.mp3
 explicit: false
 file_size: 44963841
-seconds: 2777
+seconds: 2726
 picks:
   Jessica Kerr:
     - text: Vehicles by Valentino Braitenberg
