@@ -1,0 +1,40 @@
+---
+episode: 47
+title: Jessica Kerr on Programming with Contracts, Generative Testing
+date: 2015-04-24
+tags: guest
+mp3: http://episodes.turing.cool/Turing-Incomplete-47.mp3
+explicit: false
+file_size: 44963841
+seconds: 2726
+picks:
+  Jessica Kerr:
+    - text: Vehicles by Valentino Braitenberg
+      url: http://www.amazon.com/Vehicles-Experiments-Psychology-Valentino-Braitenberg/dp/0262521121
+  Justin:
+    - text: envchain
+      url: https://github.com/sorah/envchain
+    - text: Contracts for Ruby
+      url: https://github.com/egonSchiele/contracts.ruby
+  Len:
+    - text: Vim Colors
+      url: http://vimcolors.com
+  Pam:
+    - text: Little Snitch
+      url: https://www.obdev.at/products/littlesnitch/index.html
+  Jearvon:
+    - text: How I Start -  Clojure
+      url: http://howistart.org/posts/clojure/1
+    - text: Jay Dabhi 
+      url: https://soundcloud.com/jaydabhi
+---
+
+Jessica Kerr on Programming with Contracts, Generative Testing
+
+* [Jessica Kerr (@jessitron)](https://twitter.com/jessitron)
+* [JessiTRON - Talks](http://jessitron.com/talks.html)
+* [Prismatic/schema](https://github.com/Prismatic/schema)
+* [outpace/schema-transit](https://github.com/outpace/schema-transit)
+* [cognitect/transit-format](https://github.com/cognitect/transit-format)
+
+
