@@ -24,11 +24,10 @@ picks:
       url: http://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html
 ---
 
-* The Wire Remastered Link
-
+* [Icecast](http://icecast.org/)
+* [David Simon - The Wire in HD](http://davidsimon.com/the-wire-hd-with-videos/)
 * [Bread and Roses](http://en.wikipedia.org/wiki/Bread_and_Roses)
 * [Bread and Circuses](http://en.wikipedia.org/wiki/Bread_and_circuses)
-* [Icecast](http://icecast.org/)
 * [SICP](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-3.html)
 * [RailsConf 2015 Room 202 Day 1 - YouTube](https://www.youtube.com/watch?v=oMlX9i9Icno&feature=youtu.be&t=25m55s)
 * [Existential Crisis at Railsconf](http://railsbird.tumblr.com/post/117076597115/existential-crisis-at-railsconf)
