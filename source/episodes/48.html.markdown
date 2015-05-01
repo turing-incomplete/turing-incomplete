@@ -1,8 +1,8 @@
 ---
 episode: 48
-title: Elixir, Node, Audio processing and more
+title: Silent Dance Parties & The Future of Rails
 date: 2015-05-01
-tags: elixir
+tags: elixir, rails
 mp3: http://episodes.turing.cool/Turing-Incomplete-48.mp3
 explicit: false
 file_size: 44327691
@@ -23,6 +23,8 @@ picks:
     - text: Epigrams on Programming
       url: http://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html
 ---
+
+We theorize on the technical feasability of silent dance parties, discuss DHH's RailsConf keynote, and talk about Elixir.
 
 * [Icecast](http://icecast.org/)
 * [David Simon - The Wire in HD](http://davidsimon.com/the-wire-hd-with-videos/)
