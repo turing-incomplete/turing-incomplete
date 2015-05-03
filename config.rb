@@ -46,6 +46,10 @@ helpers do
     blog.articles
   end
 
+  def picks_partial(episode)
+    partial "picks", locals: { episode_picks: episode.data['picks'] }
+  end
+
   def feedburner_url
     "http://feeds.feedburner.com/Turing-Incomplete"
   end

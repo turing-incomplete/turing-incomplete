@@ -12,7 +12,7 @@
   .row
     article.body = episode.body
 
-    = partial "picks", locals: { episode_picks: episode.data['picks'] }
+    = picks_partial(episode)
 
   .row
     .audio-wrapper
