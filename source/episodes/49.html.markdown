@@ -1,0 +1,39 @@
+---
+episode: 49
+title: Interviewering
+date: 2015-05-11
+tags: devops, interviews, security
+mp3: http://episodes.turing.cool/Turing-Incomplete-49.mp3
+explicit: false
+file_size: 54398615
+seconds: 3168
+picks:
+  Justin:
+    - text: Solo Smart Drone from 3D Robotics
+      url: http://3drobotics.com/solo/
+  Jearvon:
+    - text: "RailsConf 2015 - Keynote: Aaron Patterson"
+      url: https://www.youtube.com/watch?v=B3gYklsN9uc
+    - text: ClojureScript Unraveled
+      url: http://funcool.github.io/clojurescript-unraveled/
+    - text: Raury - God's Whisper (Official Video)
+      url: https://www.youtube.com/watch?v=bPt0LkdM8Bc
+  Pam:
+    - text: "Tern: Intelligent JavaScript tooling"
+      url: http://ternjs.net/
+    - text: Racking Mac Pros
+      url: http://photos.imgix.com/racking-mac-pros
+  Len:
+    - text: How to learn to code
+      url: https://www.youtube.com/watch?v=mvK0UzFNw1Q
+---
+
+Ransoming your infrastructure for fun and profit, semaphores versus mutexes, and interviews from the other side of the table.
+
+* [hashicorp/vault](https://github.com/hashicorp/vault)
+* [Ex-Goldman Sachs Programmer’s Twisting Case Has a Few Turns Left](http://www.nytimes.com/2015/05/05/business/dealbook/ex-goldman-sachs-programmers-twisting-case-has-a-few-turns-left.html?_r=0)
+* [Terry Childs](http://en.wikipedia.org/wiki/Terry_Childs)
+* [Technically Speaking](http://www.techspeak.email/), [Technically Speaking - May 5, 2015](http://tinyletter.com/techspeak/letters/technically-speaking-may-5-2015)
+* [Pony](http://ponylang.org)
+* [turing-incomplete GitHub Issue 115: Interviewing for technical aptitude and potential from Dylan Greene](https://github.com/turing-incomplete/turing-incomplete/issues/115)
+* [Mutex vs. Semaphore](http://koti.mbnet.fi/niclasw/MutexSemaphore.html)
