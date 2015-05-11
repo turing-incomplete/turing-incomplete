@@ -2,7 +2,7 @@
 episode: 49
 title: Interviewering
 date: 2015-05-01
-tags: elixir
+tags: devops, interviews, security
 mp3: http://episodes.turing.cool/Turing-Incomplete-49.mp3
 explicit: false
 file_size: 54398615
@@ -27,6 +27,8 @@ picks:
     - text: How to learn to code
       url: https://www.youtube.com/watch?v=mvK0UzFNw1Q
 ---
+
+Ransoming your infrastructure for fun and profit, semaphores versus mutexes, and interviews from the other side of the table.
 
 * [hashicorp/vault](https://github.com/hashicorp/vault)
 * [Ex-Goldman Sachs Programmer’s Twisting Case Has a Few Turns Left](http://www.nytimes.com/2015/05/05/business/dealbook/ex-goldman-sachs-programmers-twisting-case-has-a-few-turns-left.html?_r=0)
