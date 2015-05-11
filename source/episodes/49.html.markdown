@@ -28,13 +28,10 @@ picks:
       url: https://www.youtube.com/watch?v=mvK0UzFNw1Q
 ---
 
-
-Shownote links:
-Vault: https://github.com/hashicorp/vault
-Ex-Goldman Sachs Programmer’s Twisting Case Has a Few Turns Left:
-http://www.nytimes.com/2015/05/05/business/dealbook/ex-goldman-sachs-programmers-twisting-case-has-a-few-turns-left.html?_r=0
-http://en.wikipedia.org/wiki/Terry_Childs
-http://www.techspeak.email/
-http://tinyletter.com/techspeak/letters/technically-speaking-may-5-2015
-https://github.com/turing-incomplete/turing-incomplete/issues/115
-Mutex vs. Semaphore http://koti.mbnet.fi/niclasw/MutexSemaphore.html
+* [hashicorp/vault](https://github.com/hashicorp/vault)
+* [Ex-Goldman Sachs Programmer’s Twisting Case Has a Few Turns Left](http://www.nytimes.com/2015/05/05/business/dealbook/ex-goldman-sachs-programmers-twisting-case-has-a-few-turns-left.html?_r=0)
+* [Terry Childs](http://en.wikipedia.org/wiki/Terry_Childs)
+* [Technically Speaking](http://www.techspeak.email/), [Technically Speaking - May 5, 2015](http://tinyletter.com/techspeak/letters/technically-speaking-may-5-2015)
+* [Pony](http://ponylang.org)
+* [turing-incomplete GitHub Issue 115: Interviewing for technical aptitude and potential from Dylan Greene](https://github.com/turing-incomplete/turing-incomplete/issues/115)
+* [Mutex vs. Semaphore](http://koti.mbnet.fi/niclasw/MutexSemaphore.html)
