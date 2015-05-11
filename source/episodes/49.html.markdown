@@ -3,7 +3,7 @@ episode: 49
 title: Interviewering
 date: 2015-05-01
 tags: elixir
-mp3: http://episodes.turing.cool/Turing-Incomplete-48.mp3
+mp3: http://episodes.turing.cool/Turing-Incomplete-49.mp3
 explicit: false
 file_size: 54398615
 seconds: 3168
