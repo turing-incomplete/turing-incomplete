@@ -28,7 +28,7 @@ picks:
 
 We talk about Minimalist Shoes, Non-Minimalist Keyboards, Vim, Dokku, ActiveRecord and more.
 
-* [Pose Method® of Running Technique | Pose Method®](https://posemethod.com/running/)
+* [Pose Method of Running Technique](https://posemethod.com/running/)
 * [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen: Christopher McDougall](http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189)
 * [ErgoDox Ergonomic Mechanical Keyboard Kit - Massdrop](https://www.massdrop.com/buy/ergodox)
 * [Justin Campbell on Twitter: "Lounging @ignu with his new keyboard http://t.co/AFaltjS04X"](https://twitter.com/justincampbell/status/598497752037883904)
