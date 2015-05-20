@@ -1,0 +1,37 @@
+---
+episode: 50
+title: Non-Minimalist Keyboards
+date: 2015-05-20
+tags: rails
+mp3: http://episodes.turing.cool/Turing-Incomplete-50.mp3
+explicit: false
+file_size: 36370893
+seconds: 2197
+picks:
+  Justin:
+    - text: Lily
+      url: https://www.lily.camera
+  Jearvon:
+    - text: Logic
+      url: http://mindoflogic.com/
+    - text: Clojure Reddit
+      url:  http://www.reddit.com/r/clojure
+  Pam:
+    - text: Dokku
+      url: https://github.com/progrium/dokku
+    - text: Dokku on DigitalOcean
+      url: http://thewebivore.com/tutorial-deploying-dokku-to-digitalocean-for-excellent-deploying-goodness/
+  Len:
+    - text: Ergodox
+      url: http://ergodox.org/
+---
+
+We talk about Minimalist Shoes, Non-Minimalist Keyboards, Vim, Dokku, ActiveRecord and more.
+
+* [Pose Method® of Running Technique | Pose Method®](https://posemethod.com/running/)
+* [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen: Christopher McDougall](http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189)
+* [ErgoDox Ergonomic Mechanical Keyboard Kit - Massdrop](https://www.massdrop.com/buy/ergodox)
+* [Justin Campbell on Twitter: "Lounging @ignu with his new keyboard http://t.co/AFaltjS04X"](https://twitter.com/justincampbell/status/598497752037883904)
+* [Atreus Keyboard Kit](http://atreus.technomancy.us/)
+* [Mongoid: Home](http://mongoid.org/en/mongoid/index.html)
+* [Russian Turkish Baths](http://www.russianturkishbaths.com/#)
