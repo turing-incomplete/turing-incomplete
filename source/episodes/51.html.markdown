@@ -1,0 +1,33 @@
+---
+episode: 51
+title: Non-Minimalist Keyboards
+date: 2015-05-29
+tags: interviewing
+mp3: http://episodes.turing.cool/Turing-Incomplete-51.mp3
+explicit: false
+file_size: 42985198
+seconds: 2575
+picks:
+  Justin:
+    - text: Madison+ Ruby
+      url: http://madisonpl.us/ruby/
+  Jearvon:
+    - text:  Run the Jewels
+      url: http://en.wikipedia.org/wiki/Run_the_Jewels
+    - text: 4clojure
+      url:  https://www.4clojure.com/
+  Pam:
+    - text: Unix History Repository
+      url: https://github.com/dspinellis/unix-history-repo
+  Len:
+    - text: CARDBOARD!
+      url: http://cardboard.wolfpop.com/
+---
+
+* [Office Nomads](http://officenomads.com/)
+* [Foundation CrossFit – Seattle](http://foundationcrossfit.com/)
+* [Alex Hillman - Do’s and Dont’s for photos of coworking.](http://dangerouslyawesome.com/2014/06/whats-wrong-with-this-picture-dos-and-donts-for-photos-of-coworking/)
+* [Coworking and Collaboration with Alex Hillman](http://devchat.tv/freelancers/158-fs-coworking-and-collaboration-with-alex-hillman)
+* [Emily](https://bitbucket.org/runhello/emily/wiki/Home)jdd
+* [Fit Cat Watch Face](https://play.google.com/store/apps/details?id=com.sqisland.fitcat)
+* [Liberty JS](http://libertyjs.com/)
