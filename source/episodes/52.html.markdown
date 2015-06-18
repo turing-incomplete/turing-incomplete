@@ -1,0 +1,36 @@
+---
+episode: 52
+title: Anything can Listen
+date: 2015-06-18
+tags: javascript
+mp3: http://episodes.turing.cool/Turing-Incomplete-52.mp3
+explicit: false
+file_size: 28_528_228
+seconds: 1745
+picks:
+  Justin:
+    - text: Agar
+      url: http://agar.io/
+  Jearvon:
+    - text: Async JavaScript Build More Responsive Apps with Less Code
+      url: https://pragprog.com/book/tbajs/async-javascript
+    - text: How Big, How Blue, How Beautiful - Florence + The Machine 
+      url: https://itunes.apple.com/us/album/how-big-how-blue-how-beautiful/id965931771
+  Pam:
+    - text: Announcing GitTorrent A Decentralized GitHub
+      url: http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/
+  Len:
+    - text: Osmos
+      url: http://www.osmos-game.com/
+    - text: Codestarter
+      url: https://codestarter.org/
+---
+
+* [Atreus Keyboard Kit](http://atreus.technomancy.us/)
+* [React](http://facebook.github.io/react/)
+* [omcljs/om](https://github.com/omcljs/om)
+* [Welcome - Polymer](https://www.polymer-project.org/1.0/)
+* [WebComponents.org](http://webcomponents.org/)
+* [thedeeno/web-component-presentation](https://github.com/thedeeno/web-component-presentation)
+* [Web components ... haven't we done this before?](http://thewebivore.com/web-components-havent-done/)
+
