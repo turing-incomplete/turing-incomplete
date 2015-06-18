@@ -31,8 +31,7 @@ picks:
 * [Atreus Keyboard Kit](http://atreus.technomancy.us/)
 * [React](http://facebook.github.io/react/)
 * [omcljs/om](https://github.com/omcljs/om)
-* [Welcome - Polymer](https://www.polymer-project.org/1.0/)
+* [Polymer](https://www.polymer-project.org/1.0/)
 * [WebComponents.org](http://webcomponents.org/)
 * [thedeeno/web-component-presentation](https://github.com/thedeeno/web-component-presentation)
 * [Web components ... haven't we done this before?](http://thewebivore.com/web-components-havent-done/)
-
