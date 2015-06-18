@@ -1,6 +1,6 @@
 ---
 episode: 52
-title: Anything can Listen
+title: Web Components and Polymer
 date: 2015-06-18
 tags: javascript
 mp3: http://episodes.turing.cool/Turing-Incomplete-52.mp3
@@ -25,6 +25,8 @@ picks:
     - text: Codestarter
       url: https://codestarter.org/
 ---
+
+> Anything can Listen
 
 * [Atreus Keyboard Kit](http://atreus.technomancy.us/)
 * [React](http://facebook.github.io/react/)
