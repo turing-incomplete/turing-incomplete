@@ -1,24 +1,24 @@
 ---
 episode: 53
-title: Web Components and Polymer
-date: 2015-06-26
+title: Updated to be less horrifying
+date: 2015-06-29
 tags: javascript
 mp3: http://episodes.turing.cool/Turing-Incomplete-53.mp3
 explicit: false
-file_size: 28_528_228
-seconds: 1745
+file_size: 38610621
+seconds: 2363
 picks:
   Justin:
-    - text: Agar
-      url: http://agar.io/
+    - text: Lost In House
+      url: http://twitch.tv/lost_in_house
+    - text: Programming Elixir
+      url: https://pragprog.com/book/elixir/programming-elixir
   Jearvon:
-    - text: Async JavaScript Build More Responsive Apps with Less Code
-      url: https://pragprog.com/book/tbajs/async-javascript
-    - text: How Big, How Blue, How Beautiful - Florence + The Machine 
-      url: https://itunes.apple.com/us/album/how-big-how-blue-how-beautiful/id965931771
+    - text: ClojureScript
+      url: https://github.com/clojure/clojurescript
   Pam:
-    - text: Announcing GitTorrent A Decentralized GitHub
-      url: http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/
+    - text: ES2016 Observable
+      url: https://github.com/zenparsing/es-observable
   Len:
     - text: Cutting the Cord with Apple TV
       url: http://store.apple.com/us/appletv?afid=p238%7CsbwI4k4YQ-dc_mtid_1870765e38482_pcrid_85829000407_
@@ -28,4 +28,6 @@ picks:
 
 * [LibertyJS - June 20, 2015 - Philadelpha's JavaScript Conference](http://libertyjs.com/)
 * [Fit Cat - Watch Face - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.sqisland.fitcat)
+* [Phoenix](http://www.phoenixframework.org/)
+* [clojure/core.async](https://github.com/clojure/core.async)
 * [runhello / emily / wiki / Home — Bitbucket](https://bitbucket.org/runhello/emily/wiki/Home)
