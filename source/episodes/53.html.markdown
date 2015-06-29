@@ -14,8 +14,10 @@ picks:
     - text: Programming Elixir
       url: https://pragprog.com/book/elixir/programming-elixir
   Jearvon:
-    - text: ClojureScript
-      url: https://github.com/clojure/clojurescript
+    - text: core.async / Communicating sequential processes
+      url: https://github.com/clojure/core.async /https://en.wikipedia.org/wiki/Communicating_sequential_processes
+    - text: Major Lazer
+      url: https://soundcloud.com/majorlazer/sets/peace-is-the-mission
   Pam:
     - text: ES2016 Observable
       url: https://github.com/zenparsing/es-observable
