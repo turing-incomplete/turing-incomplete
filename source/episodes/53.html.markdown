@@ -24,10 +24,10 @@ picks:
       url: http://store.apple.com/us/appletv?afid=p238%7CsbwI4k4YQ-dc_mtid_1870765e38482_pcrid_85829000407_
 ---
 
-> Fit Cat
+> Ranting about JavaScript frameworks that we haven't used.
 
 * [LibertyJS - June 20, 2015 - Philadelpha's JavaScript Conference](http://libertyjs.com/)
-* [Fit Cat - Watch Face - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.sqisland.fitcat)
 * [Phoenix](http://www.phoenixframework.org/)
 * [clojure/core.async](https://github.com/clojure/core.async)
-* [runhello / emily / wiki / Home — Bitbucket](https://bitbucket.org/runhello/emily/wiki/Home)
+* [Angular 2 using TypeScript](http://www.reddit.com/r/dartlang/comments/2y4ady/why_typescript_and_not_dart_for_angular_2/)
+* [TypeScript](http://www.typescriptlang.org/)
