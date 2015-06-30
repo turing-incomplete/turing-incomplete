@@ -14,8 +14,10 @@ picks:
     - text: Programming Elixir
       url: https://pragprog.com/book/elixir/programming-elixir
   Jearvon:
-    - text: core.async / Communicating sequential processes
-      url: https://github.com/clojure/core.async /https://en.wikipedia.org/wiki/Communicating_sequential_processes
+    - text: Communicating sequential processes
+      url: https://en.wikipedia.org/wiki/Communicating_sequential_processes
+    - text: core.async
+      url: https://github.com/clojure/core.async
     - text: Major Lazer
       url: https://soundcloud.com/majorlazer/sets/peace-is-the-mission
   Pam:
