@@ -1,0 +1,35 @@
+---
+episode: 54
+title: Katrina Owne
+date: 2015-07-03
+tags: guests
+mp3: http://episodes.turing.cool/Turing-Incomplete-54.mp3
+explicit: false
+file_size: 28_528_228
+seconds: 1745
+picks:
+  Justin:
+    - text: Agar
+      url: http://agar.io/
+  Jearvon:
+    - text: Async JavaScript Build More Responsive Apps with Less Code
+      url: https://pragprog.com/book/tbajs/async-javascript
+    - text: How Big, How Blue, How Beautiful - Florence + The Machine 
+      url: https://itunes.apple.com/us/album/how-big-how-blue-how-beautiful/id965931771
+  Pam:
+    - text: Announcing GitTorrent A Decentralized GitHub
+      url: http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/
+  Len:
+    - text: Osmos
+      url: http://www.osmos-game.com/
+    - text: Codestarter
+      url: https://codestarter.org/
+---
+
+
+* [Splice - Music Made Better | Splice](https://splice.com/)
+* [exercism.io](http://exercism.io/)
+* [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+* [Making Badass Developers - Kathy Sierra (Serious Pony) keynote - YouTube](https://www.youtube.com/watch?v=FKTxC9pl-WM)
+* [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
+* [CLANG by Subutai Corporation — Kickstarter](https://www.kickstarter.com/projects/260688528/clang)
