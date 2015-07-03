@@ -1,19 +1,19 @@
 ---
 episode: 54
 title: Katrina Owen
-date: 2015-07-05
+date: 2015-07-03
 tags: interviews, learning
 mp3: http://episodes.turing.cool/Turing-Incomplete-54.mp3
 explicit: false
 file_size: 47822301
-seconds: 2995
+seconds: 2994
 picks:
   Katrina:
     - text: Kathy Sierra Fluent Keynote
-     url: https://www.youtube.com/watch?v=FKTxC9pl-WM
+      url: https://www.youtube.com/watch?v=FKTxC9pl-WM
   Justin:
     - text: gretel
-     url: https://github.com/lassebunk/gretel
+      url: https://github.com/lassebunk/gretel
   Pam:
     - text: Exploring ES6
       url: http://exploringjs.com/
@@ -22,10 +22,15 @@ picks:
   Len:
     - text: Escape the Room
       url: http://escapetheroomphilly.com
+  Jearvon:
+    - text: Beneath The Skin - Of Monsters and Men
+      url: https://itunes.apple.com/us/album/beneath-the-skin-deluxe/id976391945
+    - text: ClojureScript
+      url: https://github.com/clojure/clojurescript
 ---
 
 * [Katrina Owen](http://www.kytrinyx.com/)
-* [Splice - Music Made Better | Splice](https://splice.com/)
+* [Splice - Music Made Better \| Splice](https://splice.com/)
 * [exercism.io](http://exercism.io/)
 * [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [Making Badass Developers - Kathy Sierra (Serious Pony) keynote - YouTube](https://www.youtube.com/watch?v=FKTxC9pl-WM)
