@@ -29,6 +29,8 @@ picks:
       url: https://github.com/clojure/clojurescript
 ---
 
+We discuss learning, practice, exercism.io, and programming in Go with Katrina Owen.
+
 * [Katrina Owen](http://www.kytrinyx.com/)
 * [Splice - Music Made Better \| Splice](https://splice.com/)
 * [exercism.io](http://exercism.io/)
