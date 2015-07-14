@@ -1,0 +1,41 @@
+---
+episode: 55
+title: Apple Music, Go, and Elixir
+date: 2015-07-14
+tags: elixir, random
+mp3: http://episodes.turing.cool/Turing-Incomplete-55.mp3
+explicit: false
+file_size: 44591405
+seconds: 2757
+picks:
+  Justin:
+    - text: Programming Elixir
+      url: https://pragprog.com/book/elixir/programming-elixir
+  Jearvon:
+    - text: Vinyl Destination
+      url: http://www.dzzyjeff.com/2013/04/27/vinyl-destination/
+    - text: Coders at Work
+      url: http://www.codersatwork.com/
+    - text: Elixir and the Internet of Things by Doug Rohrer
+      url: https://www.youtube.com/watch?v=a-OCorBXX7M
+  Pam:
+    - text: How to Become a Hacker
+      url: http://www.catb.org/esr/faqs/hacker-howto.html
+  Len:
+    - text: Seven Concurrency Models in Seven Weeks
+      url: https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks
+---
+
+We debate streaming music services, get jealous of Len's new home, and ponder
+the future of Ruby and Elixir.
+
+* [Apple Music](https://www.apple.com/music/)
+* [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
+* [Higgs](https://github.com/higgsjs/Higgs)
+* [Rendr](https://github.com/rendrjs/rendr)
+* [Understanding Computation](http://computationbook.com/)
+* [CS Book Club](http://www.csbookclub.com/)
+* [The Pragmatic Bookshelf: The Ruby Object Model and Metaprogramming](https://pragprog.com/screencasts/v-dtrubyom/the-ruby-object-model-and-metaprogramming)
+* [The Pragmatic Bookshelf: Programming Elixir](https://pragprog.com/book/elixir/programming-elixir)
+* [Channels · Phoenix](http://www.phoenixframework.org/v0.14.0/docs/channels)
+* [Functional Geekery Episode 17 - Jos&eacute; Valim](http://www.functionalgeekery.com/episode-17-jose-valim/)
