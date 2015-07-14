@@ -2,7 +2,7 @@
 episode: 55
 title: Apple Music and Go and Elixir
 date: 2015-07-14
-tags: random
+tags: elixir, random
 mp3: http://episodes.turing.cool/Turing-Incomplete-55.mp3
 explicit: false
 file_size: 44591405
