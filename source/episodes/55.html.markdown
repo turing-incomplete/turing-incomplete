@@ -12,8 +12,8 @@ picks:
     - text: Programming Elixir
       url: https://pragprog.com/book/elixir/programming-elixir
   Jearvon:
-    - text:  Vinyl Destination
-      url:  http://www.dzzyjeff.com/2013/04/27/vinyl-destination/
+    - text: Vinyl Destination
+      url: http://www.dzzyjeff.com/2013/04/27/vinyl-destination/
     - text: Elixir and the Internet of Things by Doug Rohrer
       url: https://www.youtube.com/watch?v=a-OCorBXX7M
   Pam:
