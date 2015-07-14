@@ -14,6 +14,8 @@ picks:
   Jearvon:
     - text: Vinyl Destination
       url: http://www.dzzyjeff.com/2013/04/27/vinyl-destination/
+    - text: Coders at Work
+      url: http://www.codersatwork.com/
     - text: Elixir and the Internet of Things by Doug Rohrer
       url: https://www.youtube.com/watch?v=a-OCorBXX7M
   Pam:
@@ -36,3 +38,4 @@ the future of Ruby and Elixir.
 * [The Pragmatic Bookshelf: The Ruby Object Model and Metaprogramming](https://pragprog.com/screencasts/v-dtrubyom/the-ruby-object-model-and-metaprogramming)
 * [The Pragmatic Bookshelf: Programming Elixir](https://pragprog.com/book/elixir/programming-elixir)
 * [Channels · Phoenix](http://www.phoenixframework.org/v0.14.0/docs/channels)
+* [Functional Geekery Episode 17 - Jos&eacute; Valim](http://www.functionalgeekery.com/episode-17-jose-valim/)
