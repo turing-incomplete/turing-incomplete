@@ -24,6 +24,9 @@ picks:
       url: https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks
 ---
 
+We debate streaming music services, get jealous of Len's new home, and ponder
+the future of Ruby and Elixir.
+
 * [Apple Music](https://www.apple.com/music/)
 * [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
 * [Higgs](https://github.com/higgsjs/Higgs)
