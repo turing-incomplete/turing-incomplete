@@ -2,7 +2,7 @@
 episode: 56
 title: Circuituatuous
 date: 2015-07-22
-tags: ios
+tags: ios, javascript, ruby
 mp3: http://episodes.turing.cool/Turing-Incomplete-56.mp3
 explicit: false
 file_size: 39272204
@@ -30,4 +30,3 @@ The inevitability of single-page apps. Also the many facets of exercise, a game 
 * [AMRAP Pacer for iPad and iPhone](http://www.appster.org/app/amrap-pacer-914642993)
 * [React Native](https://facebook.github.io/react-native/)
 * [Gophercon](http://www.gophercon.com/)
-
