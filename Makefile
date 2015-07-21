@@ -1,5 +1,8 @@
 all: clean build/
 
+browse: build/
+	open build/index.html
+
 build/: deps
 	time bundle exec middleman build
 
