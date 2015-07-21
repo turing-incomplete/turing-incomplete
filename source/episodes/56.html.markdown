@@ -10,7 +10,7 @@ seconds: 2311
 picks:
   Justin:
     - text: Papertrail
-     url: http://papertrailapp.com
+      url: http://papertrailapp.com
   Jearvon:
     - text: Dayne Jordan
       url: https://soundcloud.com/daynejordan
@@ -20,13 +20,12 @@ picks:
     - text: Front End Masters
       url: http://frontendmasters.com
 ---
-
 The inevitability of single-page apps. Also the many facets of exercise, a game called Rocket League, and some GopherCon recap.
 
 * [Casper](https://casper.com/)
 * [ROCKET LEAGUE](http://rocketleague.psyonix.com/)
 * [Heroes of the Storm](http://us.battle.net/heroes/en/?-)
-* [Flux Application Architecture | React](https://facebook.github.io/react/docs/flux-overview.html)
+* [Flux Application Architecture](https://facebook.github.io/react/docs/flux-overview.html)
 * [RubyMotion](http://www.rubymotion.com/buy/)
 * [AMRAP Pacer for iPad and iPhone](http://www.appster.org/app/amrap-pacer-914642993)
 * [React Native](https://facebook.github.io/react-native/)
