@@ -23,7 +23,7 @@ picks:
 The inevitability of single-page apps. Also the many facets of exercise, a game called Rocket League, and some GopherCon recap.
 
 * [Casper](https://casper.com/)
-* [ROCKET LEAGUE](http://rocketleague.psyonix.com/)
+* [Rocket League](http://rocketleague.psyonix.com/)
 * [Heroes of the Storm](http://us.battle.net/heroes/en/?-)
 * [Flux Application Architecture](https://facebook.github.io/react/docs/flux-overview.html)
 * [RubyMotion](http://www.rubymotion.com/buy/)
