@@ -1,0 +1,50 @@
+---
+episode: 57
+title: Mudit Ameta
+date: 2015-07-24
+tags: elixir, guest, haskell, javascript, learning, ruby
+mp3: http://episodes.turing.cool/Turing-Incomplete-57.mp3
+explicit: true
+file_size: 73844411
+seconds: 4615
+picks:
+  Justin:
+    - text: Talking Machines Podcast
+      url: http://www.thetalkingmachines.com
+  Jearvon:
+    - text: Swagger
+      url: http://swagger.io
+    - text: Where the Trail Ends
+      url: http://www.last.fm/music/Various+Artists/Where+The+Trail+Ends
+  Pam:
+    - text: Millennials to Snake People (Firefox port)
+      url: https://addons.mozilla.org/en-US/firefox/addon/millennials-to-snake-people/
+  Mudit Ameta:
+    - text: What’s Your Pain Threshold?
+      url: http://gamesfromwithin.com/whats-your-pain-threshold
+
+---
+
+Mudit Ameta joins us to talk about bringing Haskell knowledge to JavaScript,
+his love of Emacs, and the joys of music production.
+
+* [Haskell](https://www.haskell.org)
+* [Flow](http://flowtype.org)
+* [PureScript](http://www.purescript.org)
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com)
+* [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
+* [auto-curry](https://github.com/zeusdeux/auto-curry)
+* [Ramda](http://ramdajs.com)
+* [Contracts for Ruby](http://egonschiele.github.io/contracts.ruby)
+* [Recurse Center](https://www.recurse.com/)
+* [zeusdeux/isInViewport](https://github.com/zeusdeux/isInViewport)
+* [What jQuery can teach you about monads](http://thewebivore.com/jquery-can-teach-monads/)
+* [fantasy-land](https://github.com/fantasyland/fantasy-land)
+* [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
+* [Microservices - Martin Fowler](http://martinfowler.com/articles/microservices.html)
+* [Ableton](https://www.ableton.com)
+* [Mudit on SoundCloud](https://soundcloud.com/thatblank)
+* [EiffelStudio](https://www.eiffel.com/eiffelstudio/)
+* [Alchemist.el](https://github.com/tonini/alchemist.el)
+* [Spacemacs](https://github.com/syl20bnr/spacemacs)
+* [How I Start - Elixir With José Valim](https://howistart.org/posts/elixir/1)
