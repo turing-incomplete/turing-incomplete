@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'middleman'
 
+gem 'activesupport'
 gem 'builder'
 gem 'fittext'
 gem 'middleman-blog'

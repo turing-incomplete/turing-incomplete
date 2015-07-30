@@ -126,6 +126,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activesupport
   builder
   fittext
   middleman

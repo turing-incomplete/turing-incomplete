@@ -5,7 +5,7 @@
       small.explicit Explicit
 
   .row.details
-    span.date = episode.date.strftime('%b %e')
+    span.date = format_date(episode.date)
     span.duration = " (#{episode.data.seconds/60} minutes)"
 
   .row
