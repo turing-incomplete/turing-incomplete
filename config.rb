@@ -46,6 +46,10 @@ helpers do
     blog.articles
   end
 
+  def format_date(time)
+    time.strftime("%B #{time.day.ordinalize}, %Y")
+  end
+
   def picks_partial(episode)
     partial "picks", locals: { episode_picks: episode.data['picks'] }
   end
