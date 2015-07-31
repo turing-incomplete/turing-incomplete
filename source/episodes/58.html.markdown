@@ -1,0 +1,38 @@
+---
+episode: 58
+title: All Things Potato
+date: 2015-07-31
+tags: elixir, javascript, philly
+mp3: http://episodes.turing.cool/Turing-Incomplete-58.mp3
+explicit: false
+file_size: 30499542
+seconds: 1906
+picks:
+  Justin:
+    - text: Productive for iOS
+      url: https://appsto.re/us/TaaP6.i
+  Jearvon:
+    - text: Taylor Swift - Bad Blood
+      url: https://www.youtube.com/watch?v=QcIy9NiNbmo
+    - text: mies
+      url: https://github.com/swannodette/mies
+  Pam:
+    - text: emoji-translate
+      url: https://github.com/notwaldorf/emoji-translate
+  Len:
+    - text: Spyfall
+      url: http://spyfall.meteor.com
+---
+
+More Elixir, the Philly Popepocalypse, and Emoji!
+
+* [Microsoft Edge - Download virtual machines](http://dev.modern.ie/tools/vms/mac/)
+* [xdissent/ievms](https://github.com/xdissent/ievms)
+* [Phoenix Framework](http://www.phoenixframework.org/v0.8.0/docs)
+* [Elixir Fountain Podcast](https://soundcloud.com/elixirfountain)
+* [r/askscience - Does Anyone Know the Terminal Velocity of a Potato?](http://www.reddit.com/r/askscience/comments/opxwq/does_anyone_know_the_terminal_velocity_of_a_potato/)
+* [How PAPER Magazine’s web engineers scaled their back-end...](https://medium.com/message/how-paper-magazines-web-engineers-scaled-kim-kardashians-back-end-sfw-6367f8d37688)
+* [Ticketleap is SEPTA’s secret weapon in this whole papal train pass situation](http://technical.ly/philly/2015/07/30/ticketleap-septa-pope)
+* [entire.life/chadoh](http://entire.life/chadoh)
+* [Brittany Forks eLife](http://brittanyforks.com/life)
+
