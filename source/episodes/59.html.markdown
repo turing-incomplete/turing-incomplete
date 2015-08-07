@@ -1,0 +1,43 @@
+---
+episode: 59
+title: Evil Leader
+date: 2015-08-07 
+tags: elixir, javascript, philly
+mp3: http://episodes.turing.cool/Turing-Incomplete-59.mp3
+explicit: true
+file_size: 41962120
+seconds: 2602
+picks:
+  Justin:
+    - text: Journey
+      url: https://www.playstation.com/en-us/games/journey-ps4/
+  Jearvon:
+    - text: iTerm 2 v3 in Beta
+      url:  https://iterm2.com/version3.html
+    - text: Seinabo Sey
+      url: https://soundcloud.com/seinabosey
+    - text: ParEdit for Emacs
+      url: http://emacswiki.org/emacs/ParEdit
+  Pam:
+    - text: A privacy analysis of the HTML5 Battery Status API
+      url: http://eprint.iacr.org/2015/616.pdf
+  Len:
+    - text: elixirstatus.com
+      url: http://elixirstatus.com
+    - text: vim devicons
+      url: https://github.com/ryanoasis/vim-devicons
+---
+
+Surprise! More Elixir! Also some upcoming conferences, the future of our economy, Emacs, and HitchBOT's demise.
+
+* [Tatsu. Standup meetings for remote teams.](https://tatsu.io/)
+* [ignu/spyfall-slack](https://github.com/ignu/spyfall-slack)
+* [tonini/alchemist.el](https://github.com/tonini/alchemist.el)
+* [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
+* [ElixirConf 2015](http://elixirconf.com/)
+* [Phoenix Screencasts](http://phoenixscreencasts.com/)
+* [Clojure/conj 2015](http://clojure-conj.org/)
+* [Spread Bagelry - Montreal Style Wood Oven Bagels in Philadelphia](http://www.spreadbagelry.com/)
+* [The On-Demand Diaries: I Was A TaskRabbit Butler — On Demand — Medium](https://medium.com/ondemand/the-on-demand-diaries-i-was-a-taskrabbit-butler-2f8f9c5d319a)
+* [hitchBOT - A robot exploring the world](http://www.hitchbot.me/)
+
