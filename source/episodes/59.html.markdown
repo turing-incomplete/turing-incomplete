@@ -5,8 +5,8 @@ date: 2015-08-07
 tags: elixir, javascript, philly
 mp3: http://episodes.turing.cool/Turing-Incomplete-59.mp3
 explicit: true
-file_size: 41962120
-seconds: 2602
+file_size: 41704526
+seconds: 2584
 picks:
   Justin:
     - text: Journey
@@ -35,6 +35,7 @@ Surprise! More Elixir! Also some upcoming conferences, the future of our economy
 * [tonini/alchemist.el](https://github.com/tonini/alchemist.el)
 * [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
 * [ElixirConf 2015](http://elixirconf.com/)
+* [Open Source & Feelings](http://osfeels.com/)
 * [Phoenix Screencasts](http://phoenixscreencasts.com/)
 * [Clojure/conj 2015](http://clojure-conj.org/)
 * [Spread Bagelry - Montreal Style Wood Oven Bagels in Philadelphia](http://www.spreadbagelry.com/)
