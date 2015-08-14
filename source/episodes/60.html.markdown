@@ -1,0 +1,41 @@
+---
+episode: 60
+title: "Like 75% Accurate"
+date: 2015-08-14
+tags: javascript. elixir, emacs
+mp3: http://episodes.turing.cool/Turing-Incomplete-60.mp3
+explicit: true
+file_size: 34780174
+seconds: 2145
+picks:
+  Len:
+    - text: Ember
+      url: http://www.emberjs.com
+    - text: Mr. Robot
+      url: http://www.usanetwork.com/mrrobot/cast
+  Pam:
+    - text: AUGMENTING HUMAN INTELLECT
+      url: http://www.dougengelbart.org/pubs/augment-3906.html
+  Jearvon:
+    - text: Compton
+      url: https://en.wikipedia.org/wiki/Compton_(album)
+    - text: Local Natives
+      url: http://thelocalnatives.com/
+    - text: "homebrew cask"
+      url: https://github.com/caskroom/homebrew-cask
+
+---
+
+While Justin's on vacation, we talk about Nebraska, React/Flux, Len's conversion to Emacs, and web browsers.
+
+* [Why we should give free money to everyone](https://decorrespondent.nl/541/Why-we-should-give-free-money-to-everyone/20798745-cb9fbb39)
+* [We Compared 13 Top Flux Implementations](https://medium.com/social-tables-tech/we-compared-13-top-flux-implementations-you-won-t-believe-who-came-out-on-top-1063db32fe73)
+* [gaearon/redux](https://github.com/gaearon/redux#why-another-flux-framework)
+* [reflux/refluxjs](https://github.com/reflux/refluxjs)
+* [Radio.js: Chainable and Depencency-free Pub/Sub for JavaScript](http://radio.uxder.com/)
+* [Building Modular Web Apps With Backbone.Radio](http://benmccormick.org/2015/01/26/backbone-radio/)
+* [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
+* [Emacs Introduction and Demonstration](https://www.youtube.com/watch?v=B6jfrrwR10k)
+* [Reactiflux](http://www.reactiflux.com/)
+* [Vimium - the hacker's browser](https://vimium.github.io/)
+* [Electrovim :: Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/electrovim/)
