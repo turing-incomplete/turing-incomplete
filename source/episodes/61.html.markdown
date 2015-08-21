@@ -1,6 +1,6 @@
 ---
 episode: 61
-title: JavaScript Picked Me
+title: Raquel Vélez
 date: 2015-08-21
 tags: guest, javascript
 mp3: http://episodes.turing.cool/Turing-Incomplete-61.mp3
@@ -23,6 +23,8 @@ picks:
     - text: Reactive Podcast
       url: http://reactive.audio
 ---
+
+> JavaScript Picked Me
 
 We're joined by Raquel Vélez to chat about autonomous robots, self-driving
 cars, and JavaScript.
