@@ -31,9 +31,9 @@ cars, and JavaScript.
 
 * [npm](https://www.npmjs.com)
 * [NodeBots](http://nodebots.io)
-* [Jason Pollock](https://en.wikipedia.org/wiki/Jackson_Pollock)
+* [Artie the ArtBot](https://www.youtube.com/watch?v=rA-esSK5AYQ)
+* [Jackson Pollock](https://en.wikipedia.org/wiki/Jackson_Pollock)
 * [Johnny-Five](http://johnny-five.io)
 * [CHAPPiE](http://www.rottentomatoes.com/m/chappie/)
 * [Die Antwoord](http://www.dieantwoord.com/)
 * [@rockbot](https://twitter.com/rockbot)
-
