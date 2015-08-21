@@ -1,0 +1,37 @@
+---
+episode: 61
+title: JavaScript Picked Me
+date: 2015-08-21
+tags: guest, javascript
+mp3: http://episodes.turing.cool/Turing-Incomplete-61.mp3
+explicit: false
+file_size: 53158766
+seconds: 3322
+picks:
+  Raquel Vélez:
+    - text: Screenhero
+      url: http://screenhero.com
+  Justin:
+    - text: Glacier National Park
+      url: http://www.nps.gov/glac/index.htm
+  Jearvon:
+    - text: JRuby
+      url: http://jruby.org
+    - text: Thre3style
+      url: http://www.redbullthre3style.com
+  Pam:
+    - text: Reactive Podcast
+      url: http://reactive.audio
+---
+
+We're joined by Raquel Vélez to chat about autonomous robots, self-driving
+cars, and JavaScript.
+
+* [npm](https://www.npmjs.com)
+* [NodeBots](http://nodebots.io)
+* [Jason Pollock](https://en.wikipedia.org/wiki/Jackson_Pollock)
+* [Johnny-Five](http://johnny-five.io)
+* [CHAPPiE](http://www.rottentomatoes.com/m/chappie/)
+* [Die Antwoord](http://www.dieantwoord.com/)
+* [@rockbot](https://twitter.com/rockbot)
+
