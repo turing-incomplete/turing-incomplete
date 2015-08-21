@@ -55,6 +55,25 @@ a
   color: $link
   text-decoration: none
 
+blockquote
+  margin: 1em
+
+  &:before, &:after
+    color: $light-gray
+    line-height: 0.1em
+    font-size: 3em
+    vertical-align: -0.4em
+
+  &:before
+    content: "\201C"
+
+  &:after
+    content: "\201D"
+
+  p
+    display: inline
+    padding: 0 0 0 0.5em
+
 .hosts
   font-family: "Amatic SC"
   font-size: 1em
