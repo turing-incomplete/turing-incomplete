@@ -2,7 +2,7 @@
 episode: 60
 title: "Like 75% Accurate"
 date: 2015-08-14
-tags: javascript. elixir, emacs
+tags: javascript, elixir, emacs
 mp3: http://episodes.turing.cool/Turing-Incomplete-60.mp3
 explicit: true
 file_size: 34780174
