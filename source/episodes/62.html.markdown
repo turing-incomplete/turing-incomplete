@@ -1,0 +1,40 @@
+---
+episode: 62
+title: Katherine Fellows
+date: 2015-08-28
+tags: guest
+mp3: http://episodes.turing.cool/Turing-Incomplete-62.mp3
+explicit: true
+file_size: 43295410
+seconds: 2728
+picks:
+  Len:
+    - text: Descriptive Podcast
+      url: http://descriptive.audio
+  Justin:
+    - text: AdVenture Capitalist
+      url: http://hyperhippo.ca/games/adventure-capitalist/
+  Jearvon:
+    - text:  TPM - tmux plugin manager
+      url:  https://github.com/tmux-plugins/tpm
+    - text: Kurt Vile
+      url:  http://pitchfork.com/reviews/tracks/17585-kurt-vile-pretty-pimpin/
+  Pam:
+    - text: How DNS works
+      url: https://howdns.works/
+  Katherine Fellows:
+    - text: Open Source & Feelings
+      url: http://osfeels.com
+
+---
+[Katherine Fellows](http://twitter.com/kf) on Distributed Systems, Functional Programming Stuff, and ClojureBridge
+
+* [ClojureBridge](http://www.clojurebridge.org/)
+* [Hackbright Academy](https://hackbrightacademy.com/)
+* [Akka](http://akka.io/)
+* [Bimodal Multicast](https://www.cs.cornell.edu/Courses/cs614/2003SP/papers/BHO99.pdf)
+* [Distributed Computing Through Combinatorial Topology](http://www.amazon.com/Distributed-Computing-Through-Combinatorial-Topology/dp/0124045782)
+* [Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
+* [Distributed systems theory for the distributed systems engineer : Paper Trail](http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/)
+* [Bruce Spang on Bimodal Multicast](https://plus.google.com/events/ckdkfeatm258cn669lfengmuhak)
+
