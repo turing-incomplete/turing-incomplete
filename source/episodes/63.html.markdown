@@ -9,13 +9,13 @@ file_size: 27697487
 seconds: 1826
 picks:
   Justin:
-    - text: tsws
+    - text: tsws - A Totally Simple Web Server in Bash and Netcat
       url: https://github.com/dfletcher/tsws
   Jearvon:
-    - text:  ngrok
-      url:  https://ngrok.com/
+    - text: ngrok
+      url: https://ngrok.com/
     - text: Caught a Long Wind
-      url:  https://www.youtube.com/watch?v=Q1Ywmjn_1FU
+      url: https://www.youtube.com/watch?v=Q1Ywmjn_1FU
   Pam:
     - text: How to Quantify Scalability
       url: http://www.perfdynamics.com/Manifesto/USLscalability.html
