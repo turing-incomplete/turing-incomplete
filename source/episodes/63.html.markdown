@@ -24,7 +24,7 @@ picks:
       url: http://livecoding.tv
 ---
 
-Sleeping on Planes, Headphones, Hoodies, CouchDB, Diffy, iPad Pro Breaking News
+We debate the best way to sleep on a plane, headphones and hoodies for travel, and lament our future AI overlords.
 
 * [The World's Best TRAVEL JACKET with 15 Features](https://www.kickstarter.com/projects/597538543/the-worlds-best-travel-jacket-with-15-features-bau)
 * [Diffy: Testing services without writing tests](https://blog.twitter.com/2015/diffy-testing-services-without-writing-tests)
