@@ -1,6 +1,6 @@
 ---
 episode: 63
-title: Buy me a Pepperoni Pizza
+title: Buy Me a Pepperoni Pizza
 date: 2015-09-10
 tags: philly
 mp3: http://episodes.turing.cool/Turing-Incomplete-63.mp3
