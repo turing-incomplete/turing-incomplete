@@ -14,7 +14,7 @@ picks:
   Jearvon:
     - text: ngrok
       url: https://ngrok.com/
-    - text: Caught a Long Wind
+    - text: Feist - Caught a Long Wind
       url: https://www.youtube.com/watch?v=Q1Ywmjn_1FU
   Pam:
     - text: How to Quantify Scalability
