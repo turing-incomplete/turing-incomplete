@@ -5,8 +5,8 @@ date: 2015-10-10
 tags: philly
 mp3: http://episodes.turing.cool/Turing-Incomplete-63.mp3
 explicit: true
-file_size: 27642102
-seconds: 1822
+file_size: 27697487
+seconds: 1826
 picks:
   Justin:
     - text: tsws
