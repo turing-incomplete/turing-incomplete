@@ -28,7 +28,7 @@ picks:
 
 ---
 
-We were joined by [Jerod Santo](https://twitter.com/jerodsanto) and [Adam Stacoviak](https://twitter.com/adamstac) from [The Changelog](https://changelog.com). We discussed Apple Music, media of all kinds, paid tribute to our robot overlords, and even talked about some programming.
+We're joined by [Jerod Santo](https://twitter.com/jerodsanto) and [Adam Stacoviak](https://twitter.com/adamstac) from [The Changelog](https://changelog.com) to talk about Apple Music, media of all kinds, pay tribute to our robot overlords, and maybe even some programming.
 
 
 * [The Changelog](https://changelog.com)
