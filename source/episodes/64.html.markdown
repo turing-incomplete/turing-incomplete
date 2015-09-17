@@ -1,0 +1,53 @@
+---
+episode: 64
+title: Motion Creates Emotion with The Changelog
+date: 2015-09-18
+tags: guests
+mp3: http://episodes.turing.cool/Turing-Incomplete-64.mp3
+explicit: false
+file_size: 57462721
+seconds: 3770
+picks:
+  Adam Stacoviak:
+    - text: Beyond Code - Keep Ruby Weird (Season 1)
+      url: https://beyondcode.tv/krw/
+    - text: This show is amazing
+      url: https://github.com/thechangelog/ping/issues/272
+  Jerod Santo:
+    - text: Black Screen
+      url: https://github.com/black-screen/black-screen
+  Justin:
+    - text: Wunderlist
+      url: https://www.wunderlist.com
+  Pam:
+    - text: Choose Boring Technology - Dan McKinley
+      url: http://mcfunley.com/choose-boring-technology-slides
+  Len:
+    - text: Super Mario Maker (and his Mario Mona Lisa - 205D-000-0028-38C9)
+      url: https://www.youtube.com/watch?v=ZwO09vJAPDs
+
+---
+
+We were joined by [Jerod Santo](https://twitter.com/jerodsanto) and [Adam Stacoviak](https://twitter.com/adamstac) from [The Changelog](https://changelog.com). We discussed Apple Music, media of all kinds, paid tribute to our robot overlords, and even talked about some programming.
+
+
+* [The Changelog](https://changelog.com)
+* [Jerod Santo (@jerodsanto)](https://twitter.com/jerodsanto)
+* [Adam Stacoviak (@adamstac)](https://twitter.com/adamstac?lang=en)
+* [The Changelog #173: Crossover - Turing-Incomplete](https://changelog.com/173/)
+* [Java Desktop System - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Java_Desktop_System)
+* [Apple Music - Beats 1](http://www.apple.com/music/radio/)
+* [Apple Music - Inspired by Arthur Russell](https://itunes.apple.com/us/playlist/inspired-by-arthur-russell/idpl.bee28bd0531443b292ba85ee793f66ca)
+* [ShopTalk 067: with Pam Selle](http://shoptalkshow.com/episodes/067-with-pam-selle/)
+* [Beyond Code](https://beyondcode.tv)
+* [Programming Elixir by Dave Thomas](https://pragprog.com/book/elixir/programming-elixir)
+* [Turing-Incomplete #54 with Katrina Owen](http://turing.cool/54/)
+* [Turing-Incomplete #61 with Raquel Vélez](http://turing.cool/61/)
+* [Subsumtion Architecture](https://en.wikipedia.org/wiki/Subsumption_architecture)
+* [Behavior-based robotics](https://en.wikipedia.org/wiki/Behavior-based_robotics)
+* [Beats, Rye & Types - Episode 25: Robots and Chickens with Carin Meier](http://beatsryetypes.com/episodes/2015/07/20/episode-25-carin-meier.html)
+* [Sammy.js](http://sammyjs.org)
+* [#22: Sammy.js with Aaron Quint](https://changelog.com/22/)
+* [#145: 10+ Years of Rails with DHH](https://changelog.com/145/)
+* [Subscribe to Changelog Nightly - The Changelog](https://changelog.com/nightly/)
+* [161: HTTP/2 with Ilya Grigorik](https://changelog.com/161/)
