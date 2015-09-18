@@ -3,6 +3,10 @@
 @import normalize
 @import url(http://fonts.googleapis.com/css?family=Amatic+SC)
 
+$body-font-family: "Lucida Grande", Tahoma, Verdana, "Helvetica Neue", Helvetica, sans-serif
+$header-font-family: "Amatic SC", "Futura-CondensedMedium", "DINCondensed-Bold" , sans-serif
+$header-font-weight: lighter
+
 $black: #000
 $blue: #1aa1db
 $dark-gray: #333
@@ -26,7 +30,7 @@ $wrapper-background: $light-yellow
 body
   background: $body-background
   font-size: 14pt
-  font-family: "Lucida Grande", Tahoma, Verdana, "Helvetica Neue", Helvetica, sans-serif
+  font-family: $body-font-family
 
 .audio-wrapper
   float: left
@@ -36,7 +40,8 @@ body
   background: $wrapper-background
 
 h1, h2
-  font-family: "Amatic SC"
+  font-family: $header-font-family
+  font-weight: $header-font-weight
   margin: 0
   text-align: center
   width: 100%
@@ -75,9 +80,9 @@ blockquote
     padding: 0 0 0 0.5em
 
 .hosts
-  font-family: "Amatic SC"
+  font-family: $header-font-family
   font-size: 1em
-  font-weight: bold
+  font-weight: $header-font-weight
   list-style-type: none
   padding: 0
   text-align: center
