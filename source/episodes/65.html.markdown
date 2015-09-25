@@ -1,0 +1,33 @@
+---
+episode: 65
+title: Just Because I can
+date: 2015-09-25
+tags: elixir
+mp3: http://episodes.turing.cool/Turing-Incomplete-65.mp3
+explicit: false
+file_size: 24529390
+seconds: 1710
+picks:
+  Justin:
+    - text: Robot Programming
+      url: http://smile.amazon.com/Robot-Programming-Practical-Behavior-Based-Robotics-ebook/dp/B002KCFIG2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1442952022&sr=1-1&keywords=behavior+based+robotics
+  Pam:
+    - text: Ultrascope
+      url: http://www.openspaceagency.com/ultrascope/
+  Len:
+    - text: Inside Amy Schumer
+      url: http://www.hulu.com/inside-amy-schumer
+  Jearvon:
+    - text: Clojure Applied
+      url: https://pragprog.com/book/vmclojeco/clojure-applied
+    - text:  Ellie Goulding
+      url: http://www.elliegoulding.com/
+---
+
+We talk about Strange Loop, AIs, Robotics, forming project ideas and of course a bit about editors.
+
+* [Strange Loop](http://www.thestrangeloop.com/)
+* [Blinky Pendant](http://blinkinlabs.com/blinkypendant/)
+* [New American Public Art](http://www.newamericanpublicart.com/)
+* [Global Day of Coderetreat](http://globalday.coderetreat.org/)
+* [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
