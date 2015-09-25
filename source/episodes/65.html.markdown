@@ -1,12 +1,12 @@
 ---
 episode: 65
-title: Robot Programming
+title: Just Because I can
 date: 2015-09-25
 tags: elixir
 mp3: http://episodes.turing.cool/Turing-Incomplete-65.mp3
 explicit: false
-file_size: 26115737
-seconds: 1840
+file_size: 24529390
+seconds: 1710
 picks:
   Justin:
     - text: Robot Programming
@@ -23,6 +23,8 @@ picks:
     - text:  Ellie Goulding
       url: http://www.elliegoulding.com/
 ---
+
+We talk about Strange Loop, AIs, Robotics, forming project ideas and of course a bit about editors.
 
 * [Blinky Pendant](http://blinkinlabs.com/blinkypendant/)
 * [New American Public Art](http://www.newamericanpublicart.com/)
