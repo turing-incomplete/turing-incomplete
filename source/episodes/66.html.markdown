@@ -1,0 +1,38 @@
+---
+episode: 66
+title: Chiu-Ki Chan and Cate Huston from Technically Speaking
+date: 2015-10-02
+tags: guests
+mp3: http://episodes.turing.cool/Turing-Incomplete-66.mp3
+explicit: false
+file_size: 27113983
+seconds: 1983
+picks:
+  Chiu-Ki:
+    - text: Strange Loop YouTube Playlist
+      url: https://www.youtube.com/playlist?list=PLcGKfGEEONaCIl5eU53uPBnRJ9rbIH32R
+  Cate:
+    - text: Glowforge
+      url: http://glowforge.com/referred/?kid=6KRS2
+  Pam:
+    - text: Mirage OS
+      url: https://mirage.io/
+  Len:
+    - text: The Late Show with Stephen Colbert's YouTube Channel
+      url: https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig
+---
+
+* [Chiu-Ki Chan (@chiuki)](https://twitter.com/chiuki)
+* [cate (@catehstn)](https://twitter.com/catehstn)
+* [The #NotAllMen Project](http://www.catehuston.com/blog/2015/09/28/the-notallmen-project/)
+* [Droidcon NYC now 22% female speakers](http://blog.sqisland.com/2015/08/droidcon-nyc-22-percent-female-speakers.html?m=1)
+* [Rethinking Work](http://www.nytimes.com/2015/08/30/opinion/sunday/rethinking-work.html?_r=0)
+* [Better than Before](http://www.amazon.com/Better-Than-Before-Mastering-Everyday/dp/0385348614)
+* [Dan Ariely Blog Archive Back to School #2](http://danariely.com/2010/08/30/back-to-school-2/)
+* [Interview with Gretchen Rubin](https://alibrown.com/2015/06/02/gretchen-rubin-author-of-the-happiness-project-and-better-than-before-on-glambition-radio-with-ali-brown/)
+* [Show and Hide, Cate's upcoming app](https://twitter.com/showandhide)
+* [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html)
+* [Square Island](http://blog.sqisland.com/)
+* [Square Island by Chiu-Ki Chan](http://tinyletter.com/sqisland)
+* [Square Island - Android Apps on Google Play](https://play.google.com/store/apps/dev?id=5441086938038769987)
+* [Technically Speaking newsletter](http://www.techspeak.email/)
