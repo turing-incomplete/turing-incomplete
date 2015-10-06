@@ -1,0 +1,35 @@
+---
+episode: 67
+title: Small German Man
+date: 2015-10-09
+tags: devops
+mp3: http://episodes.turing.cool/Turing-Incomplete-67.mp3
+explicit: true
+file_size: 28051072
+seconds: 2178
+picks:
+  Pam:
+    - text: Old Usenet
+      url: http://olduse.net/
+  Jearvon:
+    - text: Parens of the Dead
+      url: www.parens-of-the-dead.com/
+    - text: Sprit In The Sky
+      url: https://www.youtube.com/watch?v=AZQxH_8raCI
+  Len:
+    - text: JS Conf 2015 videos
+      url: https://www.youtube.com/user/jsconfeu/videos
+---
+
+For our first time together in quite some time, we talk about HashiCorp's new releases, StrageLoop, iPhone 6s and live streaming.
+
+* [Otto by HashiCorp](https://ottoproject.io/)
+* [Voodoo Doughnut](http://voodoodoughnut.com/)
+* ["Streams: The data structure we need" by Pam Selle - YouTube](https://www.youtube.com/watch?v=3iKkwzlch0o)
+* [Gary Bernhardt](https://twitter.com/garybernhardt)
+* [Destroy All Software Screencasts](https://www.destroyallsoftware.com/screencasts)
+* [Notes from Strange Loop - Pam The Webivore](http://thewebivore.com/notes-from-strange-loop/)
+* [Lulu's Local Eatery](http://luluslocaleatery.com/)
+* [Rooster - Best Breakfast, Brunch, Mimosa, Bloody Mary and Crepes in St. Louis](http://roosterstl.com/)
+* [Adding Rails support to Otto](https://www.livecoding.tv/video/adding-rails-support-to-otto-2/)
+* [Soundflower](https://rogueamoeba.com/freebies/soundflower/)
