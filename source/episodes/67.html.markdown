@@ -8,6 +8,11 @@ explicit: true
 file_size: 28051072
 seconds: 2178
 picks:
+  Justin:
+    - text: Buy a humidifier
+      url: http://smile.amazon.com/s/ref=nb_sb_ss_sc_0_6?url=search-alias%3Daps&field-keywords=dehumidifier&sprefix=dehumidifier%2Caps%2C115
+    - text: chrismccord/elixirconf_training
+      url: https://github.com/chrismccord/elixirconf_training
   Pam:
     - text: Old Usenet
       url: http://olduse.net/
