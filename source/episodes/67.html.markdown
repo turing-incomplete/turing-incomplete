@@ -26,7 +26,7 @@ picks:
       url: https://www.youtube.com/user/jsconfeu/videos
 ---
 
-For our first time together in quite some time, we talk about HashiCorp's new releases, StrangeLoop, iPhone 6s and live streaming.
+For our first time together in quite some time, we talk about HashiCorp's new releases, StrangeLoop, iPhone 6s, and live streaming.
 
 * [Otto by HashiCorp](https://ottoproject.io/)
 * [Voodoo Doughnut](http://voodoodoughnut.com/)
