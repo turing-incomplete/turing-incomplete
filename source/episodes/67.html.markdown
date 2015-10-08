@@ -28,10 +28,12 @@ picks:
 
 For our first time together in quite some time, we recap the conferences we've been attending: HashiConf, StrangeLoop, and Open Source & Feelings. We also chat about the iPhone 6s and live coding.
 
+* [HashiConf](https://hashiconf.com)
 * [Otto by HashiCorp](https://ottoproject.io/)
 * [Nomad by HashiCorp](https://nomadproject.io/)
 * [Voodoo Doughnut](http://voodoodoughnut.com/)
 * [Blue Star Donuts](http://www.bluestardonuts.com)
+* [Strange Loop](https://thestrangeloop.com)
 * ["Streams: The data structure we need" by Pam Selle - YouTube](https://www.youtube.com/watch?v=3iKkwzlch0o)
 * [Gary Bernhardt](https://twitter.com/garybernhardt)
 * [Destroy All Software Screencasts](https://www.destroyallsoftware.com/screencasts)
@@ -40,5 +42,6 @@ For our first time together in quite some time, we recap the conferences we've b
 * [Rooster - Best Breakfast, Brunch, Mimosa, Bloody Mary and Crepes in St. Louis](http://roosterstl.com/)
 * [Agno Grill](http://agnogrill.com)
 * [Pure Fare](http://www.purefare.com)
+* [Open Source & Feelings](http://osfeels.com)
 * [Adding Rails support to Otto](https://www.livecoding.tv/video/adding-rails-support-to-otto-2/)
 * [Soundflower](https://rogueamoeba.com/freebies/soundflower/)
