@@ -26,7 +26,7 @@ picks:
       url: https://www.youtube.com/user/jsconfeu/videos
 ---
 
-For our first time together in quite some time, we talk about HashiCorp's new releases, StrangeLoop, iPhone 6s, and live streaming.
+For our first time together in quite some time, we recap the conferences we've been attending: HashiConf, StrangeLoop, and Open Source & Feelings. We also chat about the iPhone 6s and live coding.
 
 * [Otto by HashiCorp](https://ottoproject.io/)
 * [Nomad by HashiCorp](https://nomadproject.io/)
