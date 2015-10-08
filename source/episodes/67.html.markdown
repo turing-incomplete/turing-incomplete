@@ -29,6 +29,7 @@ picks:
 For our first time together in quite some time, we talk about HashiCorp's new releases, StrangeLoop, iPhone 6s, and live streaming.
 
 * [Otto by HashiCorp](https://ottoproject.io/)
+* [Nomad by HashiCorp](https://nomadproject.io/)
 * [Voodoo Doughnut](http://voodoodoughnut.com/)
 * [Blue Star Donuts](http://www.bluestardonuts.com)
 * ["Streams: The data structure we need" by Pam Selle - YouTube](https://www.youtube.com/watch?v=3iKkwzlch0o)
