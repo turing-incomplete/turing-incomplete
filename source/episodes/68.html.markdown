@@ -9,7 +9,7 @@ file_size: 28983159
 seconds: 2293
 picks:
   Justin:
-    - text: The Food Lab: Better Home Cooking Through Science
+    - text: Better Home Cooking Through Science
       url: http://www.amazon.com/The-Food-Lab-Cooking-Through/dp/0393081087
   Pam:
     - text: FFFFFF Diversity
@@ -18,7 +18,6 @@ picks:
     - text: Transformers Devestation
       url: http://store.steampowered.com/app/338930/
 ---
-
 
 * [Tricking Out the Terminal: An Introduction](http://opensourcebridge.org/sessions/1547)
 * [Confreaks TV](http://confreaks.tv/videos/osbridge2015-tricking-out-the-terminal-an-introduction)
