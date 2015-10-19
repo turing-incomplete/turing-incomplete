@@ -1,0 +1,40 @@
+---
+episode: 68
+title: Recipe for Sadness
+date: 2015-10-19
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-68.mp3
+explicit: true
+file_size: 28983159
+seconds: 2293
+picks:
+  Justin:
+    - text: Better Home Cooking Through Science
+      url: http://www.amazon.com/The-Food-Lab-Cooking-Through/dp/0393081087
+  Pam:
+    - text: FFFFFF Diversity
+      url: https://medium.com/this-is-hard/ffffff-diversity-1bd2b3421e8a
+  Len:
+    - text: Transformers Devestation
+      url: http://store.steampowered.com/app/338930/
+  Jearvon:
+    - text: 'Nick Offerman: "Paddle Your Own Canoe" | Talks at Google'
+      url: https://youtu.be/NAybeJPp0gk
+    - text: The American Dream - Frankford El
+      url: https://youtu.be/owFe4TihwhY
+---
+
+We catch up on work trainings, side projects, our current podcasting setup, and more.
+
+* [Tricking Out the Terminal: An Introduction](http://opensourcebridge.org/sessions/1547)
+* [Confreaks TV](http://confreaks.tv/videos/osbridge2015-tricking-out-the-terminal-an-introduction)
+* [Ten fantastic zsh tricks you'll wonder how you lived without - YouTube](https://www.youtube.com/watch?v=avr_sCFKthw)
+* [Why Zsh is Cooler than Your Shell](http://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692)
+* [Write/Speak/Code](https://github.com/writespeakcode)
+* [Sunshine](https://www.thesunshine.co/)
+* [Developer On Fire - Pam Selle - Living Life](http://developeronfire.com/Podcast/Episodes/pam-selle-living-life)
+* [Zencastr](https://zencastr.com/)
+* [Developer On Fire - Josh Nielsen - Using Customer Feedback to Create a Great Product](http://developeronfire.com/Podcast/Episodes/josh-nielsen-using-customer-feedback-to-create-a-great-product)
+* [Pam Selle on Instagram: “Got the Turing Incomplete logo (well, http://turing.cool) on the blinky pendant CC @justincampbell”](https://instagram.com/p/78wMrtOm8I/)
+* [It's September, Forever](http://motherboard.vice.com/read/its-september-forever)
+* [Episode 13: Books pt 1: The Foundations](http://beatsryetypes.com/episodes/2015/04/27/episode-13-books-pt-1-foundations.html)
