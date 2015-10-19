@@ -1,6 +1,6 @@
 ---
 episode: 68
-title: Particapation
+title: Recipe for Sadness
 date: 2015-10-19
 tags: random
 mp3: http://episodes.turing.cool/Turing-Incomplete-68.mp3
@@ -23,6 +23,8 @@ picks:
     - text: The American Dream - Frankford El
       url: https://youtu.be/owFe4TihwhY
 ---
+
+We catch up on work trainings, side projects, our current podcasting setup, and more.
 
 * [Tricking Out the Terminal: An Introduction](http://opensourcebridge.org/sessions/1547)
 * [Confreaks TV](http://confreaks.tv/videos/osbridge2015-tricking-out-the-terminal-an-introduction)
