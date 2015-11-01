@@ -1,3 +1,5 @@
+require 'active_support/core_ext/integer/inflections'
+
 Slim::Engine.disable_option_validator!
 
 set :css_dir, 'stylesheets'
