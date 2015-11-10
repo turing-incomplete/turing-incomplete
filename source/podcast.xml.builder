@@ -20,6 +20,7 @@ xml.rss(
     end
 
     xml.itunes :author, podcast_name
+    xml.itunes :email, podcast_email
     xml.itunes :explicit, "no"
     xml.itunes :image, href: cover_art_url(:large)
     xml.itunes :summary, podcast_description
