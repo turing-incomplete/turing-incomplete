@@ -68,6 +68,10 @@ helpers do
     "https://itunes.apple.com/us/podcast/turing-incomplete/id886675939"
   end
 
+  def podcast_email
+    "podcast@turing.cool"
+  end
+
   def podcast_name
     "Turing-Incomplete"
   end
