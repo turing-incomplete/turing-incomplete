@@ -1,0 +1,30 @@
+---
+episode: 69
+title: Slack Up
+date: 2015-11-11
+tags: random, javascript
+mp3: http://episodes.turing.cool/Turing-Incomplete-69.mp3
+explicit: true
+file_size: 36587440
+seconds: 2286
+picks:
+  Jearvon:
+    - text: Sysadmin Casts
+      url: https://sysadmincasts.com/
+  Len:
+    - text: Hibaou
+      url: http://app.gethibou.com/
+  Justin:
+    - text: Remote Jobs
+      url: https://github.com/jessicard/remote-jobs
+---
+
+We talk about Slack, React, and more.
+
+* [Zoom](https://www.zoom.us/?gclid=Cj0KEQiAyIayBRDo4vjdqJrgxZ0BEiQAhOYCYAUyGJGlzSQp_OxdbN38CycE7B_Y9jO14SXgiSfn3zUaAuf38P8HAQ)
+* [Tatsu. Standup meetings for remote teams.](https://tatsu.io/)
+* [Remote versus Co-located Work](http://martinfowler.com/articles/remote-or-co-located.html)
+* [Reactiflux](http://www.reactiflux.com/)
+* [BackboneRails.com](http://www.backbonerails.com/)
+* [Immutable.js](https://facebook.github.io/immutable-js/)
+* [omcljs/om](https://github.com/omcljs/om)
