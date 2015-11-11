@@ -1,0 +1,23 @@
+---
+episode: 69
+title: Slack Up
+date: 2015-11-11
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-69.mp3
+explicit: true
+file_size: 36587440
+seconds: 2286
+picks:
+  Justin:
+    - text: Better Home Cooking Through Science
+      url: http://www.amazon.com/The-Food-Lab-Cooking-Through/dp/0393081087
+  Len:
+    - text: Hibaou
+      url: http://app.gethibou.com/
+  Jearvon:
+    - text: The American Dream - Frankford El
+      url: https://youtu.be/owFe4TihwhY
+---
+
+We talk about Slack, React, and more.
+
