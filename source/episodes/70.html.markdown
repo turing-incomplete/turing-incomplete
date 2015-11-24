@@ -27,7 +27,7 @@ picks:
 
 ---
 
-We talk about Apple Tvs, Barcamp, Spices, Self Organizing Teams, Prouctivity and Project Tracking Systems.
+We talk about Apple TVs, BarCamp, Spices, Self-Organizing Teams, Productivity and Project Tracking Systems.
 
 * [Apple TV - Apple](http://www.apple.com/tv/)
 * [BarCamp Philly 2015](http://2015.barcampphilly.org/)
