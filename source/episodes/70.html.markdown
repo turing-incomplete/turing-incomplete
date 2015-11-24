@@ -9,7 +9,7 @@ file_size: 36587440
 seconds: 2041
 picks:
   Pam:
-  - text: Es class by kaitlin
+  - text: Fun with Elasticsearch!
     url: https://kaitlin.github.io/elasticsearch/
   - text: DevTools Challenger
     url: http://devtoolschallenger.com/
