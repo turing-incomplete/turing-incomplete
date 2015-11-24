@@ -1,0 +1,36 @@
+---
+episode: 70
+title: The extent of my spice knowledge
+date: 2015-11-24
+tags: random, javascript, conferences
+mp3: http://episodes.turing.cool/Turing-Incomplete-70.mp3
+explicit: true
+file_size: 36587440
+seconds: 2041
+picks:
+  Pam:
+  - text: Fun with Elasticsearch!
+    url: https://kaitlin.github.io/elasticsearch/
+  - text: DevTools Challenger
+    url: http://devtoolschallenger.com/
+  Jearvon:
+    - text: ODESZA
+      url: https://soundcloud.com/odesza/diplo-and-friends
+    - text: React Native
+      url: https://facebook.github.io/react-native/
+  Len:
+    - text: Sit Down | Some Tips for Rules Explanations!
+      url: http://www.shutupandsitdown.com/blog/post/some-tips-rules-explanations/
+  Justin:
+    - text: rspec-steps
+      url: https://github.com/LRDesign/rspec-steps
+
+---
+
+We talk about Apple TVs, BarCamp, Spices, Self-Organizing Teams, Productivity and Project Tracking Systems.
+
+* [Apple TV - Apple](http://www.apple.com/tv/)
+* [BarCamp Philly 2015](http://2015.barcampphilly.org/)
+* [The Rope Game on Vimeo](https://vimeo.com/61237895)
+* [Should your self-driving car kill you to save a school bus?](http://www.digitaltrends.com/cars/self-driving-car-moral-decisions/)
+* [Trello](https://trello.com/)
