@@ -1,4 +1,5 @@
 require 'yaml'
+require 'mp3info'
 
 class Mp3Details
   attr_accessor :file_size, :audio_length, :episode_number, :date
@@ -13,6 +14,11 @@ class Mp3Details
     puts "******* #{file} ********"
     self.file_size = File.size file
     puts "* File Size: #{file_size}"
+    Mp3Info.open file do |f|
+      self.audio_length = f.length.to_i
+      puts "* Audio Length: #{audio_length}"
+    end
+    puts "************************"
   end
 
   private
