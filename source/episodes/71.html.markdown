@@ -1,12 +1,12 @@
 ---
 episode: 71
-title: Funemployment
+title: ???????
 date: 2015-12-02
-tags: javascript
+tags: ?????
 mp3: http://episodes.turing.cool/Turing-Incomplete-71.mp3
 explicit: true
-file_size: 35374113
-seconds: 2210
+file_size: 35216960
+seconds: 2201
 picks:
   Pam:
     - text: Angular 2 Generator
