@@ -34,3 +34,7 @@ The site should now be viewable at [http://localhost:4567](http://localhost:4567
 If the branch is on this repo ([turing-incomplete/turing-incomplete](https://github.com/turing-incomplete/turing-incomplete)), each successful branch build will be deployed to [beta.turing.cool](http://beta.turing.cool).
 
 Merging any branch to master will deploy to [turing.cool](http://turing.cool).
+
+## Creating a new episode file
+
+If there is a valid `.config.yml` in the project's root directory (see `.config.yml.example`) you can run `rake metadata` to create a new episode file in `./sources/episodes` with all the metadata from the mp3.
