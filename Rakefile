@@ -12,8 +12,16 @@ class Mp3Details
   def set_file_data
     file = find_latest_file
     puts "******* #{file} ********"
+
+
+    regex = Regexp.new("#{@config['mp3_prefix']}?(\\d+)")
+
+    self.episode_number = regex.match(file).captures[0].to_i
+    puts "* Episode Number: #{self.episode_number}"
+
     self.file_size = File.size file
     puts "* File Size: #{file_size}"
+
     Mp3Info.open file do |f|
       self.audio_length = f.length.to_i
       puts "* Audio Length: #{audio_length}"
