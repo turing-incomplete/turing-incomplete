@@ -2,7 +2,7 @@ require 'yaml'
 require 'mp3info'
 
 class Mp3Details
-  attr_accessor :file_size, :audio_length, :episode_number, :date
+  attr_accessor :file, :file_size, :audio_length, :episode_number, :date
 
   def initialize
     load_config
@@ -10,9 +10,8 @@ class Mp3Details
   end
 
   def set_file_data
-    file = find_latest_file
+    self.file = find_latest_file
     puts "******* #{file} ********"
-
 
     regex = Regexp.new("#{@config['mp3_prefix']}?(\\d+)")
 
@@ -56,9 +55,29 @@ class EpisodeCreator
 
   def create!
     ensure_file_exists
+    update_next_episode_metadata
   end
 
   private
+
+  def update_next_episode_metadata
+    episode =  IO.read current_file_name
+
+    set_value episode, "episode", mp3details.episode_number
+    set_value episode, "date", (DateTime.now + 1).strftime('%Y-%m-%d')
+    set_value episode, "title", "???????"
+    set_value episode, "tags", "?????"
+    set_value episode, "file_size", mp3details.file_size
+    set_value episode, "seconds", mp3details.audio_length
+    episode.gsub!(Regexp.new("-#{mp3details.episode_number-1}\\.mp3$"), "-#{mp3details.episode_number}\mp3")
+
+    File.open(current_file_name, "wb") { |f| f.write(episode) }
+  end
+
+  def set_value(episode, name, value)
+    episode.gsub!(Regexp.new("#{name}: (.)+$"),
+                  "#{name}: #{value}")
+  end
 
   def ensure_file_exists
     return if File.exists?(current_file_name)
