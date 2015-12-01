@@ -47,6 +47,34 @@ class Mp3Details
   end
 end
 
+class EpisodeCreator
+  attr_accessor :mp3details
+
+  def initialize(details)
+    self.mp3details = details
+  end
+
+  def create!
+    ensure_file_exists
+  end
+
+  private
+
+  def ensure_file_exists
+    return if File.exists?(current_file_name)
+
+    FileUtils.cp previous_file_name, current_file_name
+  end
+
+  def current_file_name
+    "./source/episodes/#{mp3details.episode_number}.html.markdown"
+  end
+
+  def previous_file_name
+    "./source/episodes/#{mp3details.episode_number - 1}.html.markdown"
+  end
+end
+
 task :metadata do
-  details = Mp3Details.new
+  EpisodeCreator.new(Mp3Details.new).create!
 end
