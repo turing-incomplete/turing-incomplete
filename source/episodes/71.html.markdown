@@ -1,0 +1,32 @@
+---
+episode: 71
+title: Funemployment
+date: 2015-12-02
+tags: javascript
+mp3: http://episodes.turing.cool/Turing-Incomplete-71.mp3
+explicit: true
+file_size: 35374113
+seconds: 2210
+picks:
+  Pam:
+    - text: Angular 2 Generator
+      url: https://github.com/swirlycheetah/generator-angular2
+  Jearvon:
+    - text: Adele Hello
+      url: https://www.youtube.com/watch?v=YQHsXMglC9A
+    - text: Debugging with the Scientific Method
+      url: https://www.youtube.com/watch?v=FihU5JxmnBg&list=PLZdCLR02grLrl5ie970A24kvti21hGiOf&index=2
+  Len:
+    - text: Jessica Jones
+      url: http://www.netflix.com/title/80002311
+---
+
+We talk about [Len](http://twitter.com/ignu)'s Funemployment, React, React Native, Clojure, ClojureScript and Angular 2.
+
+* [Cross-Platform Native Development with Javascript](https://www.nativescript.org/)
+* [React Native with Nick Lockwood](http://www.raywenderlich.com/106144/react-native-with-nick-lockwood-podcast-s04-e02)
+* [Clojure/conj 2015](http://clojure-conj.org/)
+* [Mobile Apps with ClojureScript - Jearvon Dharrie - YouTube](https://www.youtube.com/watch?v=GDA-g6Ca_dQ)
+* [Quick Start (om.next)](https://github.com/omcljs/om/wiki/Quick-Start-(om.next))
+* [Om Next - David Nolen - YouTube](https://www.youtube.com/watch?v=ByNs9TG30E8)
+* [ANGULAR2 DATA FLOW on Vimeo](https://vimeo.com/144625829)
