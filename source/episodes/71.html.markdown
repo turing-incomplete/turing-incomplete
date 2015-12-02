@@ -9,8 +9,8 @@ file_size: 35216960
 seconds: 2201
 picks:
   Pam:
-    - text: Angular 2 Generator
-      url: https://github.com/swirlycheetah/generator-angular2
+    - text: Angular2 Data Flow on Vimeo
+      url: https://vimeo.com/144625829
   Jearvon:
     - text: Adele Hello
       url: https://www.youtube.com/watch?v=YQHsXMglC9A
@@ -29,4 +29,4 @@ We talk about [Len](http://twitter.com/ignu)'s Funemployment, React, React Nativ
 * [Mobile Apps with ClojureScript - Jearvon Dharrie - YouTube](https://www.youtube.com/watch?v=GDA-g6Ca_dQ)
 * [Quick Start (om.next)](https://github.com/omcljs/om/wiki/Quick-Start-(om.next))
 * [Om Next - David Nolen - YouTube](https://www.youtube.com/watch?v=ByNs9TG30E8)
-* [ANGULAR2 DATA FLOW on Vimeo](https://vimeo.com/144625829)
+* [Angular 2 Generator](https://github.com/swirlycheetah/generator-angular2)
