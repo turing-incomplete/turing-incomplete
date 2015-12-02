@@ -1,8 +1,8 @@
 ---
 episode: 71
-title: ???????
+title: Just start with something
 date: 2015-12-02
-tags: ?????
+tags: react, clojure, conferences
 mp3: http://episodes.turing.cool/Turing-Incomplete-71.mp3
 explicit: true
 file_size: 35216960
@@ -21,7 +21,7 @@ picks:
       url: http://www.netflix.com/title/80002311
 ---
 
-We talk about [Len](http://twitter.com/ignu)'s Funemployment, React, React Native, Clojure, ClojureScript and Angular 2.
+We talk about [Len](http://twitter.com/ignu)'s Funemployment, React, React Native, Clojure, ClojureScript, giving better conference talks, and Angular 2.
 
 * [Cross-Platform Native Development with Javascript](https://www.nativescript.org/)
 * [React Native with Nick Lockwood](http://www.raywenderlich.com/106144/react-native-with-nick-lockwood-podcast-s04-e02)
