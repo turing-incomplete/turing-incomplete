@@ -5,8 +5,8 @@ date: 2015-12-02
 tags: react, clojure, conferences
 mp3: http://episodes.turing.cool/Turing-Incomplete-71.mp3
 explicit: true
-file_size: 35216960
-seconds: 2201
+file_size: 34613427
+seconds: 2163
 picks:
   Pam:
     - text: Angular2 Data Flow on Vimeo
