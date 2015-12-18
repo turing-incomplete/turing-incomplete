@@ -1,6 +1,6 @@
 ---
 episode: 72
-title: Inevitablity and what have you
+title: Inevitability and what have you
 date: 2015-12-18
 tags: random
 mp3: http://episodes.turing.cool/Turing-Incomplete-72.mp3
