@@ -1,0 +1,29 @@
+---
+episode: 72
+title: Inevitablity and what have you
+date: 2015-12-18
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-72.mp3
+explicit: true
+file_size: 37875181
+seconds: 2367
+picks:
+  Pam:
+    - text: Angular2 Data Flow on Vimeo
+      url: https://vimeo.com/144625829
+  Jearvon:
+    - text: Adele Hello
+      url: https://www.youtube.com/watch?v=YQHsXMglC9A
+    - text: Debugging with the Scientific Method
+      url: https://www.youtube.com/watch?v=FihU5JxmnBg&list=PLZdCLR02grLrl5ie970A24kvti21hGiOf&index=2
+  Len:
+    - text: YouTube Red
+      url: http://www.youtube.com/red
+---
+
+* [LGBTQ Tech Podcast](http://lgbtq.fm/)
+* [LGBTQ in Technology - LGBTQ in Technology](http://lgbtq.technology/)
+* [Keep Talking and Nobody Explodes](http://www.keeptalkinggame.com/)
+* [One framework. - Angular 2](https://angular.io/)
+* [What Is Spacetime, Really?—Stephen Wolfram Blog](http://blog.stephenwolfram.com/2015/12/what-is-spacetime-really/)
+* [AmazonSmile: Witness Board Game: Toys & Games](http://smile.amazon.com/Asmodee-BEM01ASM-Witness-Board-Game/dp/B00QEAJVKU)
