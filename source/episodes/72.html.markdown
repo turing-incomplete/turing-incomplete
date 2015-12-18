@@ -1,0 +1,34 @@
+---
+episode: 72
+title: Inevitablity and what have you
+date: 2015-12-18
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-72.mp3
+explicit: true
+file_size: 34562018
+seconds: 2160
+picks:
+  Pam:
+    - text: What the heck is the Event Loop Anyway?
+      url: https://www.youtube.com/watch?v=8aGhZQkoFbQ
+  Justin:
+    - text: YeSQL
+      url: https://github.com/krisajenkins/yesql
+  Jearvon:
+    - text: DeWALT drills
+      url: https://www.youtube.com/watch?v=YQHsXMglC9A
+    - text: Jai Wolf - Indian Summer
+      url: https://www.youtube.com/watch?v=XPzCzaBhF7s
+  Len:
+    - text: YouTube Red
+      url: http://www.youtube.com/red
+---
+
+
+* [LGBTQ Tech Podcast](http://lgbtq.fm/)
+* [LGBTQ in Technology - LGBTQ in Technology](http://lgbtq.technology/)
+* [Keep Talking and Nobody Explodes](http://www.keeptalkinggame.com/)
+* [One framework. - Angular 2](https://angular.io/)
+* [What Is Spacetime, Really?—Stephen Wolfram Blog](http://blog.stephenwolfram.com/2015/12/what-is-spacetime-really/)
+* [Doctor Carl Cosmic Therapist](http://doctor-carl.com/)
+* [AmazonSmile: Witness Board Game: Toys & Games](http://smile.amazon.com/Asmodee-BEM01ASM-Witness-Board-Game/dp/B00QEAJVKU)
