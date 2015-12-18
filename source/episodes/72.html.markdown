@@ -16,7 +16,7 @@ picks:
       url: https://github.com/krisajenkins/yesql
   Jearvon:
     - text: DeWALT drills
-      url: https://www.youtube.com/watch?v=YQHsXMglC9A
+      url: http://www.dewalt.com/tools/cordless-combo-packs-20v-max-combo-packs-dck281d2.aspx
     - text: Jai Wolf - Indian Summer
       url: https://www.youtube.com/watch?v=XPzCzaBhF7s
   Len:
