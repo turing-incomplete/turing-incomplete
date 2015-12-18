@@ -5,8 +5,8 @@ date: 2015-12-18
 tags: random
 mp3: http://episodes.turing.cool/Turing-Incomplete-72.mp3
 explicit: true
-file_size: 34516461
-seconds: 2157
+file_size: 34562018
+seconds: 2160
 picks:
   Pam:
     - text: What the heck is the Event Loop Anyway?
