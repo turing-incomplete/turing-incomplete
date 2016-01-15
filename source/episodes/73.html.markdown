@@ -1,0 +1,29 @@
+---
+episode: 73
+title: My Perfect World
+date: 2016-01-16
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-73.mp3
+explicit: true
+file_size: 24878712
+seconds: 1554
+picks:
+  Pam:
+    - text: JavaScript Features In
+      url: https://jsfeatures.in/
+  Justin:
+    - text: Skylark
+      url: http://www.skylarkios.com/
+  Jearvon:
+    - text: The Roots - The Seed 2.0
+      url: https://www.youtube.com/watch?v=ojC0mg2hJCc
+    - text: My Clojure Workflow, Reloaded
+      url: http://thinkrelevance.com/blog/2013/06/04/clojure-workflow-reloaded
+  Len:
+    - text: Deliveries 
+      url: https://itunes.apple.com/us/app/deliveries-a-package-tracker/id290986013?mt=8
+---
+
+* [ReactCasts.tv](https://reactcasts.tv/)
+* [Introducing new open-source tools for the Elixir community](https://engineering.pinterest.com/blog/introducing-new-open-source-tools-elixir-community)
+* [Apache Thrift](https://thrift.apache.org/)
