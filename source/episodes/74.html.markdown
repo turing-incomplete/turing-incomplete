@@ -27,4 +27,5 @@ picks:
 We do a 2015 retrospective and look forward to 2016.
 
 * [Javascript Fatigue — Medium](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.lmegk7hry)
+* [Overcoming Intuition in Programming](http://amasad.me/2016/01/03/overcoming-intuition-in-programming/)
 * [An Introduction To PostCSS – Smashing Magazine](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
