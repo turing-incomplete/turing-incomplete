@@ -1,0 +1,32 @@
+---
+episode: 74
+title: 2015 Retrospectives
+date: 2016-02-06
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-74.mp3
+explicit: true
+file_size: 41835762
+seconds: 2614
+picks:
+  Pam:
+    - text: Is it safe to use SNI SSL in production?
+      url: http://blog.layershift.com/sni-ssl-production-ready/
+  Justin:
+    - text: Hammer Drills & Rotary Hammers
+      url: http://www.mscdirect.com/product/details/42242560?src=pla&cid=PLA-Google-PLA+-+Test&CS_003=7867724&CS_010=42242560)
+  Jearvon:
+    - text: Fiesta
+      url: https://www.youtube.com/watch?v=VQnOHx--AVk
+  Len:
+    - text: Not watching Making a Murderer
+      url: http://www.netflix.com/title/80000770
+    - text: Watching High Profits
+      url: http://www.netflix.com/title/80030184
+---
+
+We do a 2015 retrospective and look forward to 2016.
+
+* [Javascript Fatigue — Medium](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.lmegk7hry)
+* [Overcoming Intuition in Programming](http://amasad.me/2016/01/03/overcoming-intuition-in-programming/)
+* [Michael Chan - Inline Styles: themes, media queries, contexts, & when it's best to use CSS](https://www.youtube.com/watch?v=ERB1TJBn32c)
+* [An Introduction To PostCSS – Smashing Magazine](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
