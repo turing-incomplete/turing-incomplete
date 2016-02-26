@@ -1,0 +1,41 @@
+---
+episode: 75
+title: Bonnie Eisenman, author of Learning React Native
+date: 2016-02-26
+tags: guest, javascript
+mp3: http://episodes.turing.cool/Turing-Incomplete-75.mp3
+explicit: false
+file_size: 52226763
+seconds: 3264
+picks:
+  Pam:
+    - text: JWT.io
+      url: http://jwt.io
+  Justin:
+    - text: p-e-w/maybe
+      url: https://github.com/p-e-w/maybe
+  Jearvon:
+    - text: Bang Data
+      url: https://bangdata1.bandcamp.com/releases
+    - text: Elixir Docs
+      url: http://elixir-lang.org/getting-started/introduction.html
+  Len:
+    - text: Exponent
+      url: https://exponentjs.com
+  Bonnie:
+    - text: DuoLingo's Esperanto course
+      url: https://www.duolingo.com/course/eo/en/Learn-Esperanto-Online
+    - text: Learning React Native
+      url: http://shop.oreilly.com/product/0636920041511.do
+
+---
+
+We talk with Bonnie Eisenman, author of [Learning React Native](http://shop.oreilly.com/product/0636920041511.do), about React Native, Big Company open source, book writing, and not-programming.
+
+* [Learning React Native](http://shop.oreilly.com/product/0636920041511.do)
+* [ChucK, music programming language](http://chuck.cs.princeton.edu/)
+* [SuperCollider](https://supercollider.github.io/)
+* [Data Garden](http://datagarden.org/)
+* [NYC Resistor](http://www.nycresistor.com/)
+* [Let's Play](https://en.wikipedia.org/wiki/Let%27s_Play_(video_gaming))
+* [The Information](http://smile.amazon.com/The-Information-History-Theory-Flood/dp/1400096235)
