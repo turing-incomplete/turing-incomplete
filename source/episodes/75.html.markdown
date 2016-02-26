@@ -2,11 +2,11 @@
 episode: 75
 title: Bonnie Eisenman, author of Learning React Native
 date: 2016-02-26
-tags: random
+tags: guest, javascript
 mp3: http://episodes.turing.cool/Turing-Incomplete-75.mp3
 explicit: false
-file_size: ----
-seconds: ----
+file_size: 52226763
+seconds: 3264
 picks:
   Pam:
     - text: JWT.io
