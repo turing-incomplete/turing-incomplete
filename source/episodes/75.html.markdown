@@ -12,16 +12,16 @@ picks:
     - text: JWT.io
       url: http://jwt.io
   Justin:
-    - text: ??
-      url: ??
+    - text: p-e-w/maybe
+      url: https://github.com/p-e-w/maybe
   Jearvon:
     - text: Bang Data
       url: https://bangdata1.bandcamp.com/releases
     - text: Elixir Docs
       url: http://elixir-lang.org/getting-started/introduction.html
   Len:
-    - text: ??
-      url: ??
+    - text: Exponent
+      url: https://exponentjs.com
   Bonnie:
     - text: DuoLingo's Esperanto course
       url: https://www.duolingo.com/course/eo/en/Learn-Esperanto-Online
