@@ -1,0 +1,31 @@
+---
+episode: 76
+title: Working in Progress
+date: 2016-03-07
+tags: guest, javascript
+mp3: http://episodes.turing.cool/Turing-Incomplete-76.mp3
+explicit: true
+file_size: 0
+seconds: 0
+picks:
+  Pam:
+    - text: All the Light We Cannot See
+      url: http://smile.amazon.com/gp/product/B00DPM7TIG
+    - text: "Voting Link: PA voter registration"
+      url: https://www.pavoterservices.state.pa.us/Pages/VoterRegistrationApplication.aspx
+  Justin:
+    - text: Marty Lobdell Last Lecture
+      url: https://youtu.be/64f0T843yQ4
+    - text: Pomodoro Time for iPhone, iPod touch, iPad and Mac
+      url: http://xwavesoft.com/pomodoro-timer-for-iphone-ipad-mac-os-x.html
+  Jearvon:
+    - text: Blue Lights
+      url: https://soundcloud.com/jorjasmith/blue_lights
+    - text: Alchemist
+      url: https://github.com/tonini/alchemist.el
+    - text: The Wall Street Code
+      url: https://youtu.be/GEAGdwHXfLQ
+
+---
+
+TBD
