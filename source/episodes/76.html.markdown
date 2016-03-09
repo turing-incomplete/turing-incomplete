@@ -1,7 +1,7 @@
 ---
 episode: 76
 title: Corpuscular
-date: 2016-03-10
+date: 2016-03-09
 tags: javascript
 mp3: http://episodes.turing.cool/Turing-Incomplete-76.mp3
 explicit: false
