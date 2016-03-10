@@ -13,7 +13,7 @@ picks:
       url: https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
   Justin:
     - text: Firewatch
-      url: jhttp://www.firewatchgame.com/j
+      url: http://www.firewatchgame.com/j
   Len:
     - text: Full Frontal with Samantha Bee - YouTube
       url: https://www.youtube.com/channel/UC18vz5hUUqxbGvym9ghtX_w
