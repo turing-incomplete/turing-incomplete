@@ -1,0 +1,43 @@
+---
+episode: 77
+title: Ice Cream!
+date: 2016-03-18
+tags: elixir, remote, ruby, philly
+mp3: http://episodes.turing.cool/Turing-Incomplete-77.mp3
+explicit: false
+file_size: 45368427
+seconds: 2835
+picks:
+  Pam:
+    - text: All the Light We Cannot See
+      url: http://smile.amazon.com/gp/product/B00DPM7TIG
+    - text: "Voting Link: PA voter registration"
+      url: https://www.pavoterservices.state.pa.us/Pages/VoterRegistrationApplication.aspx
+  Justin:
+    - text: Pomodoro Time
+      url: http://xwavesoft.com/pomodoro-timer-for-iphone-ipad-mac-os-x.html
+    - text: Marty Lobdell Last Lecture
+      url: https://youtu.be/64f0T843yQ4
+  Jearvon:
+    - text: Blue Lights
+      url: https://soundcloud.com/jorjasmith/blue_lights
+    - text: The Wall Street Code
+      url: https://youtu.be/GEAGdwHXfLQ
+
+---
+
+We get a recap of Pam's Argentina work-cation, discuss how to buy headphones or any other product, talk about Jearvon's Elixir experiences, and decide that all podcasting software is terrible. Also, ice cream!
+
+* [Sweethome](http://thesweethome.com)
+* [Wirecutter](http://thewirecutter.com)
+* [Alchemist](http://www.alchemist-elixir.org)
+* [Audacity](http://www.audacityteam.org)
+* [Briefs](https://www.briefs.fm)
+* [Telegram](https://telegram.org)
+* [Definition of Entrepreneurship](https://en.wikipedia.org/wiki/Entrepreneurship#Definition)
+* [Little Baby's Ice Cream](http://www.littlebabysicecream.com)
+* [Big Gay Ice Cream](http://biggayicecream.com)
+* [The Franklin Fountain](http://www.franklinfountain.com)
+* [Elixir Typespecs](http://elixir-lang.org/getting-started/typespecs-and-behaviours.html)
+* [Contracts for Ruby](https://github.com/egonSchiele/contracts.ruby)
+* [The Pomodoro Technique](http://pomodorotechnique.com)
