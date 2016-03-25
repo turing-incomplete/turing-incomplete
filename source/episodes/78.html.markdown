@@ -6,7 +6,7 @@ tags: random
 mp3: http://episodes.turing.cool/Turing-Incomplete-78.mp3
 explicit: false
 file_size: 13119612
-seconds: 819
+seconds: 1211
 picks:
   Len:
     - text: Infuse 4 for Apple TV - Now Available | FireCore
