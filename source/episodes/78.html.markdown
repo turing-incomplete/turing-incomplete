@@ -1,0 +1,39 @@
+---
+episode: 78
+title: Framework of the Week
+date: 2016-03-26
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-78.mp3
+explicit: false
+file_size: 13119612
+seconds: 819
+picks:
+  Len:
+    - text: Infuse 4 for Apple TV - Now Available | FireCore
+      url: https://firecore.com/blog/13592
+  Pam:
+    - text: How do you do capacity planning?
+      url: http://jvns.ca/blog/2016/03/20/how-do-you-do-capacity-planning/
+  Justin:
+    - text: Top 10 Upcoming PLAYSTATION VR Games
+      url: https://www.youtube.com/watch?v=0vrUNZR9iro&feature=youtu.be
+    - text: Tom Clancy’s The Division
+      url: https://www.playstation.com/en-us/games/tom-clancys-the-division-ps4/
+  Jearvon:
+    - text: Boot: build tooling for Clojure
+      url: http://boot-clj.com/
+    - text: Eastbound & Down Original Soundtrack by Various Artists on iTunes
+      url: https://itunes.apple.com/us/album/kiss-sky-feat.-nino-moschella/id517304309?i=517304767
+
+---
+
+* [LGBTQ Tech Podcast](http://lgbtq.fm/)
+* [JavaScript Air](http://javascriptair.com/)
+* [sindresorhus/ava: Futuristic test runner](https://github.com/sindresorhus/ava)
+* [Hybrid sweet spot: Native navigation, web content – Signal v. Noise](https://signalvnoise.com/posts/3743-hybrid-sweet-spot-native-navigation-web-content)
+* [Empire City Elixir Conf](http://empex.co/)
+* [960x1280.jpeg.168b0e9b79fa423dab309c51792c2c98 (960×1280)](https://i.groupme.com/960x1280.jpeg.168b0e9b79fa423dab309c51792c2c98)
+* [LambdaConf 2015: Bigger, Better, Boulder (May 22-24, 2015)](http://www.degoesconsulting.com/lambdaconf-2015/)
+* [Node.js Foundation](https://nodejs.org/en/foundation/)
+* [Nomad - HashiCorp](https://www.hashicorp.com/blog/nomad.html)
+* [2016 Baseball Hack Day is on March 19](http://www.baseballhackday.com/)
