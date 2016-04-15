@@ -1,0 +1,32 @@
+---
+episode: 79
+title: Blinded by the Curly Braces
+date: 2016-04-15
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-79.mp3
+explicit: false
+file_size: 23622299
+seconds: 1476
+picks:
+  Len:
+    - text: Five Tribes
+      url: https://boardgamegeek.com/boardgame/157354/five-tribes
+  Justin:
+    - text: alchemist.vim
+      url: https://github.com/slashmili/alchemist.vim
+    - text: hedwig
+      url: https://github.com/hedwig-im/hedwig
+  Jearvon:
+    - text: Shopify/toxiproxy
+      url: https://github.com/shopify/toxiproxy
+    - text: The Life of Pablo
+      url: https://en.wikipedia.org/wiki/The_Life_of_Pablo
+---
+
+* [Comcast Lab Week: How Our Startup Spirit Drives Innovation](http://corporate.comcast.com/comcast-voices/comcast-lab-week-how-our-startup-spirit-drives-innovation)
+* [mitchellh/gox: A dead simple, no frills Go cross compile tool](https://github.com/mitchellh/gox)
+* [Releases · justincampbell/plop](https://github.com/justincampbell/plop/releases)
+* [2016.phillyemergingtech.com](http://2016.phillyemergingtech.com/)
+* [Elm](http://elm-lang.org/)
+* [AWS Lambda - Serverless Compute](https://aws.amazon.com/lambda/)
+* [serverless/serverless: Serverless Framework – Build web, mobile and IoT applications with serverless architectures via AWS Lambda and API Gateway (formerly known as JAWS) –](https://github.com/serverless/serverless)
