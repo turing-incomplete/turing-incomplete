@@ -1,0 +1,46 @@
+---
+episode: 80
+title: Breakfast Burrito
+date: 2016-04-22
+tags: conferences, food, philly, swift
+mp3: http://episodes.turing.cool/Turing-Incomplete-80.mp3
+explicit: false
+file_size: 38378486
+seconds: 2399
+picks:
+  Justin:
+    - text: Swagger
+      url: http://swagger.io
+  Jearvon:
+    - text: Gatling
+      url: http://gatling.io
+    - text: Wiz Khalifa - So High ft. Ghost Loft
+      url: https://www.youtube.com/watch?v=uvLSj4gRq-Q
+  Pam:
+    - text: Open Mastery
+      url: http://www.openmastery.org/
+---
+
+A chat about takeout food, PhillyETE, Justin tries Swift, et Pam apprend français
+
+* [Jaco Juice & Taco Bar](http://jacojuiceandtaco.com)
+* [Bareburger](http://bareburger.com)
+* [Philly ETE 2016](http://2016.phillyemergingtech.com)
+* [Ben DiFrancesco](https://twitter.com/bendifrancesco)
+* [tmux-status-bar Swift Rewrite](https://github.com/justincampbell/tmux-status-bar/pull/1)
+* [Swift - Using the Build System](https://swift.org/getting-started/#using-the-build-system)
+* [Lua is weird! - Pam the Webivore](http://thewebivore.com/lua-is-weird/)
+* [Swift Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/we-write/swift-programming/)
+* [elm](http://elm-lang.org)
+* [51: Is Sim City Running? (Steve Klabnik)](http://bikeshed.fm/51)
+* [Kangax Compatability Table](https://kangax.github.io/compat-table/es6/)
+* [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp?hl=en-US)
+* [Disconnect](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo?hl=en)
+* [Vimperator for FireFox](https://addons.mozilla.org/en-US/firefox/addon/vimperator/)
+* [Phoenix Framework - Ecto Models](http://www.phoenixframework.org/docs/ecto-models)
+* [Optionals in Swift - Arthur's Coding Tips](https://blog.sabintsev.com/optionals-in-swift-c94fd231e7a4)
+* [Turing-Incomplete #61: Raquel Vélez](http://turing.cool/61/)
+* [Reactive Podcast](http://reactive.audio/)
+* [LineIn - Rogue Amoeba](https://www.rogueamoeba.com/freebies/)
+* [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+* [The Pomodoro Technique](http://pomodorotechnique.com)
