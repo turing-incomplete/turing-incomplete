@@ -1,0 +1,44 @@
+---
+episode: 81
+title: Joel Burgett
+date: 2016-05-05
+tags: guests
+mp3: http://episodes.turing.cool/Turing-Incomplete-81.mp3
+explicit: false
+file_size: 39266910
+seconds: 2454
+picks:
+  Joel:
+    - text: The Handmaid's Tale
+      url: http://smile.amazon.com/Handmaids-Tale-Margaret-Atwood/dp/0449212602/
+  Pam:
+    - text: Single Serving Waffles
+      url: https://simplyzest.wordpress.com/2014/09/14/recipe-vegan-single-serving-whole-wheat-waffles/)
+  Len:
+    - text: Turn-Based Online Board Games
+      url: http://www.yucata.de/en
+  Justin:
+    - text: Wit Ai
+      url: https://github.com/wit-ai
+  Jearvon:
+    - text: One Dance - Drake
+      url: https://itun.es/us/V6vHbb?i=1099259586
+    - text: Harvest & Yield
+      url: http://radlab.cs.berkeley.edu/people/fox/static/pubs/pdf/c18.pdf
+---
+
+* [Joel Burget](http://joelburget.com/)
+* [Joel Burget (@dino_joel)](https://twitter.com/dino_joel)
+* [The Recurse Center](https://www.recurse.com/)
+* [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
+* [Pigment](http://pigment.io/)
+* [hopper-lang/hopper: a sound modern language for computation and transactional resource logic](https://github.com/hopper-lang/hopper)
+* [PureScript](http://www.purescript.org/)
+* [Elm](http://elm-lang.org/)
+* [Flow](http://flowtype.org/)
+* [gaearon/react-hot-loader: Tweak React components in real time.](https://github.com/gaearon/react-hot-loader)
+* [bhauman/lein-figwheel: Leiningen plugin that pushes ClojureScript code changes to the client](https://github.com/bhauman/lein-figwheel)
+* [Nuclide](http://nuclide.io/)
+* [buckie/juno: Smart Contracts Running on a BFT Hardened Raft](https://github.com/buckie/juno)
+* [Sentry: Track exceptions with modern error logging for JavaScript, Python, Ruby, Java, and Node.js](https://getsentry.com/welcome/)
+* [TypeScript - JavaScript that scales.](https://www.typescriptlang.org/)
