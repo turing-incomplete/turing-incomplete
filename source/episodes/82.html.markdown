@@ -1,0 +1,38 @@
+---
+episode: 82
+title: The Jearvon & Justin Show
+date: 2016-05-11
+tags: conferences, javascript, food, philly
+mp3: http://episodes.turing.cool/Turing-Incomplete-82.mp3
+explicit: false
+file_size: 46535806
+seconds: 2908
+picks:
+  Justin:
+    - text: "Data Skeptic #42 - [mini] K-Means Clustering"
+      url: http://dataskeptic.com/epnotes/k-means-clustering.php
+    - text: Phantogram - Don't Move
+      url: https://www.youtube.com/watch?v=Ur17pfjIRVo
+  Jearvon:
+    - text: Terraform
+      url: https://www.terraform.io
+    - text: Red Hot Chili Peppers - Dark Necessities
+      url: https://www.youtube.com/watch?v=qJ_Tw0w3lLA
+---
+
+Jearvon & Justin talk about their favorite programming-related topics, which are apparently video games and food.
+
+* [Philly.rb May 2016](http://www.meetup.com/Phillyrb/events/230672700/)
+* [Philly.rb - Chaos Engineering (Videos)](https://www.youtube.com/watch?v=gKkCfPfyHLY)
+* [Pancheros](http://pancheros.com/locations)
+* [Empire City Elixir Conference 2016](http://empex.co)
+* [Moonconf](http://moonconf.org)
+* [FIRST](http://www.firstinspires.org)
+* [Tom Clancy's The Division](http://tomclancy-thedivision.ubi.com/game/en-us/home/)
+* [Overwatch](https://playoverwatch.com/en-us/)
+* [Uncharted 4: A Thief's End Review](http://www.giantbomb.com/reviews/uncharted-4-a-thiefs-end-review/1900-744/)
+* [asana](https://www.asana.com)
+* [prAna](http://www.prana.com)
+* [thoughtbot/ember-cli-rails](https://github.com/thoughtbot/ember-cli-rails)
+* [Talking Machines](http://www.thetalkingmachines.com)
+
