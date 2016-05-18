@@ -1,0 +1,28 @@
+---
+episode: 83
+title: Computers-N-Stuff
+date: 2016-05-17
+tags: misc
+mp3: http://episodes.turing.cool/Turing-Incomplete-83.mp3
+explicit: false
+file_size: 23994280
+seconds: 1499
+picks:
+  Pam: 
+    - text: Chocolate Peanut Butter Pillows
+      url: http://www.theppk.com/2009/03/peanut-butter-pillows/)
+  Justin:
+    - text: Wraith
+      url: http://bbc-news.github.io/wraith/
+  Jearvon:
+    - text: BonBon - Era Istrefi
+      url: https://www.youtube.com/watch?v=cedoBlUvBlI
+    - text: Viceland
+      url: https://www.viceland.com/en_us
+  Len:
+    - text: Dimmer than Dim
+      url: https://itunes.apple.com/us/app/dimmer-than-dim/id418816854?mt=12
+---
+
+* [Spacemacs: Emacs advanced Kit focused on Evil](http://spacemacs.org/)
+* [f.lux: software to make your life better](https://justgetflux.com/)
