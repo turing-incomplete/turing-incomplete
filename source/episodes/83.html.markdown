@@ -2,18 +2,18 @@
 episode: 83
 title: Computers-N-Stuff
 date: 2016-05-18
-tags: misc
+tags: emacs, javascript, vim
 mp3: http://episodes.turing.cool/Turing-Incomplete-83.mp3
 explicit: false
 file_size: 23994280
 seconds: 1499
 picks:
-  Pam: 
+  Pam:
     - text: Chocolate Peanut Butter Pillows
-      url: http://www.theppk.com/2009/03/peanut-butter-pillows/)
+      url: http://www.theppk.com/2009/03/peanut-butter-pillows/
   Justin:
-    - text: Wraith
-      url: http://bbc-news.github.io/wraith/
+    - text: slither.io
+      url: http://slither.io
   Jearvon:
     - text: BonBon - Era Istrefi
       url: https://www.youtube.com/watch?v=cedoBlUvBlI
@@ -24,5 +24,18 @@ picks:
       url: https://itunes.apple.com/us/app/dimmer-than-dim/id418816854?mt=12
 ---
 
-* [Spacemacs: Emacs advanced Kit focused on Evil](http://spacemacs.org/)
+Programming in bed, meta keys, HBO shows, and CrossFit.
+
+* [Prompt 2](https://panic.com/prompt/)
+* [Dimmer than Dim](https://itunes.apple.com/us/app/dimmer-than-dim/id418816854?mt=12)
 * [f.lux: software to make your life better](https://justgetflux.com/)
+* [Atreus Keyboard](http://atreus.technomancy.us)
+* [Spacemacs: Emacs advanced Kit focused on Evil](http://spacemacs.org/)
+* [ctrlp.vim](https://github.com/kien/ctrlp.vim)
+* [ag.vim](https://github.com/rking/ag.vim)
+* [MacVimSpeak](https://github.com/pselle/macvimspeak)
+* [Silicon Valley](http://www.hbo.com/silicon-valley)
+* [Game of Thrones](http://www.hbo.com/game-of-thrones)
+* [Veep](http://www.hbo.com/veep)
+* [Rambda](http://ramdajs.com/0.21.0/index.html)
+* [CrossFit](https://www.crossfit.com)
