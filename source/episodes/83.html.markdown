@@ -1,7 +1,7 @@
 ---
 episode: 83
 title: Computers-N-Stuff
-date: 2016-05-17
+date: 2016-05-18
 tags: misc
 mp3: http://episodes.turing.cool/Turing-Incomplete-83.mp3
 explicit: false
