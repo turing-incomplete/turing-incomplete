@@ -1,0 +1,31 @@
+---
+episode: 84
+title: Philly Tech Week
+date: 2016-05-25
+tags: philly
+mp3: http://episodes.turing.cool/Turing-Incomplete-84.mp3
+explicit: false
+file_size: 28365356
+seconds: 1772
+picks:
+  Len:
+    - text: Protube
+      url: https://itunes.apple.com/us/app/protube-for-youtube/id931201696?mt=8
+  Pam:
+    - text: Hyperpolyglot
+      url: http://hyperpolyglot.org/
+    - text: Rosetta Code
+      url: https://rosettacode.org/wiki/Hello_world/Web_server
+  Jearvon:
+    - text: Parallel Programming, Fork Join, and Reducers
+      url: https://www.youtube.com/watch?v=eRq5UBx6cbA
+  Justin:
+    - text: The Bikeshed Podcast
+      url: http://bikeshed.fm/61
+---
+
+* [CV of Failures.pdf](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf)
+* [justincampbell/lastpost: Fetches the latest item from an RSS feed, and attempts to display it nicely.](https://github.com/justincampbell/lastpost)
+* [justincampbell/timeago: A port of Rails' time_ago_in_words to Golang](https://github.com/justincampbell/timeago)
+* [bradfitz/goimports: Tool to fix (add, remove) your Go imports automatically.](https://github.com/bradfitz/goimports)
+* [Wraith Documentation](http://bbc-news.github.io/wraith/)
