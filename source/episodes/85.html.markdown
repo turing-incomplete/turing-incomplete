@@ -1,0 +1,31 @@
+---
+episode: 85
+title: This Podcast, Comedy Shows, and Litter Boxes
+date: 2016-06-10
+tags: philly, remote, self promotion
+mp3: http://episodes.turing.cool/Turing-Incomplete-85.mp3
+explicit: false
+file_size: 35815126
+seconds: 2238
+picks:
+  Pam:
+    - text: Calendly
+      url: https://calendly.com
+  Justin:
+    - text: You Must Build a Boat
+      url: http://eightyeightgames.com/you-must-build-a-boat/
+---
+
+Pam and Justin brainstorm on what the podcast might look like in the future, comedy shows in Philly, and how our cats go to the bathroom.
+
+* [Giant Bombcast](http://www.giantbomb.com/podcasts/)
+* [HANG ON with Aaron Nevins](https://www.facebook.com/HangOnShow/)
+* [Home Depot Emails](http://view.homedepotemail.com/?j=fe88167971660d7471&m=fe6b1570746006757114&ls=fdf417727061077e7d1c7376&l=fefc167174630c&s=fe2d157376620079751376&jb=ff3216727662&ju=fe4d1c7575620d74701c&cm_mmc=hd_email-_-PROMO_THURSDAY-_-20160601_orangeinsider_20160601_PROMO_FW18_C_2942994-_-header_view&et_rid=65294012&r=0)
+* [ComedySportz](http://www.comedysportzphilly.com)
+* [Good Good Comedy](http://www.goodgoodcomedy.com)
+* [The Living End - Roll On](https://www.youtube.com/watch?v=c_-q-KodhAI)
+* [Arctic Monkeys - Fake Tales Of San Francisco](https://www.youtube.com/watch?v=ePg1tbia9Bg)
+* [Knife Party - Internet Friends](https://www.youtube.com/watch?v=gcejLp72iCE)
+* [PetSafe Ssscat Cat Spray Control System](https://amzn.com/B000RIA95G)
+* [AWS IoT Button](https://aws.amazon.com/iot/button/)
+* [Petmate Clean Step Litter Dome](https://smile.amazon.com/Booda-Dome-Cleanstep-Cat-Titanium/dp/B0002DH8L4)
