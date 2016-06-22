@@ -1,0 +1,36 @@
+---
+episode: 86
+title: The World Takes
+date: 2016-06-22
+tags: apple, javascript, go
+mp3: http://episodes.turing.cool/Turing-Incomplete-86.mp3
+explicit: true
+file_size: 43198710
+seconds: 2699
+picks:
+  Jearvon:
+    - text: Sinnerman - Nina Simone
+      url: https://www.youtube.com/watch?v=QH3Fx41Jpl4
+  Justin:
+    - text: Habitat.sh
+      url: https://www.habitat.sh/
+    - text: Mighty Bounce House
+      url: https://smile.amazon.com/gp/product/B005XOMD6C/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1
+  Len:
+    - text: Moonconf videos
+      url: https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU
+  Pam:
+    - text: Creating an AWS Lambda Function for a Custom Skill
+      url: https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function
+    - text: Node.js Alexa Skills Kit Samples
+      url: https://github.com/amzn/alexa-skills-kit-js
+    - text: KatieConf
+      url: https://katieconf.xyz/
+---
+
+* [Trenton Makes the World Takes](http://images.fineartamerica.com/images-medium-large-5/lower-trenton-bridge-louis-dallara.jpg)
+* [On Hacking MicroSD Cards « bunnie's blog](http://www.bunniestudios.com/blog/?p=3554)
+* [Seven Languages in Seven Weeks](https://smile.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/ref=sr_1_1?ie=UTF8&qid=1466577177&sr=8-1&keywords=seven+languages+in+seven+weeks)
+* [webpack module bundler](https://webpack.github.io/)
+* [SurviveJS - Introduction](http://survivejs.com/webpack/introduction/)
+* [Chris Martin on Twitter: "It's elegant in its simplicity because it's all tires. If you understand tires, you can understand the whole system. https://t.co/kjd6uJLffl"](https://twitter.com/chris__martin/status/738519117389533184)
