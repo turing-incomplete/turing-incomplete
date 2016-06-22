@@ -8,6 +8,14 @@ explicit: true
 file_size: 43198710
 seconds: 2699
 picks:
+  Jearvon:
+    - text: Sinnerman - Nina Simone
+      url: https://www.youtube.com/watch?v=QH3Fx41Jpl4
+  Justin:
+    - text: Habitat.sh
+      url: https://www.habitat.sh/
+    - text: Mighty Bounce House
+      url: https://smile.amazon.com/gp/product/B005XOMD6C/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1
   Len:
     - text: Moonconf videos
       url: https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU
