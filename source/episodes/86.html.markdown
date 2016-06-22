@@ -11,6 +11,13 @@ picks:
   Len:
     - text: Moonconf videos
       url: https://www.youtube.com/playlist?list=PLWYAdh9hA7geMRCgwDomlHAdwlsno32LU
+  Pam:
+    - text: Creating an AWS Lambda Function for a Custom Skill
+      url: https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function
+    - text: Node.js Alexa Skills Kit Samples
+      url: https://github.com/amzn/alexa-skills-kit-js
+    - text: KatieConf
+      url: https://katieconf.xyz/
 ---
 
 * [Trenton Makes the World Takes](http://images.fineartamerica.com/images-medium-large-5/lower-trenton-bridge-louis-dallara.jpg)
