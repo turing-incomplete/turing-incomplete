@@ -1,0 +1,29 @@
+---
+episode: 87
+title: Allegedly Better
+date: 2016-06-28
+tags: devops, ios, javascript
+mp3: http://episodes.turing.cool/Turing-Incomplete-87.mp3
+explicit: true
+file_size: 41343374
+seconds: 2583
+picks:
+  Len:
+    - text: 2 Dope Queens
+      url: http://www.wnyc.org/shows/dopequeens/
+  Pam:
+    - text: D3 Garden
+      url: https://www.rtfmanual.io/d3garden/
+    - text: Ladyhawke (music)
+---
+
+* [IOPipe](https://iopipe.com)
+* [Justin’s tweet](https://twitter.com/justincampbell/status/743888681644204032)
+* [AWS Lambda](https://aws.amazon.com/lambda/)
+* [Apex](http://apex.run/)
+* [Medium’s Interview Process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4#.j7p1zt1t6)
+* [Angular RC](https://angularjs.blogspot.com/)
+* [People for the Ethical Treatment of Reinforcement Learners](http://petrl.org/)
+* [Microsoft deletes 'teen girl' AI after it became a Hitler-loving sex robot within 24 hours](http://www.telegraph.co.uk/technology/2016/03/24/microsofts-teen-girl-ai-turns-into-a-hitler-loving-sex-robot-wit/)
+* [Gonçalo’s listener question](https://twitter.com/gnclmorais/status/745989654093107200)
+
