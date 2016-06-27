@@ -2,7 +2,7 @@
 episode: 87
 title: Allegedly Better
 date: 2016-06-28
-tags: devops, ios, javascript
+tags: devops, javascript, code reviews
 mp3: http://episodes.turing.cool/Turing-Incomplete-87.mp3
 explicit: true
 file_size: 41343374
@@ -16,6 +16,8 @@ picks:
       url: https://www.rtfmanual.io/d3garden/
     - text: Ladyhawke (music)
 ---
+
+"Serverless" programming, ethics of AIs, and opinions about code reviews
 
 * [IOPipe](https://iopipe.com)
 * [Justin’s tweet](https://twitter.com/justincampbell/status/743888681644204032)
