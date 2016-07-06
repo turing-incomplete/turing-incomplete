@@ -1,0 +1,16 @@
+---
+episode: 88
+title: wip
+date: 2016-07-07
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-88.mp3
+explicit: true
+file_size: 32495986
+seconds: 2030
+picks:
+  Len:
+    - text: Enki
+      url: https://www.enki.com/
+
+---
+
