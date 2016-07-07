@@ -1,0 +1,39 @@
+---
+episode: 88
+title: Web web
+date: 2016-07-07
+tags: devops, html, containers
+mp3: http://episodes.turing.cool/Turing-Incomplete-88.mp3
+explicit: true
+file_size: 32495986
+seconds: 2030
+picks:
+  Len:
+    - text: Enki
+      url: https://www.enki.com/
+  Jearvon:
+    - text: Pinboard  ($11/year)
+      url: https://pinboard.in/
+    - text: Empire of The Sun
+      url: http://empireofthesun.com/
+  Justin:
+    - text: A House is a House For Me
+      url: https://www.amazon.com/House-Me-Mary-Ann-Hoberman/dp/0142407739
+    - text: Ipecac for the Ouroboros - Paul Phillips
+      url: https://www.youtube.com/watch?v=iza4Mf2c7qU
+    - text: Shop Fox Wall Dust Collector
+      url: https://smile.amazon.com/Shop-Fox-W1826-Collector-Filtration/dp/B00AU0FZPA/
+  Pam:
+    - text: The Children's Illustrated Guide to Kubernetes
+      url: https://deis.com/blog/2016/kubernetes-illustrated-guide/
+
+---
+
+Kubernetes, web web, and containers and stuff
+
+* [Best practices for orchestrating the Cloud with Kubernetes - Google I/O 2016](https://www.youtube.com/watch?v=21hXNReWsUU)
+* [Genymotion – Fast And Easy Android Emulation](https://www.genymotion.com/)
+* [Is HTML a programming language](https://youtu.be/4A2mWqLUpzw)
+* [Drone](https://github.com/drone/drone)
+* [rkt (containers)](https://github.com/coreos/rkt)
+* [Docker without docker](https://github.com/ChimeraCoder/docker-without-docker)
