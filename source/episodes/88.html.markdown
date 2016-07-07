@@ -32,7 +32,7 @@ picks:
 Kubernetes, web web, and containers and stuff
 
 * [Best practices for orchestrating the Cloud with Kubernetes - Google I/O 2016](https://www.youtube.com/watch?v=21hXNReWsUU)
-Android emulator (Len)
+* [Genymotion – Fast And Easy Android Emulation](https://www.genymotion.com/)
 * [Is HTML a programming language](https://youtu.be/4A2mWqLUpzw)
 * [Drone](https://github.com/drone/drone)
 * [rkt (containers)](https://github.com/coreos/rkt)
