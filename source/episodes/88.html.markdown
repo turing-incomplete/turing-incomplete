@@ -2,7 +2,7 @@
 episode: 88
 title: Web web
 date: 2016-07-07
-tags: random
+tags: devops, html, containers
 mp3: http://episodes.turing.cool/Turing-Incomplete-88.mp3
 explicit: true
 file_size: 32495986
