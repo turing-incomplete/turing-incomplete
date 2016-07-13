@@ -1,0 +1,17 @@
+---
+episode: 89
+title: TDB
+date: 2016-07-14
+tags: misc
+mp3: http://episodes.turing.cool/Turing-Incomplete-89.mp3
+explicit: true
+file_size: 31095022
+seconds: 1943
+picks:
+  Len:
+    - text: TBD
+      url: https://www.enki.com/
+
+---
+
+TBD
