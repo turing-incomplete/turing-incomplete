@@ -1,17 +1,37 @@
 ---
 episode: 89
-title: TDB
+title: Tacoda
 date: 2016-07-14
-tags: misc
+tags: food, math, computer science, learning
 mp3: http://episodes.turing.cool/Turing-Incomplete-89.mp3
 explicit: true
 file_size: 31095022
 seconds: 1943
 picks:
   Len:
-    - text: TBD
-      url: https://www.enki.com/
-
+    - text:
+      url:
+  Jearvon:
+    - text: Awesome Elixir
+      url: https://github.com/h4cc/awesome-elixir
+    - text: Yuna - Crush ft. Usher
+      url: https://youtu.be/9SGHPQ2FVm8
+  Justin:
+    - text: iA Writer
+      url:  https://ia.net/writer
+    - text: Balsamiq Mockups
+      url:  https://balsamiq.com
+  Pam:
+    - text: The Languages Which Almost Were CSS
+      url: https://eager.io/blog/the-languages-which-almost-were-css/
 ---
 
-TBD
+Tacos, math, and CS books
+
+* [TacoJS](http://tacojs.rocks/)
+* [Tacoda Emoji](https://twitter.com/dshaw/status/614199840109498368)
+* [Set Proof Stuns Mathematicians - Quanta Magazine](https://www.quantamagazine.org/20160531-set-proof-stuns-mathematicians/)
+* [CS Book Club](http://www.csbookclub.com/)
+* [Introduction to Graph Theory](https://smile.amazon.com/dp/0486678709)
+* [React Native Playground](https://rnplay.org)
+* [Devise](https://github.com/plataformatec/devise)
