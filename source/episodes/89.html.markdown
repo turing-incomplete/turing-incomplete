@@ -5,8 +5,8 @@ date: 2016-07-14
 tags: food, math, computer science, learning
 mp3: http://episodes.turing.cool/Turing-Incomplete-89.mp3
 explicit: true
-file_size: 31095022
-seconds: 1943
+file_size: 28515407
+seconds: 1782
 picks:
   Len:
     - text: Continuous IDE (iPad app)
