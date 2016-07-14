@@ -9,8 +9,8 @@ file_size: 31095022
 seconds: 1943
 picks:
   Len:
-    - text:
-      url:
+    - text: Continuous IDE (iPad app)
+      url: https://itunes.apple.com/us/app/continuous-.net-c-and-f-ide/id1095213378?mt=8
   Jearvon:
     - text: Awesome Elixir
       url: https://github.com/h4cc/awesome-elixir
