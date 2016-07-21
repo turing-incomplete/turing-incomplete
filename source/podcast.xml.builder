@@ -19,6 +19,9 @@ xml.rss(
       xml.url cover_art_url(:medium)
     end
 
+    xml.googleplay :author, podcast_name
+    xml.googleplay :email, podcast_email
+
     xml.itunes :author, podcast_name
     xml.itunes :email, podcast_email
     xml.itunes :explicit, "no"
