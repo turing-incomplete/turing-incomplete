@@ -1,0 +1,35 @@
+---
+episode: 90
+title: Push the Record Button
+date: 2016-08-03
+tags: conferences, philly, security
+mp3: http://episodes.turing.cool/Turing-Incomplete-90.mp3
+explicit: false
+file_size: 44016321
+seconds: 2750
+picks:
+  Jearvon:
+    - text: terraform-mode.el
+      url: https://github.com/syohex/emacs-terraform-mode
+    - text: Go Off - M.I.A.
+      url: https://itun.es/us/PYXwdb?i=1130044696
+  Justin:
+    - text: One Night Ultimate Werewolf
+      url: https://smile.amazon.com/gp/product/B00HS7GG5G
+  Pam:
+    - text: Sooo Many White Guys (podcast)
+      url: https://www.wnyc.org/shows/whiteguys
+---
+
+The DNC, closed penitentiaries, tech salaries, and John McAfee.
+
+* [Soundflower](https://github.com/mattingalls/Soundflower)
+* [#DNCLeaks](https://en.wikipedia.org/wiki/2016_Democratic_National_Committee_email_leak)
+* [HOPE](https://hope.net)
+* [Nootropics](https://en.wikipedia.org/wiki/Nootropic)
+* [John McAfee](https://usesthis.com/interviews/john.mcafee/)
+* [Eastern State Penitentiary](http://www.easternstate.org)
+* [The Stack Overflow Salary Calculator](http://stackoverflow.com/company/salary/calculator)
+* [@erowidrecruiter](https://twitter.com/erowidrecruiter)
+* [Recompiler Magazine](https://recompilermag.com)
+* [Panopticon](https://en.wikipedia.org/wiki/Panopticon)
