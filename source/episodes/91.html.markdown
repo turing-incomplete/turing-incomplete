@@ -1,0 +1,52 @@
+---
+episode: 91
+title: Paul Fenwick
+date: 2016-08-05
+tags: community, guest, security
+mp3: http://episodes.turing.cool/Turing-Incomplete-91.mp3
+explicit: false
+file_size: 48511054
+seconds: 3031
+picks:
+  Paul Fenwick:
+    - text: cool-retro-term
+      url: https://github.com/Swordfish90/cool-retro-term
+    - text: Pop Up Playground
+      url: http://popupplayground.com.au
+    - text: Wanderers (2014)
+      url: http://www.imdb.com/title/tt4075578/
+    - text: Uncanny Valley (2015)
+      url: http://www.imdb.com/title/tt4881404/
+  Jearvon:
+    - text: Jidenna - Little Bit More
+      url: https://www.youtube.com/watch?v=BzxjbS19MP0
+    - text: restclient.el
+      url: https://github.com/pashky/restclient.el
+  Justin:
+    - text: Paperless Post
+      url: https://www.paperlesspost.com
+  Pam:
+    - text: WTF is Operations?
+      url: https://charity.wtf/2016/05/31/wtf-is-operations-serverless/
+---
+
+[Paul Fenwick](http://pjf.id.au/) joins us to chat about robots, Jeep hacks, and the future.
+
+* [@pjf](https://twitter.com/pjf)
+* [Recurse Center](https://www.recurse.com)
+* [Kerbal Space Program](https://kerbalspaceprogram.com/en/)
+* [Tagtime](http://tagti.me)
+* [SimpleRockets](http://jundroo.com/app/simplerockets/)
+* [Jeep Hacks](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/)
+* [CV Dazzle: Camouflage from face detection](https://cvdazzle.com)
+* [@startorialist](https://twitter.com/startorialist)
+* [Science Foo](https://en.wikipedia.org/wiki/Science_Foo_Camp)
+* [Boston Dynamics Dog](https://www.youtube.com/watch?v=M8YjvHYbZ9w)
+* [Seal robots](http://www.parorobots.com)
+* [Zenbo](https://zenbo.asus.com)
+* [Deanna Hood](https://github.com/dhood/)
+* [Teensy](https://www.pjrc.com/teensy/)
+* [Retrofuturism](https://en.wikipedia.org/wiki/Retrofuturism)
+* [Local Motors](https://cocreate.localmotors.com/blog/)
+* [Escape Velocity](http://escapevelocity.events)
+* [Patreon](https://www.patreon.com)
