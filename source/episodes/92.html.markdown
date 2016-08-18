@@ -1,0 +1,30 @@
+---
+episode: 92
+title: TODO
+tweet_title: TODO
+tweet_text: Bagels, keeping talks relevant, and Pam drinks caffeine
+date: 2016-08-19
+tags: conferences, speaking
+mp3: http://episodes.turing.cool/Turing-Incomplete-92.mp3
+explicit: false
+file_size: ----
+seconds: ---
+picks:
+  Jearvon:
+    - text: Adafruit
+      url: https://www.adafruit.com/
+    - text: Blackmarket
+      url: https://www.viceland.com/en_us/show/black-market-with-michael-k-williams
+  Pam:
+    - text: Lambda Shell
+      url: https://github.com/iopipe/lambda-shell
+---
+
+Bagels, keeping talks relevant, and Pam drinks caffeine
+
+* [MidwestJS](http://midwestjs.com/)
+* [remark](http://remarkjs.com/#1)
+* [Deckset](http://www.decksetapp.com/)
+* [Montreal bagels](https://en.wikipedia.org/wiki/Montreal-style_bagel)
+* [AWS Lambda](https://aws.amazon.com/lambda/)
+* [Buffer](https://buffer.com/)
