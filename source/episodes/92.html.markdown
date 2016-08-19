@@ -25,6 +25,7 @@ Bagels, keeping talks relevant, and Pam drinks caffeine
 * [MidwestJS](http://midwestjs.com/)
 * [remark](http://remarkjs.com/#1)
 * [Deckset](http://www.decksetapp.com/)
+* [create-react-app](https://github.com/facebookincubator/create-react-app)
 * [Montreal bagels](https://en.wikipedia.org/wiki/Montreal-style_bagel)
 * [AWS Lambda](https://aws.amazon.com/lambda/)
 * [Buffer](https://buffer.com/)
