@@ -1,7 +1,7 @@
 ---
 episode: 92
-title: Episode 92
-tweet_title: ???????
+title: Creating React Apps
+tweet_title: Creating React Apps
 tweet_text: Bagels, keeping talks relevant, and Pam drinks caffeine
 date: 2016-08-25
 tags: random
