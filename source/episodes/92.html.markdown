@@ -4,7 +4,7 @@ title: Creating React Apps
 tweet_title: Creating React Apps
 tweet_text: Bagels, keeping talks relevant, and Pam drinks caffeine
 date: 2016-08-25
-tags: random
+tags: conferences, random
 mp3: http://episodes.turing.cool/Turing-Incomplete-92.mp3
 explicit: false
 file_size: 34373519
