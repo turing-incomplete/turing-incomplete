@@ -1,14 +1,14 @@
 ---
 episode: 92
-title: TODO
-tweet_title: TODO
+title: ???????
+tweet_title: ???????
 tweet_text: Bagels, keeping talks relevant, and Pam drinks caffeine
-date: 2016-08-19
-tags: conferences, speaking
+date: 2016-08-24
+tags: ?????
 mp3: http://episodes.turing.cool/Turing-Incomplete-92.mp3
 explicit: false
-file_size: ----
-seconds: ---
+file_size: 34373519
+seconds: 2148
 picks:
   Jearvon:
     - text: Adafruit
@@ -18,14 +18,21 @@ picks:
   Pam:
     - text: Lambda Shell
       url: https://github.com/iopipe/lambda-shell
+  Len:
+    - text: Mimo
+      url: http://getmimo.com
 ---
 
 Bagels, keeping talks relevant, and Pam drinks caffeine
 
-* [MidwestJS](http://midwestjs.com/)
+* [Midwest JS](http://midwestjs.com/)
+* [Thomas Fuchs on Twitter: "Marc was almost ready to implement his "hello world" React app](https://twitter.com/thomasfuchs/status/708675139253174273)
+* [2016/bootstrapping-react-applications](https://github.com/midwestjs/2016/tree/master/bootstrapping-react-applications)
+* [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
+* [create-react-app](https://github.com/facebookincubator/create-react-app)
+* [este/este: Starter kit for full–fledged React apps. One stack for browser, mobile, server.](https://github.com/este/este)
 * [remark](http://remarkjs.com/#1)
 * [Deckset](http://www.decksetapp.com/)
-* [create-react-app](https://github.com/facebookincubator/create-react-app)
 * [Montreal bagels](https://en.wikipedia.org/wiki/Montreal-style_bagel)
 * [AWS Lambda](https://aws.amazon.com/lambda/)
 * [Buffer](https://buffer.com/)
