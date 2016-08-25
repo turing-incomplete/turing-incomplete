@@ -1,0 +1,38 @@
+---
+episode: 92
+title: Creating React Apps
+tweet_title: Creating React Apps
+tweet_text: Bagels, keeping talks relevant, and Pam drinks caffeine
+date: 2016-08-25
+tags: conferences, random
+mp3: http://episodes.turing.cool/Turing-Incomplete-92.mp3
+explicit: false
+file_size: 27178351
+seconds: 1698
+picks:
+  Jearvon:
+    - text: Adafruit
+      url: https://www.adafruit.com/
+    - text: Blackmarket
+      url: https://www.viceland.com/en_us/show/black-market-with-michael-k-williams
+  Pam:
+    - text: Lambda Shell
+      url: https://github.com/iopipe/lambda-shell
+  Len:
+    - text: Mimo
+      url: http://getmimo.com
+---
+
+Bagels, keeping talks relevant, and Pam drinks caffeine
+
+* [Midwest JS](http://midwestjs.com/)
+* [Thomas Fuchs on Twitter: "Marc was almost ready to implement his "hello world" React app](https://twitter.com/thomasfuchs/status/708675139253174273)
+* [2016/bootstrapping-react-applications](https://github.com/midwestjs/2016/tree/master/bootstrapping-react-applications)
+* [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
+* [create-react-app](https://github.com/facebookincubator/create-react-app)
+* [este/este: Starter kit for full–fledged React apps. One stack for browser, mobile, server.](https://github.com/este/este)
+* [remark](http://remarkjs.com/#1)
+* [Deckset](http://www.decksetapp.com/)
+* [Montreal bagels](https://en.wikipedia.org/wiki/Montreal-style_bagel)
+* [AWS Lambda](https://aws.amazon.com/lambda/)
+* [Buffer](https://buffer.com/)
