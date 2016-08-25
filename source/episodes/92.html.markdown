@@ -7,8 +7,8 @@ date: 2016-08-25
 tags: conferences, random
 mp3: http://episodes.turing.cool/Turing-Incomplete-92.mp3
 explicit: false
-file_size: 34373519
-seconds: 2148
+file_size: 27178351
+seconds: 1698
 picks:
   Jearvon:
     - text: Adafruit
