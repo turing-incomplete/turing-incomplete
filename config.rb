@@ -64,6 +64,10 @@ helpers do
     "https://github.com/turing-incomplete/turing-incomplete"
   end
 
+  def google_play_url
+    "https://play.google.com/music/m/Ibai3cxtwev5k6evvk35mrwf2ry?t=Turing-Incomplete"
+  end
+
   def itunes_url
     "https://itunes.apple.com/us/podcast/turing-incomplete/id886675939"
   end
