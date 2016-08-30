@@ -1,0 +1,26 @@
+---
+episode: 93
+title: Put the melodica away
+tweet_title: Put the melodica away
+tweet_text: Clever description here
+date: 2016-08-31
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-93.mp3
+explicit: false
+file_size: ??
+seconds: ??
+picks:
+  Justin:
+    - text: Pizza Book
+      url: http://make.pizza
+  Pam:
+    - text: Turing IncomTWEET
+      url: https://github.com/turing-incomplete/turing-incomtweet
+---
+
+Clever description here
+
+* [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult)
+* [Open Pomodoro](https://github.com/open-pomodoro)
+* [Melodica](https://en.wikipedia.org/wiki/Melodica)
+* [Pancheros](http://pancheros.com/locations)
