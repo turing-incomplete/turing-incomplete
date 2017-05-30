@@ -69,7 +69,7 @@ class EpisodeCreator
     set_value episode, "tags", "?????"
     set_value episode, "file_size", mp3details.file_size
     set_value episode, "seconds", mp3details.audio_length
-    episode.gsub!(Regexp.new("-#{mp3details.episode_number-1}\\.mp3$"), "-#{mp3details.episode_number}\mp3")
+    episode.gsub!(Regexp.new("-#{mp3details.episode_number-1}\\.mp3$"), "-#{mp3details.episode_number}\.mp3")
 
     File.open(current_file_name, "wb") { |f| f.write(episode) }
   end
