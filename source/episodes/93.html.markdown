@@ -7,8 +7,8 @@ date: 2017-05-30
 tags: conferences, editors
 mp3: http://episodes.turing.cool/Turing-Incomplete-93.mp3
 explicit: false
-file_size: 49262093
-seconds: 3078
+file_size: 47257979
+seconds: 2953
 picks:
 ---
 
@@ -16,5 +16,6 @@ After many months, we're back with Season 2.
 
 * [qconn](http://www.qnx.com/developers/docs/6.4.1/neutrino/utilities/q/qconn.html)
 * [!!Con 2017](http://bangbangcon.com/)
+* [😎](http://imcool.online/)
 * [Spacemacs](http://spacemacs.org/)
 * [Neovim](https://neovim.io/)
