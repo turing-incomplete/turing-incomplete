@@ -5,7 +5,7 @@ tweet_title: S2E1
 tweet_text: Back from Hiatus
 date: 2017-05-30
 tags: conferences, editors
-mp3: http://episodes.turing.cool/Turing-Incomplete-93mp3
+mp3: http://episodes.turing.cool/Turing-Incomplete-93.mp3
 explicit: false
 file_size: 49262093
 seconds: 3078
