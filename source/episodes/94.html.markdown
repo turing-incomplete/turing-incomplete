@@ -1,0 +1,20 @@
+---
+episode: 94
+title: Interviewing
+tweet_title: S2E02
+tweet_text: Interviewing
+date: 2017-06-12
+tags: jobs
+mp3: http://episodes.turing.cool/Turing-Incomplete-94.mp3
+explicit: false
+file_size: 38907550
+seconds: 2431
+picks:
+---
+
+We discuss tips and pitfalls of job interviewing and getting a job as a developer.
+
+* [Books - Pam The Webivore](http://thewebivore.com/book/)
+* [What Color Is Your Parachute?](https://smile.amazon.com/What-Color-Your-Parachute-2014/dp/1607743620)
+* [How to: Work at Google — Example Coding/Engineering Interview](https://www.youtube.com/watch?v=XKu_SEDAykw)
+* [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
