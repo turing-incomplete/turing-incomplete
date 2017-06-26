@@ -1,0 +1,25 @@
+---
+episode: 95
+title: Conferences
+tweet_title: Conferences
+tweet_text: We discuss various conference tips and tricks.
+date: 2017-06-26
+tags: conferences
+mp3: http://episodes.turing.cool/Turing-Incomplete-95.mp3
+explicit: false
+file_size: 30011279
+seconds: 1875
+picks:
+---
+
+We discuss various conference tips and tricks.
+
+* [Strange Loop](https://www.thestrangeloop.com/)
+* [AWS re:Invent 2017](https://reinvent.awsevents.com/)
+* [Google I/O 2017](https://events.google.com/io/)
+* [Philly Emerging Tech 2017](http://2017.phillyemergingtech.com/)
+* [HashiConf](https://www.hashiconf.com/)
+* [Welcome to Hackers On Planet Earth!](https://hope.net/)
+* [Overcast](https://overcast.fm/podcasts)
+* [Jobs - HashiCorp](https://www.hashicorp.com/jobs/)
+* [Terraform](https://www.terraform.io/)
