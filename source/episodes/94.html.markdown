@@ -2,7 +2,7 @@
 episode: 94
 title: Interviewing
 tweet_title: S2E02
-tweet_text: Interviewing
+tweet_text: We discuss tips and pitfalls of interviewing.
 date: 2017-06-12
 tags: jobs
 mp3: http://episodes.turing.cool/Turing-Incomplete-94.mp3
