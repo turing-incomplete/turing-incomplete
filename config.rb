@@ -32,6 +32,26 @@ activate :google_analytics do |ga|
 end
 
 helpers do
+  def page_title
+    return podcast_name unless current_page.data.title
+
+    "#{podcast_name} ##{current_page.data.episode}: #{current_page.data.title}"
+  end
+
+  def page_description
+    return podcast_description unless current_page.data.tweet_text
+
+    current_page.data.tweet_text
+  end
+
+  def fb_image
+    url '/banner.png'
+  end
+
+  def twitter_image
+    url '/twitter-card.jpg'
+  end
+
   def cover_art_path(size = :medium)
     {
       small: "/cover-art-128.png",

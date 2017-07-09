@@ -8,9 +8,14 @@ html
     meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"
     meta name="viewport" content="width=device-width"
 
-    meta property="og:title" content=podcast_name
-    meta property="og:description" content=podcast_description
-    meta property="og:image" content=cover_art_url(:medium)
+    meta property="og:title" content=page_title
+    meta property="og:description" content=page_description
+    meta property="og:image" content=fb_image
+    meta name="twitter:card" content="summary"
+    meta name="twitter:site" content="@turingcool"
+    meta name="twitter:title" content=page_title
+    meta name="twitter:description" content=page_description
+    meta name="twitter:image" content=twitter_image
 
     title = title
     = stylesheet_link_tag :all
