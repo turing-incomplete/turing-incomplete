@@ -2,7 +2,7 @@
 episode: 66
 title: Chiu-Ki Chan and Cate Huston from Technically Speaking
 date: 2015-10-02
-tags: guests
+tags: guest
 mp3: http://episodes.turing.cool/Turing-Incomplete-66.mp3
 explicit: false
 file_size: 27113983
