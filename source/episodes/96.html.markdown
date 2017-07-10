@@ -1,0 +1,26 @@
+---
+episode: 96
+title: Brian Douglas on JAMstack
+tweet_title: JAMStack with Brian Douglas
+tweet_text: We talk with @bdougieYO about JAMStack and getting started in the industry.
+date: 2017-07-10
+tags: guest
+mp3: http://episodes.turing.cool/Turing-Incomplete-96.mp3
+explicit: false
+file_size: 42873137
+seconds: 2679
+picks:
+---
+
+We talk with Brian Douglas about JAMStack and getting started in the industry.
+
+* [Brian Douglas (@bdougieYO)](https://twitter.com/bdougieYO)
+* [Netlify: All-in-one platform for automating modern web projects](https://www.netlify.com/)
+* [This Developing Story](https://developingstory.netlify.com/)
+* [JAMstack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/)
+* [Single Sign On & Token Based Authentication - Auth0](https://auth0.com/)
+* [Algolia](https://www.algolia.com/)
+* [JAMstack](https://jamstack.org/)
+* [Surge](https://surge.sh/)
+* [This Developing Journey](https://briandouglas.me/)
+* [bdougie (Brian Douglas) on Github](https://github.com/bdougie/)

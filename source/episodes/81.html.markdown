@@ -2,7 +2,7 @@
 episode: 81
 title: Joel Burget
 date: 2016-05-05
-tags: guests
+tags: guest
 mp3: http://episodes.turing.cool/Turing-Incomplete-81.mp3
 explicit: false
 file_size: 39266910
