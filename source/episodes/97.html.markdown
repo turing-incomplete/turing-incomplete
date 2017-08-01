@@ -1,0 +1,22 @@
+---
+episode: 97
+title: Minisode
+tweet_title: Minisode
+tweet_text: Pam and Justin record a "minisode", which ends up being not mini.
+date: 2017-08-03
+tags: javascript, productivity, react, ruby, testing
+mp3: http://episodes.turing.cool/Turing-Incomplete-97.mp3
+explicit: false
+file_size: 34853830
+seconds: 2178
+picks:
+---
+
+Pam and Justin record a "minisode", which ends up being not all that mini.
+
+* [All 4 Paws](https://www.all4pawsrescue.com)
+* [Stripe API Docs](https://stripe.com/docs/api)
+* [Wildbit Blog: Reducing hours by focusing on your job](https://wildbit.com/blog/2017/06/05/reducing-hours-by-focusing-your-job)
+* [The Phoenix Project](https://smile.amazon.com/dp/B00AZRBLHO)
+* [Managing Humans](https://smile.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
+
