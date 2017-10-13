@@ -1,0 +1,16 @@
+---
+episode: 98
+title: MINISODE 2
+tweet_title: MINISODE 2
+tweet_text: Len and Jearvon record a "minisode"
+date: 2017-10-14
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-98.mp3
+explicit: false
+file_size: 24646355
+seconds: 1540
+picks:
+---
+
+* [Comcast Labs – Software As Craft Conference 2017](https://techevents.comcast.com/software/)
+* [Kubernetes - Production-Grade Container Orchestration](https://kubernetes.io/)
