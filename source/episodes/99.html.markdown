@@ -1,0 +1,20 @@
+---
+episode: 99
+title: It's a slippery slope
+tweet_title: It's a slippery slope
+tweet_text: Computers, Conferences and VR
+date: 2017-10-20
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-99.mp3
+explicit: false
+file_size: 38986952
+seconds: 2436
+picks:
+---
+
+* [Linux Mint](https://linuxmint.com/)
+* [BarCamp Philly 2017](https://2017.barcampphilly.org/)
+* ["Program synthesis for declarative building design" by Drew Wolpert, Andrew Zukoski](https://www.youtube.com/watch?v=yJW--wNMv1M)
+* [Strange Loop 2017 in Review](https://thewebivore.com/strange-loop-2017-in-review-day-1/)
+* [LibertyJS](https://libertyjs.com/)
+* [Brian Barone on Twitter: "https://t.co/N4G8tgckQw"](https://twitter.com/brianrbarone/status/912788388150960130)
