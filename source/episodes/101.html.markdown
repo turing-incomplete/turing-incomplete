@@ -1,0 +1,21 @@
+---
+episode: 101
+title: A computer that can tell the difference between a dog and a cat
+tweet_title: A computer that can tell the difference between a dog and a cat
+tweet_text: Deep learning, code reviews, and retrospectives
+date: 2017-11-13
+tags: deep learning, code review, retrospective
+mp3: http://episodes.turing.cool/Turing-Incomplete-101.mp3
+explicit: false
+file_size: 27900249
+seconds: 2750
+picks:
+---
+
+* [fast.ai](http://www.fast.ai/)
+* [Objects that fool neural nets](http://www.labsix.org/physical-objects-that-fool-neural-nets/)
+* [ACM (Association of Computing Machinery)](http://www.acm.org/)
+* [Research Gate](https://www.researchgate.net/)
+* [Lawsuits over Researchgate](http://inspiredthinking.dehns.com/post/102eiax/researchgate-the-ongoing-debate-about-the-liability-of-website-operators-for-co)
+* [Smartbear best practice code review tips](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
+*
