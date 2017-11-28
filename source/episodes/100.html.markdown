@@ -1,0 +1,14 @@
+---
+episode: 100
+title: Episode 100
+tweet_title: Episode 100
+tweet_text: Contact Apps and Conferences
+date: 2017-11-28
+tags: random
+mp3: http://episodes.turing.cool/Turing-Incomplete-100.mp3
+explicit: false
+file_size: 40963483
+seconds: 2560
+picks:
+---
+
